@@ -1,1 +1,5 @@
+wordnet
 punkt
+stopwords
+word_tokenize
+snowball
