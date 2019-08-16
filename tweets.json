@@ -1,6 +1,191 @@
 {
   "data": [
     {
+      "id": 1162356299763466241,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "A third suspicious device has been found in downtown New York, law enforcement sources say. The discovery comes shortly after two rice cookers found near a subway complex were deemed safe. https://t.co/qs7EhsUWs6 https://t.co/XYyQPf022g",
+      "length": 236,
+      "likes": 177,
+      "retweet": 164,
+      "keywords": {
+        "noun": [
+          "device",
+          "new",
+          "york",
+          "law",
+          "enforcement",
+          "source",
+          "discovery",
+          "two",
+          "rice",
+          "cooker",
+          "near",
+          "subway",
+          "complex"
+        ],
+        "verb": [
+          "find",
+          "say",
+          "come",
+          "find",
+          "deem"
+        ],
+        "adj": [
+          "third",
+          "suspicious",
+          "downtown",
+          "safe"
+        ],
+        "adv": [
+          "shortly"
+        ]
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162343074443538438,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Two suspicious packages found around a downtown New York subway station have been deemed safe, NYPD says https://t.co/qs7EhsUWs6 https://t.co/WpStXB8dLC",
+      "length": 152,
+      "likes": 218,
+      "retweet": 87,
+      "keywords": {
+        "noun": [
+          "two",
+          "package",
+          "around",
+          "new",
+          "york",
+          "subway",
+          "station",
+          "nypd"
+        ],
+        "verb": [
+          "find",
+          "deem",
+          "say"
+        ],
+        "adj": [
+          "suspicious",
+          "downtown",
+          "safe"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162337754040217603,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Bomb squad officers are responding to two suspicious packages found in downtown New York City. Subway trains are bypassing the area. https://t.co/qs7EhsUWs6 https://t.co/axN6xP3T6t",
+      "length": 180,
+      "likes": 273,
+      "retweet": 252,
+      "keywords": {
+        "noun": [
+          "bomb",
+          "squad",
+          "officer",
+          "two",
+          "package",
+          "new",
+          "york",
+          "city",
+          "subway",
+          "train",
+          "area"
+        ],
+        "verb": [
+          "respond",
+          "find",
+          "bypass"
+        ],
+        "adj": [
+          "suspicious",
+          "downtown"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162332020678242304,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNPolitics: Greenland government to President Trump: \u201cGreenland is not for sale\u201d https://t.co/Z9Hpqu0ot8 https://t.co/u4EYXE53pY",
+      "length": 133,
+      "likes": 0,
+      "retweet": 277,
+      "keywords": {
+        "noun": [
+          "cnnpolitics",
+          "government",
+          "president",
+          "trump",
+          "\u201c",
+          "greenland",
+          "sale",
+          "\u201d"
+        ],
+        "verb": [
+          "greenland"
+        ],
+        "adj": [
+          "rt"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162308221752762368,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Democratic Congresswoman Rashida Tlaib is granted entry into Israel on humanitarian grounds to visit family one day after being denied for supporting boycott https://t.co/qmLDQI37b9 https://t.co/ZHCaRbZews",
+      "length": 205,
+      "likes": 657,
+      "retweet": 165,
+      "keywords": {
+        "noun": [
+          "congresswoman",
+          "rashida",
+          "tlaib",
+          "entry",
+          "israel",
+          "ground",
+          "family",
+          "one",
+          "day",
+          "boycott"
+        ],
+        "verb": [
+          "grant",
+          "visit",
+          "deny",
+          "support"
+        ],
+        "adj": [
+          "democratic",
+          "humanitarian"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
       "id": 1162174491608408065,
       "name": "CNN Breaking News",
       "screen_name": "cnnbrk",
@@ -8,7 +193,7 @@
       "text": "RT @CNNPolitics: President Trump has asked aides if it's possible to buy Greenland, sources say https://t.co/iBPrZXC1A0 https://t.co/qBfCdz\u2026",
       "length": 140,
       "likes": 0,
-      "retweet": 182,
+      "retweet": 194,
       "keywords": {
         "noun": [
           "cnnpolitics",
@@ -39,8 +224,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "North Korea says it has \"no wish to sit with South Korean officials again,\" state news agency KCNA reports. The report comes the same day North Korea launched two more unidentified projectiles. \nhttps://t.co/qhCIEYXdXz https://t.co/IHcnDAnxmF",
       "length": 242,
-      "likes": 328,
-      "retweet": 229,
+      "likes": 367,
+      "retweet": 249,
       "keywords": {
         "noun": [
           "north",
@@ -82,8 +267,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Famed NASCAR driver and auto racing analyst Dale Earnhardt Jr. and his wife survived a plane crash in eastern Tennessee https://t.co/nWM7cyK02G https://t.co/M0qd081wkB",
       "length": 167,
-      "likes": 906,
-      "retweet": 221,
+      "likes": 963,
+      "retweet": 230,
       "keywords": {
         "noun": [
           "famed",
@@ -118,8 +303,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "The man who opened fire on a crowded bar district in Dayton, Ohio, had cocaine, Xanax and alcohol in system, the county coroner said\nhttps://t.co/NFDtdjg7pT https://t.co/adR6Hx3jnq",
       "length": 180,
-      "likes": 297,
-      "retweet": 170,
+      "likes": 310,
+      "retweet": 173,
       "keywords": {
         "noun": [
           "man",
@@ -154,8 +339,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "The \"Hollywood Ripper\" is found guilty of murdering two women after a trial that saw scores of witnesses, including Ashton Kutcher, take the stand https://t.co/AIZX9axQYz https://t.co/L5sSIjTjgd",
       "length": 194,
-      "likes": 1194,
-      "retweet": 361,
+      "likes": 1332,
+      "retweet": 393,
       "keywords": {
         "noun": [
           "hollywood",
@@ -192,7 +377,7 @@
       "text": "RT @CNNPolitics: JUST IN: House Judiciary Committee subpoenas former Trump campaign manager Corey Lewandowski and a former White House offi\u2026",
       "length": 140,
       "likes": 0,
-      "retweet": 340,
+      "retweet": 349,
       "keywords": {
         "noun": [
           "cnnpolitics",
@@ -229,7 +414,7 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Former Colorado Gov. John Hickenlooper ends his bid for the 2020 Democratic presidential nomination https://t.co/GW7tUNpFxq https://t.co/NYsGXsJt8p",
       "length": 147,
-      "likes": 506,
+      "likes": 512,
       "retweet": 77,
       "keywords": {
         "noun": [
@@ -261,8 +446,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Democratic Reps. Omar and Tlaib are blocked from entering Israel shortly after President Trump said it would show \"great weakness\" to let them visit https://t.co/aiXUQe3R3P https://t.co/3RW1hudJr6",
       "length": 196,
-      "likes": 835,
-      "retweet": 324,
+      "likes": 848,
+      "retweet": 325,
       "keywords": {
         "noun": [
           "rep",
@@ -300,8 +485,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "A court in the British territory of Gibraltar approves the immediate release of an Iranian oil tanker, despite a US effort to block it https://t.co/zJ2YjExXnI https://t.co/0kRwjg4lJm",
       "length": 182,
-      "likes": 341,
-      "retweet": 124,
+      "likes": 347,
+      "retweet": 125,
       "keywords": {
         "noun": [
           "court",
@@ -336,7 +521,7 @@
       "text": "RT @CNNBusiness: US stocks rose slightly after Walmart reported strong earnings and a brighter forecast and China said it remained hopeful\u2026",
       "length": 139,
       "likes": 0,
-      "retweet": 52,
+      "retweet": 53,
       "keywords": {
         "noun": [
           "rt",
@@ -374,8 +559,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "A man was stabbed outside the offices of Britain's interior ministry in London, police say. Authorities say the incident is not believed to be terrorism-related.\nhttps://t.co/o09x49RxKO https://t.co/wA75S8FJe1",
       "length": 209,
-      "likes": 162,
-      "retweet": 76,
+      "likes": 164,
+      "retweet": 77,
       "keywords": {
         "noun": [
           "man",
@@ -410,7 +595,7 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "The suspect who wounded six Philadelphia police officers in a hours-long standoff has been identified as Maurice Hill, the city's police commissioner says\nhttps://t.co/0TetpwZxU1 https://t.co/Q5n2HsTs96",
       "length": 202,
-      "likes": 207,
+      "likes": 209,
       "retweet": 104,
       "keywords": {
         "noun": [
@@ -446,8 +631,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Dow futures swing wildly after China threatens yet another escalation in its trade war with the United States and Walmart reports strong earnings and a brighter forecast\nhttps://t.co/Uog6RWDj52 https://t.co/XFadBt9KsF",
       "length": 217,
-      "likes": 175,
-      "retweet": 69,
+      "likes": 177,
+      "retweet": 70,
       "keywords": {
         "noun": [
           "dow",
@@ -487,7 +672,7 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "The US Department of Justice has made a last-minute application to block the release of the Iranian oil tanker Grace 1, which was seized by authorities in Gibraltar last month, a spokesman for the Gibraltar attorney general says https://t.co/uWCGh6d4FC",
       "length": 252,
-      "likes": 221,
+      "likes": 222,
       "retweet": 83,
       "keywords": {
         "noun": [
@@ -531,8 +716,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "A Russian passenger jet flew into a flock of birds then crash-landed in a cornfield just outside a Moscow airport, according to Russian state news agency TASS https://t.co/jKRkgOGUQu",
       "length": 182,
-      "likes": 396,
-      "retweet": 166,
+      "likes": 403,
+      "retweet": 167,
       "keywords": {
         "noun": [
           "passenger",
@@ -569,7 +754,7 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "A suspect has been arrested after he barricaded himself for hours in a North Philadelphia home in a shooting standoff that left six officers wounded, police say https://t.co/odCTC4HqPr",
       "length": 184,
-      "likes": 675,
+      "likes": 679,
       "retweet": 235,
       "keywords": {
         "noun": [
@@ -604,7 +789,7 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Former Colorado Gov. John Hickenlooper plans to end his bid for the Democratic presidential nomination on Thursday, sources say https://t.co/GW7tUNpFxq https://t.co/K639dzOiQx",
       "length": 175,
-      "likes": 907,
+      "likes": 909,
       "retweet": 134,
       "keywords": {
         "noun": [
@@ -672,8 +857,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Eight inmates were hospitalized after a riot at a Northern California prison, corrections officials say https://t.co/AwSEwsflbz https://t.co/PfZNBTAloS",
       "length": 151,
-      "likes": 143,
-      "retweet": 71,
+      "likes": 144,
+      "retweet": 72,
       "keywords": {
         "noun": [
           "eight",
@@ -702,8 +887,8 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Two officers remain trapped inside the house where a shootout erupted this afternoon in Philadelphia, Philadelphia Police Commissioner Richard Ross tells the Philadelphia Inquirer. Follow live updates: https://t.co/YnMjCmZWGR https://t.co/paFTNG9P9U",
       "length": 249,
-      "likes": 900,
-      "retweet": 665,
+      "likes": 901,
+      "retweet": 666,
       "keywords": {
         "noun": [
           "two",
@@ -813,7 +998,7 @@
       "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
       "text": "Philadelphia police are responding to a shooting in the city https://t.co/odCTC4HqPr https://t.co/wdDFBdzPcr",
       "length": 108,
-      "likes": 471,
+      "likes": 472,
       "retweet": 419,
       "keywords": {
         "noun": [
@@ -873,7 +1058,7 @@
       "text": "RT @CNNBusiness: The Dow has fallen 700 points after the bond market, for the first time in over a decade, flashed a warning signal that ha\u2026",
       "length": 140,
       "likes": 0,
-      "retweet": 236,
+      "retweet": 235,
       "keywords": {
         "noun": [
           "rt",
@@ -939,7 +1124,7 @@
       "text": "RT @CNNPolitics: Republican senator to introduce bill next month making domestic terrorism a punishable federal crime https://t.co/l8yv5J3W\u2026",
       "length": 140,
       "likes": 0,
-      "retweet": 141,
+      "retweet": 142,
       "keywords": {
         "noun": [
           "cnnpolitics",
@@ -1193,14 +1378,46 @@
       "date": "08-14-2019"
     },
     {
+      "id": 1162301831525146624,
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "text": "Police officer killed while attending reported burglary in Berkshire, with 10 arrested on suspicion of his murder https://t.co/QCJWb2BlRG",
+      "length": 137,
+      "likes": 749,
+      "retweet": 485,
+      "keywords": {
+        "noun": [
+          "police",
+          "officer",
+          "berkshire",
+          "10",
+          "suspicion",
+          "murder"
+        ],
+        "verb": [
+          "kill",
+          "attend",
+          "report",
+          "arrest"
+        ],
+        "adj": [
+          "burglary"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
       "id": 1162022689630015495,
       "name": "BBC Breaking News",
       "screen_name": "BBCBreaking",
       "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
       "text": "Israel bars two US members of Congress and Israel critics Rashida Tlaib and Ilhan Omar, deputy foreign minister says https://t.co/jQljOqKw48",
       "length": 140,
-      "likes": 1186,
-      "retweet": 430,
+      "likes": 1223,
+      "retweet": 440,
       "keywords": {
         "noun": [
           "israel",
@@ -1236,8 +1453,8 @@
       "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
       "text": "Gibraltar drops legal proceedings against the crew of an Iranian supertanker detained since 4 July https://t.co/3JLonSwD5O",
       "length": 122,
-      "likes": 465,
-      "retweet": 183,
+      "likes": 468,
+      "retweet": 186,
       "keywords": {
         "noun": [
           "gibraltar",
@@ -1268,8 +1485,8 @@
       "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
       "text": "Post-mortem results show 'no suspicion of foul play' in death of teenager Nora Quoirin - Malaysian police https://t.co/KythIgt9JH",
       "length": 129,
-      "likes": 574,
-      "retweet": 206,
+      "likes": 579,
+      "retweet": 207,
       "keywords": {
         "noun": [
           "result",
@@ -1302,7 +1519,7 @@
       "text": "RT @BBCSport: Liverpool add to their Champions League triumph by winning the #SuperCup on penalties.\n\nReaction \ud83d\udc49 https://t.co/OpkPQNpuVp #b\u2026",
       "length": 140,
       "likes": 0,
-      "retweet": 270,
+      "retweet": 271,
       "keywords": {
         "noun": [
           "rt",
@@ -1335,7 +1552,7 @@
       "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
       "text": "Footballer Emiliano Sala, who died in a plane crash over the English Channel, had been exposed to high levels of carbon monoxide\n\nhttps://t.co/MoTz8ey0fc",
       "length": 153,
-      "likes": 920,
+      "likes": 923,
       "retweet": 464,
       "keywords": {
         "noun": [
@@ -1369,8 +1586,8 @@
       "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
       "text": "US rapper ASAP Rocky found guilty of assault during Stockholm brawl and given suspended sentence https://t.co/VCkQl0Qvwq",
       "length": 120,
-      "likes": 1040,
-      "retweet": 409,
+      "likes": 1039,
+      "retweet": 408,
       "keywords": {
         "noun": [
           "u",
@@ -1402,7 +1619,7 @@
       "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
       "text": "Former NASCAR driver Dale Earnhardt Jr. and family survive fiery plane crash at Tennessee airport.\n\n\"Everyone is safe and has been taken to the hospital for further evaluation,\" his sister says. https://t.co/X0mmjQLJkM",
       "length": 218,
-      "likes": 194,
+      "likes": 198,
       "retweet": 103,
       "keywords": {
         "noun": [
@@ -1614,7 +1831,7 @@
       "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
       "text": "Philadelphia Police remain engaged in an active shooting gun battle with at least 1 gunman as of 5:38 p.m. ET. https://t.co/rMlViFhPBL",
       "length": 134,
-      "likes": 80,
+      "likes": 81,
       "retweet": 89,
       "keywords": {
         "noun": [
@@ -1719,7 +1936,7 @@
       "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
       "text": "Active shooting incident unfolding in Philadelphia. https://t.co/UxBgIImgdt",
       "length": 75,
-      "likes": 273,
+      "likes": 274,
       "retweet": 416,
       "keywords": {
         "noun": [
@@ -1882,14 +2099,92 @@
       "date": "08-14-2019"
     },
     {
+      "id": 1162307424683995138,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Thames Valley Police says 10 teenagers and men aged between 13 and 30 have been arrested on suspicion of murder after a police officer was killed near Sulhamstead in Berkshire",
+      "length": 175,
+      "likes": 253,
+      "retweet": 196,
+      "keywords": {
+        "noun": [
+          "thames",
+          "valley",
+          "police",
+          "10",
+          "teenager",
+          "men",
+          "13",
+          "30",
+          "suspicion",
+          "murder",
+          "police",
+          "officer",
+          "near",
+          "sulhamstead",
+          "berkshire"
+        ],
+        "verb": [
+          "say",
+          "age",
+          "arrest",
+          "kill"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162303787182231552,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Thames Valley Police says a murder investigation has been launched after Pc Andrew Harper was killed while performing his duties attending a reported burglary near Sulhamstead in Berkshire",
+      "length": 188,
+      "likes": 423,
+      "retweet": 316,
+      "keywords": {
+        "noun": [
+          "thames",
+          "valley",
+          "police",
+          "murder",
+          "investigation",
+          "pc",
+          "andrew",
+          "harper",
+          "duty",
+          "burglary",
+          "near",
+          "sulhamstead",
+          "berkshire"
+        ],
+        "verb": [
+          "say",
+          "launch",
+          "kill",
+          "perform",
+          "attend",
+          "report"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
       "id": 1162294960495964160,
       "name": "Sky News Breaking",
       "screen_name": "SkyNewsBreak",
       "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
       "text": "Child protection expert Jim Gamble who has been advising the family of Nora Quoirin has told Sky News that there are still questions to be answered about the disappearance and death of the 15-year-old in Malaysia",
       "length": 212,
-      "likes": 16,
-      "retweet": 5,
+      "likes": 41,
+      "retweet": 16,
       "keywords": {
         "noun": [
           "child",
@@ -1929,8 +2224,8 @@
       "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
       "text": "Turkey's military pension fund, Oyak, has been confirmed as the buyer of British Steel",
       "length": 86,
-      "likes": 154,
-      "retweet": 124,
+      "likes": 281,
+      "retweet": 226,
       "keywords": {
         "noun": [
           "turkey's",
@@ -1959,7 +2254,7 @@
       "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
       "text": "A Foreign Office spokesperson says there is no comparison or linkage between \"Iran's unacceptable and illegal seizure of, and attacks on, commercial shipping vessels in the Strait of Hormuz and the enforcement of EU Syria sanctions by the government of Gibraltar\"",
       "length": 263,
-      "likes": 37,
+      "likes": 39,
       "retweet": 15,
       "keywords": {
         "noun": [
@@ -2043,7 +2338,7 @@
       "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
       "text": "Conservative MPs who Jeremy Corbyn has written to over plans to avoid a 'no-deal' Brexit have said they are \"happy to meet\" the Labour leader and opposition parties to discuss proposals",
       "length": 185,
-      "likes": 417,
+      "likes": 421,
       "retweet": 179,
       "keywords": {
         "noun": [
@@ -2161,7 +2456,7 @@
       "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
       "text": "Police in Malaysia confirm 15-year-old Nora Quoirin died from intestinal damage likely from prolonged hunger and stress and a post mortem has not found evidence of rape or kidnapping",
       "length": 182,
-      "likes": 197,
+      "likes": 198,
       "retweet": 87,
       "keywords": {
         "noun": [
@@ -2322,7 +2617,7 @@
       "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
       "text": "Sky News has seen Sir Mark Sedwill's response to a letter he received from Jeremy Corbyn in which the Cabinet Secretary says he will ensure the \"full and proper application\" of rules in the pre-election period if there were to be a general election before the Brexit date",
       "length": 271,
-      "likes": 50,
+      "likes": 51,
       "retweet": 26,
       "keywords": {
         "noun": [
@@ -2452,8 +2747,8 @@
       "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
       "text": "Campaigner Marcus Ball has lost a bid to take his legal fight against Prime Minister Boris Johnson over the \u00a3350 million EU referendum bus claim to the Supreme Court",
       "length": 165,
-      "likes": 849,
-      "retweet": 249,
+      "likes": 850,
+      "retweet": 248,
       "keywords": {
         "noun": [
           "campaigner",
@@ -2488,14 +2783,265 @@
       "date": "08-14-2019"
     },
     {
+      "id": 1162333732126240768,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "RUGBY PLAYERS Alex Mahaga Olaba and Frank Wanyama handed 15-year prison sentence each after they were found guilty of gang-rape. https://t.co/rZawnpr2DM",
+      "length": 152,
+      "likes": 421,
+      "retweet": 349,
+      "keywords": {
+        "noun": [
+          "rugby",
+          "player",
+          "alex",
+          "mahaga",
+          "olaba",
+          "frank",
+          "wanyama",
+          "15",
+          "year",
+          "prison",
+          "sentence",
+          "gang-rape"
+        ],
+        "verb": [
+          "hand",
+          "find"
+        ],
+        "adj": [
+          "guilty"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162328851717996545,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "SAFARILINK PLANE hits wildebeest that were running across runway as it landed in Maasai Mara, firm says passengers, crew safe. https://t.co/gRxFXCBrNo",
+      "length": 150,
+      "likes": 116,
+      "retweet": 125,
+      "keywords": {
+        "noun": [
+          "safarilink",
+          "plane",
+          "maasai",
+          "mara",
+          "firm",
+          "passenger"
+        ],
+        "verb": [
+          "hit",
+          "run",
+          "land",
+          "say",
+          "crew"
+        ],
+        "adj": [
+          "wildebeest",
+          "safe"
+        ],
+        "adv": [
+          "across",
+          "runway"
+        ]
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162327893478952960,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "COURT BARS merger of public universities without the involvement of Universities Academic Staff Union. https://t.co/Bw40OTxbv1",
+      "length": 126,
+      "likes": 37,
+      "retweet": 27,
+      "keywords": {
+        "noun": [
+          "court",
+          "bar",
+          "merger",
+          "university",
+          "without",
+          "involvement",
+          "university",
+          "academic",
+          "staff",
+          "union"
+        ],
+        "verb": [],
+        "adj": [
+          "public"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162318674935595008,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "UHURU SAYS Grade 6 pupils will not sit final exams before transitioning to secondary school. https://t.co/qIHpLyuXO4",
+      "length": 116,
+      "likes": 107,
+      "retweet": 43,
+      "keywords": {
+        "noun": [
+          "uhuru",
+          "say",
+          "grade",
+          "6",
+          "pupil",
+          "exam",
+          "school"
+        ],
+        "verb": [
+          "sit",
+          "transition"
+        ],
+        "adj": [
+          "final",
+          "secondary"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162317788670808065,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "TWO EBOLA cases confirmed in South Kivu, one dead, DR Congo official says; more than 1,900 have died in North Kivu and Ituri provinces. https://t.co/dWa30twmSK",
+      "length": 159,
+      "likes": 11,
+      "retweet": 8,
+      "keywords": {
+        "noun": [
+          "two",
+          "ebola",
+          "case",
+          "south",
+          "kivu",
+          "one",
+          "dead",
+          "dr",
+          "congo",
+          "official",
+          "1,900",
+          "north",
+          "kivu",
+          "ituri",
+          "province"
+        ],
+        "verb": [
+          "confirm",
+          "say",
+          "die"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162311091973742597,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "FIVE ARRESTED in Kayole, Nairobi after they were found repackaging sugar suspected to belong to UN food agency; 450 bags worth Sh5m confiscated. https://t.co/RGhVE3lBEZ",
+      "length": 168,
+      "likes": 49,
+      "retweet": 20,
+      "keywords": {
+        "noun": [
+          "five",
+          "arrested",
+          "kayole",
+          "nairobi",
+          "sugar",
+          "un",
+          "food",
+          "agency",
+          "450",
+          "bag",
+          "sh5m"
+        ],
+        "verb": [
+          "find",
+          "repackaging",
+          "suspect",
+          "belong",
+          "confiscate"
+        ],
+        "adj": [
+          "worth"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162308571578736642,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "COURT BARS civil servants in Homa Bay County from taking up census jobs; orders KNBS to make public names of those hired in Rachuonyo North. https://t.co/lVFlMGbu18",
+      "length": 164,
+      "likes": 51,
+      "retweet": 39,
+      "keywords": {
+        "noun": [
+          "court",
+          "bar",
+          "servant",
+          "homa",
+          "bay",
+          "county",
+          "census",
+          "job",
+          "order",
+          "name",
+          "rachuonyo",
+          "north"
+        ],
+        "verb": [
+          "take",
+          "knbs",
+          "make",
+          "hire"
+        ],
+        "adj": [
+          "civil",
+          "public"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
       "id": 1162292503678201857,
       "name": "NationBreakingNews",
       "screen_name": "NationBreaking",
       "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
       "text": "KNUT OFFICIALS locked out of Education conference at KICC, asked to get identification badges from Interior ministry; Uhuru expected to attend. https://t.co/6bXka9EcNN",
       "length": 167,
-      "likes": 29,
-      "retweet": 24,
+      "likes": 151,
+      "retweet": 68,
       "keywords": {
         "noun": [
           "knut",
@@ -2529,7 +3075,7 @@
       "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
       "text": "UHURU LIFTS suspension of Justice Jackton Ojwang; says he is immediately reinstated to office and entitled to pay and benefits. https://t.co/4y3lKzEb6o",
       "length": 151,
-      "likes": 182,
+      "likes": 187,
       "retweet": 58,
       "keywords": {
         "noun": [
@@ -2600,7 +3146,7 @@
       "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
       "text": "POLICE IN Kakamega detain 10, including 5 county officers, for questioning after body of youth service staff is exhumed and uniform retrieved.",
       "length": 142,
-      "likes": 130,
+      "likes": 133,
       "retweet": 61,
       "keywords": {
         "noun": [
@@ -2637,8 +3183,8 @@
       "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
       "text": "WATER CS Chelugui says 4,404 pollutants found in Nairobi River, tens of industries may be ordered shut down; lauds Nation Toxic Flow expos\u00e9. #ToxicFlow https://t.co/57kt4kNAVb",
       "length": 175,
-      "likes": 116,
-      "retweet": 66,
+      "likes": 117,
+      "retweet": 67,
       "keywords": {
         "noun": [
           "water",
@@ -2679,7 +3225,7 @@
       "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
       "text": "SUPREME COURT allows MPs time to pursue mediation over county revenue share after National Assembly says it has formed team, waiting on Senate. https://t.co/Mpq8lPVobl",
       "length": 167,
-      "likes": 28,
+      "likes": 29,
       "retweet": 9,
       "keywords": {
         "noun": [
@@ -2716,8 +3262,8 @@
       "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
       "text": "HIGH COURT judges to visit Mzee Kenyatta statue today to establish if it is part of KICC building in Omtatah case against CBK on new bank notes. https://t.co/nfayENrEBx",
       "length": 168,
-      "likes": 379,
-      "retweet": 181,
+      "likes": 387,
+      "retweet": 183,
       "keywords": {
         "noun": [
           "court",
@@ -2866,8 +3412,8 @@
       "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
       "text": "US BANS former Sudan National Intelligence and Security Service chief Salah Ghosh, his wife, and daughter from entry; accuses him of torture. https://t.co/xTAtoLXLHV",
       "length": 165,
-      "likes": 127,
-      "retweet": 35,
+      "likes": 129,
+      "retweet": 37,
       "keywords": {
         "noun": [
           "u",
@@ -3079,6 +3625,1478 @@
           "seek"
         ],
         "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1162358959182876673,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING PC Andrew Harper 'murdered after being hit by car' pictured on wedding day\nhttps://t.co/7A1JXFToFm https://t.co/k9chVCemfE",
+      "length": 131,
+      "likes": 7,
+      "retweet": 5,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "pc",
+          "andrew",
+          "harper",
+          "car",
+          "wedding",
+          "day"
+        ],
+        "verb": [
+          "murder",
+          "hit",
+          "picture"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162325999683588101,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "M53 closed as man killed after being hit by lorry on busy motorway https://t.co/3IgY5n7Rk6 https://t.co/ixoh92uREF",
+      "length": 114,
+      "likes": 2,
+      "retweet": 3,
+      "keywords": {
+        "noun": [
+          "m53",
+          "man",
+          "lorry",
+          "motorway"
+        ],
+        "verb": [
+          "close",
+          "kill",
+          "hit"
+        ],
+        "adj": [
+          "busy"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162307251274690562,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Thames Valley Police confirm PC Harper was 'killed while performing his duties' at 11.30pm last night\nhttps://t.co/0MMLXFbiTS https://t.co/ObY0YlnGqo",
+      "length": 149,
+      "likes": 2,
+      "retweet": 3,
+      "keywords": {
+        "noun": [
+          "thames",
+          "valley",
+          "police",
+          "pc",
+          "harper",
+          "duty",
+          "11.30",
+          "pm",
+          "night"
+        ],
+        "verb": [
+          "confirm",
+          "kill",
+          "perform"
+        ],
+        "adj": [
+          "last"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162306757928148994,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "The 10 people arrested on suspicion of PC Andrew Harper's murder are all males aged between 13 and 30\nhttps://t.co/DVkuouq3bc https://t.co/rCfCC4cX3w",
+      "length": 149,
+      "likes": 9,
+      "retweet": 4,
+      "keywords": {
+        "noun": [
+          "10",
+          "people",
+          "suspicion",
+          "pc",
+          "andrew",
+          "harper's",
+          "murder",
+          "male",
+          "13",
+          "30"
+        ],
+        "verb": [
+          "arrest",
+          "age"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162303949543813120,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "PC Andrew Harper was killed attending a reported burglary - 10 people have been arrested on suspicion of murder\nhttps://t.co/SCCb5yzgT9 https://t.co/N6BKE4d7vi",
+      "length": 159,
+      "likes": 8,
+      "retweet": 9,
+      "keywords": {
+        "noun": [
+          "pc",
+          "andrew",
+          "harper",
+          "10",
+          "people",
+          "suspicion",
+          "murder"
+        ],
+        "verb": [
+          "kill",
+          "attend",
+          "report",
+          "arrest"
+        ],
+        "adj": [
+          "burglary"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162301471850946562,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Police officer 'murdered' after attending reports of burglary\nhttps://t.co/GMFzZeuJIT https://t.co/eKpINh2Zch",
+      "length": 118,
+      "likes": 4,
+      "retweet": 12,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "police",
+          "officer",
+          "report",
+          "burglary"
+        ],
+        "verb": [
+          "murder",
+          "attend"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162160397153181696,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Death row inmate electrocuted for double murder of woman and teenage daughter https://t.co/vIBF0nXosm https://t.co/baudF1CyU2",
+      "length": 125,
+      "likes": 7,
+      "retweet": 3,
+      "keywords": {
+        "noun": [
+          "death",
+          "row",
+          "inmate",
+          "murder",
+          "woman",
+          "teenage",
+          "daughter"
+        ],
+        "verb": [
+          "electrocute"
+        ],
+        "adj": [
+          "double"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162149733567217664,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "North Korea 'fires two unidentified projectiles into the sea' South Korea says https://t.co/YmvBjAqHDh https://t.co/lWCmkfHdLT",
+      "length": 126,
+      "likes": 4,
+      "retweet": 7,
+      "keywords": {
+        "noun": [
+          "north",
+          "korea",
+          "fire",
+          "two",
+          "projectile",
+          "sea",
+          "south",
+          "korea"
+        ],
+        "verb": [
+          "say"
+        ],
+        "adj": [
+          "unidentified"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162084137823588355,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Plane evacuated after man brings knife on board 'to carry out attack' https://t.co/whPckLmf01 https://t.co/8oYnkecvjl",
+      "length": 126,
+      "likes": 7,
+      "retweet": 11,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "plane",
+          "man",
+          "knife",
+          "board",
+          "attack"
+        ],
+        "verb": [
+          "evacuate",
+          "bring",
+          "carry"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162077385442902017,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Winning numbers for Thursday's National Lottery Set For Life draw https://t.co/Mt4WwKPqY2 https://t.co/1NYmKIbcmV",
+      "length": 122,
+      "likes": 1,
+      "retweet": 1,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "number",
+          "thursday's",
+          "national",
+          "lottery",
+          "set",
+          "life",
+          "draw"
+        ],
+        "verb": [
+          "win"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162069026811654145,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Hollywood Ripper guilty of killing Ashton Kutcher's ex and mum-of-four https://t.co/QsfKgeFP0i https://t.co/yTkHdlhk3Y",
+      "length": 127,
+      "likes": 4,
+      "retweet": 4,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "hollywood",
+          "ripper",
+          "ashton",
+          "kutcher's",
+          "ex",
+          "mum-of-four"
+        ],
+        "verb": [
+          "kill"
+        ],
+        "adj": [
+          "guilty"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162017600571871232,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING First Love Island split as Chris and Harley call it quits\nhttps://t.co/maGUHtbHXI #LoveIsland https://t.co/YpM0ujwsNA",
+      "length": 126,
+      "likes": 42,
+      "retweet": 16,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "first",
+          "love",
+          "island",
+          "split",
+          "chris",
+          "harley",
+          "loveisland"
+        ],
+        "verb": [
+          "call",
+          "quit"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162016656857505792,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Teenager knifed to death in central London as 17-year-old arrested  https://t.co/5cXHGLdShc? https://t.co/vaK39TQHQT",
+      "length": 125,
+      "likes": 5,
+      "retweet": 12,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "teenager",
+          "death",
+          "london",
+          "17",
+          "year-old"
+        ],
+        "verb": [
+          "knife",
+          "arrest"
+        ],
+        "adj": [
+          "central"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162015237685567488,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING. Man 'murdered' outside shopping centre Greggs 'with screw driver' was devoted dad\nhttps://t.co/8pqJ1TLLcT https://t.co/yeZkcnCf9f",
+      "length": 139,
+      "likes": 11,
+      "retweet": 9,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "man",
+          "shopping",
+          "centre",
+          "greggs",
+          "screw",
+          "dad"
+        ],
+        "verb": [
+          "murder",
+          "devote"
+        ],
+        "adj": [
+          "outside"
+        ],
+        "adv": [
+          "driver"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161984998821564417,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING: Cruise ship passenger falls overboard to his death in Caribbean https://t.co/Nbx9rzNX2o https://t.co/gNW6uZHerr",
+      "length": 121,
+      "likes": 12,
+      "retweet": 6,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "cruise",
+          "ship",
+          "passenger",
+          "death",
+          "caribbean"
+        ],
+        "verb": [
+          "fall"
+        ],
+        "adj": [],
+        "adv": [
+          "overboard"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161979358950694912,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Home office on lockdown after person stabbed https://t.co/Ih8NlAszyb https://t.co/OJDmxwhCLE",
+      "length": 101,
+      "likes": 13,
+      "retweet": 26,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "home",
+          "office",
+          "lockdown",
+          "person"
+        ],
+        "verb": [
+          "stab"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161977604590755840,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING: Dozens of firefighters battle massive blaze in flat on busy high street https://t.co/ikDTEmjvns https://t.co/Id1hQh4npo",
+      "length": 129,
+      "likes": 8,
+      "retweet": 12,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "dozen",
+          "firefighter",
+          "battle",
+          "blaze",
+          "street"
+        ],
+        "verb": [],
+        "adj": [
+          "massive",
+          "flat",
+          "busy",
+          "high"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161944831960240129,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Seven teens held after man, 52, 'stabbed with screwdriver' outside Greggs https://t.co/B6F9gw5X0p https://t.co/pFIZ0LXFhK",
+      "length": 130,
+      "likes": 8,
+      "retweet": 6,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "seven",
+          "teen",
+          "man",
+          "52",
+          "screwdriver",
+          "greggs"
+        ],
+        "verb": [
+          "hold",
+          "stab"
+        ],
+        "adj": [
+          "outside"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161937719871889408,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING: Met Office issues warning for heavy rain and flooding https://t.co/PqR75SiZ3P https://t.co/rWFa1LNOXX",
+      "length": 111,
+      "likes": 4,
+      "retweet": 5,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "met",
+          "office",
+          "issue",
+          "rain",
+          "flooding"
+        ],
+        "verb": [
+          "warn"
+        ],
+        "adj": [
+          "heavy"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161925027975041026,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING: US applies to seize Iranian oil supertanker in Gibraltar https://t.co/deKWQS9vDJ https://t.co/yfdugEtrZd",
+      "length": 114,
+      "likes": 9,
+      "retweet": 10,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "applies",
+          "oil",
+          "supertanker",
+          "gibraltar"
+        ],
+        "verb": [
+          "seize"
+        ],
+        "adj": [
+          "us",
+          "iranian"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161918212742819840,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Number of students awarded A grade in A-level results falls to 12-year low https://t.co/baqDCghLoN https://t.co/xozbDAWAhA",
+      "length": 122,
+      "likes": 7,
+      "retweet": 6,
+      "keywords": {
+        "noun": [
+          "number",
+          "student",
+          "grade",
+          "a-level",
+          "result",
+          "12",
+          "year"
+        ],
+        "verb": [
+          "award",
+          "fall"
+        ],
+        "adj": [
+          "low"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161899286826823681,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Number of A-level students accepted on degree courses falls https://t.co/FaVK7HpClD https://t.co/MVp3DtBV1b",
+      "length": 107,
+      "likes": 6,
+      "retweet": 2,
+      "keywords": {
+        "noun": [
+          "number",
+          "a-level",
+          "student",
+          "degree",
+          "course"
+        ],
+        "verb": [
+          "accept",
+          "fall"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161899217247453184,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Shannon airport flights suspended after US plane forced into emergency landing\nhttps://t.co/jR26vNWOCI https://t.co/wHjCwd1kyZ",
+      "length": 126,
+      "likes": 2,
+      "retweet": 2,
+      "keywords": {
+        "noun": [
+          "shannon",
+          "airport",
+          "flight",
+          "u",
+          "plane",
+          "emergency",
+          "landing"
+        ],
+        "verb": [
+          "suspend",
+          "force"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161877982702649346,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING: Nora Quoirin 'died from intestinal damage likely from hunger and stress' https://t.co/YnGSDwrgV1 https://t.co/S3xM8SC6uK",
+      "length": 130,
+      "likes": 13,
+      "retweet": 14,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "nora",
+          "quoirin",
+          "damage",
+          "stress"
+        ],
+        "verb": [
+          "die"
+        ],
+        "adj": [
+          "intestinal",
+          "hunger"
+        ],
+        "adv": [
+          "likely"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161875000468672512,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Jeffrey Epstein autopsy 'finds broken bones in neck' after paedophile's death https://t.co/KQhtx7QglN https://t.co/Bqhfj8hXwv",
+      "length": 125,
+      "likes": 2,
+      "retweet": 1,
+      "keywords": {
+        "noun": [
+          "jeffrey",
+          "epstein",
+          "autopsy",
+          "find",
+          "bone",
+          "neck",
+          "paedophile's",
+          "death"
+        ],
+        "verb": [],
+        "adj": [
+          "broken"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161857174676672513,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Philadelphia gunman surrenders to police after long standoff https://t.co/5ZZzmXYxnT https://t.co/d6aua7Ad9a",
+      "length": 108,
+      "likes": 2,
+      "retweet": 0,
+      "keywords": {
+        "noun": [
+          "philadelphia",
+          "gunman",
+          "surrender",
+          "police",
+          "standoff"
+        ],
+        "verb": [],
+        "adj": [],
+        "adv": [
+          "long"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161793976476852224,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Six police officers shot in standoff with gunman https://t.co/5ZZzmXYxnT https://t.co/mNb5mYnRPs",
+      "length": 96,
+      "likes": 3,
+      "retweet": 10,
+      "keywords": {
+        "noun": [
+          "six",
+          "police",
+          "officer",
+          "standoff",
+          "gunman"
+        ],
+        "verb": [
+          "shoot"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161767850379554818,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Six arrested after man, 52, fatally stabbed outside Greggs https://t.co/veSZ210GKI https://t.co/YPwtm3laf1",
+      "length": 106,
+      "likes": 2,
+      "retweet": 1,
+      "keywords": {
+        "noun": [
+          "six",
+          "man",
+          "52",
+          "greggs"
+        ],
+        "verb": [
+          "arrest",
+          "stab"
+        ],
+        "adj": [
+          "outside"
+        ],
+        "adv": [
+          "fatally"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161745156850311174,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "RT @MirrorPolitics: BREAKING Ex-Tory and Change UK MP Sarah Wollaston joins Liberal Democrats \n\nhttps://t.co/ofDdU5byx6 https://t.co/xuVfO6\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 51,
+      "keywords": {
+        "noun": [
+          "mirrorpolitics",
+          "breaking",
+          "ex-tory",
+          "change",
+          "uk",
+          "mp",
+          "sarah",
+          "wollaston",
+          "democrat"
+        ],
+        "verb": [
+          "join"
+        ],
+        "adj": [
+          "rt",
+          "liberal"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161742150834556928,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "No jackpot winners for Wednesday's \u00a312.5 million National Lottery https://t.co/tWcQ3jYEZo https://t.co/vG2rJ4Qzqs",
+      "length": 113,
+      "likes": 3,
+      "retweet": 3,
+      "keywords": {
+        "noun": [
+          "jackpot",
+          "winner",
+          "wednesday's",
+          "\u00a3",
+          "12.5",
+          "million",
+          "national",
+          "lottery"
+        ],
+        "verb": [],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161725265388736513,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Winning numbers for Wednesday's \u00a312.5 million National Lottery https://t.co/tWcQ3jYEZo https://t.co/XkHY6TIZQv",
+      "length": 119,
+      "likes": 4,
+      "retweet": 2,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "number",
+          "wednesday's",
+          "\u00a3",
+          "12.5",
+          "million",
+          "national",
+          "lottery"
+        ],
+        "verb": [
+          "win"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161714269127434240,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Ryanair pilots vote to strike for two days causing travel chaos\nhttps://t.co/htnUnNMejR https://t.co/X5bMAEUzy0",
+      "length": 120,
+      "likes": 3,
+      "retweet": 4,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "ryanair",
+          "pilot",
+          "two",
+          "day",
+          "travel",
+          "chaos"
+        ],
+        "verb": [
+          "vote",
+          "strike",
+          "cause"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161658088665034752,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Rabbit-Proof Fence star Ningali Lawford-Wolf dies aged 52 during Edinburgh Festival tour\nhttps://t.co/LgGDhdLjPE https://t.co/XxiFqYEapN",
+      "length": 145,
+      "likes": 3,
+      "retweet": 5,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "fence",
+          "star",
+          "ningali",
+          "lawford-wolf",
+          "dy",
+          "52",
+          "edinburgh",
+          "festival",
+          "tour"
+        ],
+        "verb": [
+          "age"
+        ],
+        "adj": [
+          "rabbit-proof"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161642085608513539,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Ashley Graham pregnant - model reveals she's expecting first child with Justin Ervin  https://t.co/ujIqnoWUzO https://t.co/spTfZnTczm",
+      "length": 142,
+      "likes": 358,
+      "retweet": 54,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "ashley",
+          "graham",
+          "model",
+          "reveals",
+          "child",
+          "justin",
+          "ervin"
+        ],
+        "verb": [
+          "expect"
+        ],
+        "adj": [
+          "pregnant",
+          "first"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161627054556758017,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING: Emiliano Sala and pilot Dave Ibbotson exposed to toxic levels of carbon monoxide before tragic plane crash https://t.co/1jKI4G5grI https://t.co/zvJj48h77k",
+      "length": 164,
+      "likes": 68,
+      "retweet": 25,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "emiliano",
+          "sala",
+          "pilot",
+          "dave",
+          "ibbotson",
+          "level",
+          "carbon",
+          "monoxide",
+          "plane",
+          "crash"
+        ],
+        "verb": [
+          "expose"
+        ],
+        "adj": [
+          "toxic",
+          "tragic"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161624544412622848,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "Brit, 25, dies in horror climbing accident at Ibiza beauty spot https://t.co/SCT8lMnDRB https://t.co/GxMrEjpdac",
+      "length": 111,
+      "likes": 2,
+      "retweet": 3,
+      "keywords": {
+        "noun": [
+          "brit",
+          "25",
+          "dy",
+          "horror",
+          "accident",
+          "ibiza",
+          "beauty",
+          "spot"
+        ],
+        "verb": [
+          "climb"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161611477045907456,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Rapper ASAP Rocky found guilty of assault in Sweden https://t.co/bFx2LVJOnZ https://t.co/UuuLqmYaOd",
+      "length": 108,
+      "likes": 1,
+      "retweet": 5,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "rapper",
+          "asap",
+          "rocky",
+          "assault",
+          "sweden"
+        ],
+        "verb": [
+          "find"
+        ],
+        "adj": [
+          "guilty"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161577346505281536,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING British man, 36, dies after falling from 7th floor of building in Ibiza https://t.co/O8HkijBjzf https://t.co/FrQQXoVLBl",
+      "length": 128,
+      "likes": 7,
+      "retweet": 7,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "man",
+          "36",
+          "dy",
+          "7th",
+          "floor",
+          "building",
+          "ibiza"
+        ],
+        "verb": [
+          "fall"
+        ],
+        "adj": [
+          "british"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161576270074961920,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "BREAKING Marcus Ball loses bid to take legal fight against Boris Johnson to Supreme Court\n\nhttps://t.co/h0t2OwtVPl https://t.co/pkcZY14J5e",
+      "length": 138,
+      "likes": 3,
+      "retweet": 5,
+      "keywords": {
+        "noun": [
+          "breaking",
+          "marcus",
+          "ball",
+          "bid",
+          "fight",
+          "boris",
+          "johnson",
+          "supreme",
+          "court"
+        ],
+        "verb": [
+          "lose",
+          "take"
+        ],
+        "adj": [
+          "legal"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161565841344868353,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "RT @DailyMirror: Teen who drowned in Majorca pool is millionaire Moneypenny founder's daughter https://t.co/gbApTuuSIF https://t.co/iGICDl6\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 3,
+      "keywords": {
+        "noun": [
+          "rt",
+          "dailymirror",
+          "teen",
+          "majorca",
+          "pool",
+          "moneypenny",
+          "founder's",
+          "daughter"
+        ],
+        "verb": [
+          "drown"
+        ],
+        "adj": [
+          "millionaire"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161562722787581952,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "RT @MirrorTravel: BREAKING Heathrow strikes in August suspended as union members vote on new pay deal https://t.co/4dAWS80Vgr https://t.co/\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 7,
+      "keywords": {
+        "noun": [
+          "rt",
+          "mirrortravel",
+          "breaking",
+          "heathrow",
+          "strike",
+          "august",
+          "union",
+          "member",
+          "pay",
+          "deal"
+        ],
+        "verb": [
+          "suspend",
+          "vote"
+        ],
+        "adj": [
+          "new"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161560226509852672,
+      "name": "Mirror Breaking News",
+      "screen_name": "MirrorBreaking_",
+      "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+      "text": "RT @DailyMirror: Nora Quoirin's parents demand to know if body was 'dumped' in jungle by criminal https://t.co/BfwtbnfJpI https://t.co/NXXS\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 4,
+      "keywords": {
+        "noun": [
+          "rt",
+          "dailymirror",
+          "nora",
+          "quoirin's",
+          "parent",
+          "demand",
+          "body",
+          "jungle"
+        ],
+        "verb": [
+          "know",
+          "dump"
+        ],
+        "adj": [
+          "criminal"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1162283747665801216,
+      "name": "Azzam Ameen",
+      "screen_name": "AzzamAmeen",
+      "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
+      "text": "KJP special in the field to get rid of Kane Williamson, who continues to fail in Galle with another low score. \n\n2012 - 0 &amp; 10\n2019 - 0 &amp; 4 #SLvNZ \ud83c\udfcf https://t.co/XIxJQbxc9w",
+      "length": 180,
+      "likes": 152,
+      "retweet": 12,
+      "keywords": {
+        "noun": [
+          "kjp",
+          "field",
+          "kane",
+          "williamson",
+          "galle",
+          "another",
+          "score",
+          "2012",
+          "0",
+          "10",
+          "2019",
+          "0",
+          "4",
+          "slvnz",
+          "\ud83c\udfcf"
+        ],
+        "verb": [
+          "get",
+          "continue",
+          "fail"
+        ],
+        "adj": [
+          "special",
+          "rid",
+          "low"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162282023383228419,
+      "name": "Azzam Ameen",
+      "screen_name": "AzzamAmeen",
+      "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
+      "text": "Sri Lankan aeronautical engineer who contributes to 2020 mars mission @bbcsinhala\nhttps://t.co/XrASz4nKJH",
+      "length": 105,
+      "likes": 245,
+      "retweet": 32,
+      "keywords": {
+        "noun": [
+          "sri",
+          "lankan",
+          "engineer",
+          "2020",
+          "mar",
+          "mission",
+          "bbcsinhala"
+        ],
+        "verb": [
+          "contribute"
+        ],
+        "adj": [
+          "aeronautical"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162247524494671873,
+      "name": "Azzam Ameen",
+      "screen_name": "AzzamAmeen",
+      "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
+      "text": "UNP Deputy Leader Sajith Premadasa in a tweet says he will be definitely contesting in the upcoming Presidential Election https://t.co/wA2v5rWLMC",
+      "length": 145,
+      "likes": 181,
+      "retweet": 15,
+      "keywords": {
+        "noun": [
+          "unp",
+          "deputy",
+          "leader",
+          "sajith",
+          "premadasa",
+          "tweet",
+          "election"
+        ],
+        "verb": [
+          "say",
+          "contest"
+        ],
+        "adj": [
+          "upcoming",
+          "presidential"
+        ],
+        "adv": [
+          "definitely"
+        ]
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1161873913862905856,
+      "name": "Azzam Ameen",
+      "screen_name": "AzzamAmeen",
+      "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
+      "text": "New Zealand bowled out for 249 in the first innings in Galle. 80/5 for Akila, 29/4 for Lakmal. This is Sri Lanka's first game in Galle without @HerathRSL in 9 years.",
+      "length": 165,
+      "likes": 195,
+      "retweet": 7,
+      "keywords": {
+        "noun": [
+          "new",
+          "zealand",
+          "249",
+          "inning",
+          "galle",
+          "80/5",
+          "akila",
+          "29/4",
+          "lakmal",
+          "sri",
+          "lanka's",
+          "game",
+          "galle",
+          "without",
+          "herathrsl",
+          "9",
+          "year"
+        ],
+        "verb": [
+          "bowl"
+        ],
+        "adj": [
+          "first",
+          "first"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161576936889470977,
+      "name": "Azzam Ameen",
+      "screen_name": "AzzamAmeen",
+      "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
+      "text": "RT @bbcsinhala: \u0dbd\u0ddd\u0d9a \u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dca \u0dc1\u0dd6\u0dbb\u0dad\u0dcf\u0dc0: \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc0\u0dcf\u0dc3\u0dd2 \u0dc3\u0dc4\u0d9c\u0dad\u0daf?\nFour things about World #Test Championship #Cricket\nhttps://t.co/E8F5GEZTno",
+      "length": 135,
+      "likes": 0,
+      "retweet": 3,
+      "keywords": {
+        "noun": [
+          "rt",
+          "bbcsinhala",
+          "\u0ddd",
+          "\u0d9a",
+          "\u0da7",
+          "\u0dd9",
+          "\u0dc3",
+          "\u0dca",
+          "\u0da7",
+          "\u0dca",
+          "\u0dc1",
+          "\u0dd6",
+          "\u0dbb\u0dad",
+          "\u0dcf",
+          "\u0dc0",
+          "\u0dca",
+          "\u200d",
+          "\u0dbb",
+          "\u0dd3",
+          "\u0dbd",
+          "\u0d82",
+          "\u0d9a",
+          "\u0dcf",
+          "\u0dc0\u0da7",
+          "\u0dc0",
+          "\u0dcf",
+          "\u0dc3",
+          "\u0dd2",
+          "\u0dc3\u0dc4\u0d9c\u0dad\u0daf",
+          "four",
+          "thing",
+          "world",
+          "test",
+          "championship",
+          "cricket"
+        ],
+        "verb": [],
+        "adj": [
+          "\u0dbd",
+          "\u0dc1"
+        ],
         "adv": []
       },
       "verified": true,
