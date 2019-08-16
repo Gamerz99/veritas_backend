@@ -15,7 +15,7 @@ parser = reqparse.RequestParser()
 
 def timer():
     twitter_stream.tweet_crowler()
-    threading.Timer(300, timer).start()
+    threading.Timer(60, timer).start()
 
 
 class home(Resource):
