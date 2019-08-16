@@ -1,0 +1,3088 @@
+{
+  "data": [
+    {
+      "id": 1162174491608408065,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNPolitics: President Trump has asked aides if it's possible to buy Greenland, sources say https://t.co/iBPrZXC1A0 https://t.co/qBfCdz\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 182,
+      "keywords": {
+        "noun": [
+          "cnnpolitics",
+          "president",
+          "trump",
+          "aide",
+          "greenland",
+          "source"
+        ],
+        "verb": [
+          "ask",
+          "buy",
+          "say"
+        ],
+        "adj": [
+          "rt",
+          "possible"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162170266061037568,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "North Korea says it has \"no wish to sit with South Korean officials again,\" state news agency KCNA reports. The report comes the same day North Korea launched two more unidentified projectiles. \nhttps://t.co/qhCIEYXdXz https://t.co/IHcnDAnxmF",
+      "length": 242,
+      "likes": 328,
+      "retweet": 229,
+      "keywords": {
+        "noun": [
+          "north",
+          "korea",
+          "wish",
+          "official",
+          "state",
+          "news",
+          "agency",
+          "kcna",
+          "report",
+          "report",
+          "day",
+          "north",
+          "korea",
+          "two",
+          "projectile"
+        ],
+        "verb": [
+          "say",
+          "sit",
+          "come",
+          "launch"
+        ],
+        "adj": [
+          "south",
+          "korean",
+          "unidentified"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162114594762047488,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Famed NASCAR driver and auto racing analyst Dale Earnhardt Jr. and his wife survived a plane crash in eastern Tennessee https://t.co/nWM7cyK02G https://t.co/M0qd081wkB",
+      "length": 167,
+      "likes": 906,
+      "retweet": 221,
+      "keywords": {
+        "noun": [
+          "famed",
+          "nascar",
+          "driver",
+          "auto",
+          "analyst",
+          "dale",
+          "earnhardt",
+          "jr",
+          "wife",
+          "plane",
+          "crash",
+          "tennessee"
+        ],
+        "verb": [
+          "race",
+          "survive"
+        ],
+        "adj": [
+          "eastern"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162106796246544389,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "The man who opened fire on a crowded bar district in Dayton, Ohio, had cocaine, Xanax and alcohol in system, the county coroner said\nhttps://t.co/NFDtdjg7pT https://t.co/adR6Hx3jnq",
+      "length": 180,
+      "likes": 297,
+      "retweet": 170,
+      "keywords": {
+        "noun": [
+          "man",
+          "fire",
+          "bar",
+          "district",
+          "dayton",
+          "ohio",
+          "cocaine",
+          "xanax",
+          "alcohol",
+          "system",
+          "county",
+          "coroner"
+        ],
+        "verb": [
+          "open",
+          "say"
+        ],
+        "adj": [
+          "crowded"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162097677577928704,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "The \"Hollywood Ripper\" is found guilty of murdering two women after a trial that saw scores of witnesses, including Ashton Kutcher, take the stand https://t.co/AIZX9axQYz https://t.co/L5sSIjTjgd",
+      "length": 194,
+      "likes": 1194,
+      "retweet": 361,
+      "keywords": {
+        "noun": [
+          "hollywood",
+          "ripper",
+          "two",
+          "woman",
+          "trial",
+          "score",
+          "witness",
+          "ashton",
+          "kutcher",
+          "stand"
+        ],
+        "verb": [
+          "find",
+          "murder",
+          "saw",
+          "include",
+          "take"
+        ],
+        "adj": [
+          "guilty"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162067283201712129,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNPolitics: JUST IN: House Judiciary Committee subpoenas former Trump campaign manager Corey Lewandowski and a former White House offi\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 340,
+      "keywords": {
+        "noun": [
+          "cnnpolitics",
+          "house",
+          "judiciary",
+          "committee",
+          "trump",
+          "campaign",
+          "manager",
+          "corey",
+          "lewandowski",
+          "white",
+          "house",
+          "offi",
+          "\u2026"
+        ],
+        "verb": [
+          "subpoena"
+        ],
+        "adj": [
+          "rt",
+          "former",
+          "former"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162052159736897539,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Former Colorado Gov. John Hickenlooper ends his bid for the 2020 Democratic presidential nomination https://t.co/GW7tUNpFxq https://t.co/NYsGXsJt8p",
+      "length": 147,
+      "likes": 506,
+      "retweet": 77,
+      "keywords": {
+        "noun": [
+          "former",
+          "colorado",
+          "gov",
+          "john",
+          "hickenlooper",
+          "bid",
+          "2020",
+          "nomination"
+        ],
+        "verb": [
+          "end"
+        ],
+        "adj": [
+          "democratic",
+          "presidential"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162020001571901441,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Democratic Reps. Omar and Tlaib are blocked from entering Israel shortly after President Trump said it would show \"great weakness\" to let them visit https://t.co/aiXUQe3R3P https://t.co/3RW1hudJr6",
+      "length": 196,
+      "likes": 835,
+      "retweet": 324,
+      "keywords": {
+        "noun": [
+          "rep",
+          "omar",
+          "tlaib",
+          "israel",
+          "president",
+          "trump",
+          "would",
+          "weakness"
+        ],
+        "verb": [
+          "block",
+          "enter",
+          "say",
+          "show",
+          "let",
+          "visit"
+        ],
+        "adj": [
+          "democratic",
+          "great"
+        ],
+        "adv": [
+          "shortly"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162016354288971777,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "A court in the British territory of Gibraltar approves the immediate release of an Iranian oil tanker, despite a US effort to block it https://t.co/zJ2YjExXnI https://t.co/0kRwjg4lJm",
+      "length": 182,
+      "likes": 341,
+      "retweet": 124,
+      "keywords": {
+        "noun": [
+          "court",
+          "territory",
+          "gibraltar",
+          "release",
+          "oil",
+          "tanker",
+          "despite",
+          "u",
+          "effort"
+        ],
+        "verb": [
+          "approve",
+          "block"
+        ],
+        "adj": [
+          "british",
+          "immediate",
+          "iranian"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161998714875076608,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNBusiness: US stocks rose slightly after Walmart reported strong earnings and a brighter forecast and China said it remained hopeful\u2026",
+      "length": 139,
+      "likes": 0,
+      "retweet": 52,
+      "keywords": {
+        "noun": [
+          "rt",
+          "cnnbusiness",
+          "stock",
+          "walmart",
+          "earnings",
+          "brighter",
+          "forecast",
+          "china",
+          "\u2026"
+        ],
+        "verb": [
+          "rise",
+          "report",
+          "say",
+          "remain"
+        ],
+        "adj": [
+          "us",
+          "strong",
+          "hopeful"
+        ],
+        "adv": [
+          "slightly"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161992349637074945,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "A man was stabbed outside the offices of Britain's interior ministry in London, police say. Authorities say the incident is not believed to be terrorism-related.\nhttps://t.co/o09x49RxKO https://t.co/wA75S8FJe1",
+      "length": 209,
+      "likes": 162,
+      "retweet": 76,
+      "keywords": {
+        "noun": [
+          "man",
+          "outside",
+          "office",
+          "britain's",
+          "ministry",
+          "london",
+          "police",
+          "authority",
+          "incident"
+        ],
+        "verb": [
+          "stab",
+          "say",
+          "say",
+          "believe"
+        ],
+        "adj": [
+          "interior",
+          "terrorism-related"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161975002578804736,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "The suspect who wounded six Philadelphia police officers in a hours-long standoff has been identified as Maurice Hill, the city's police commissioner says\nhttps://t.co/0TetpwZxU1 https://t.co/Q5n2HsTs96",
+      "length": 202,
+      "likes": 207,
+      "retweet": 104,
+      "keywords": {
+        "noun": [
+          "suspect",
+          "six",
+          "philadelphia",
+          "police",
+          "officer",
+          "standoff",
+          "maurice",
+          "hill",
+          "city's",
+          "police",
+          "commissioner"
+        ],
+        "verb": [
+          "wound",
+          "identify",
+          "say"
+        ],
+        "adj": [
+          "hours-long"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161971403618476037,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Dow futures swing wildly after China threatens yet another escalation in its trade war with the United States and Walmart reports strong earnings and a brighter forecast\nhttps://t.co/Uog6RWDj52 https://t.co/XFadBt9KsF",
+      "length": 217,
+      "likes": 175,
+      "retweet": 69,
+      "keywords": {
+        "noun": [
+          "dow",
+          "future",
+          "china",
+          "another",
+          "escalation",
+          "trade",
+          "war",
+          "united",
+          "state",
+          "walmart",
+          "report",
+          "earnings",
+          "brighter",
+          "forecast"
+        ],
+        "verb": [
+          "swing",
+          "threaten"
+        ],
+        "adj": [
+          "strong"
+        ],
+        "adv": [
+          "wildly",
+          "yet"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161931154024480768,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "The US Department of Justice has made a last-minute application to block the release of the Iranian oil tanker Grace 1, which was seized by authorities in Gibraltar last month, a spokesman for the Gibraltar attorney general says https://t.co/uWCGh6d4FC",
+      "length": 252,
+      "likes": 221,
+      "retweet": 83,
+      "keywords": {
+        "noun": [
+          "u",
+          "department",
+          "justice",
+          "application",
+          "release",
+          "oil",
+          "tanker",
+          "grace",
+          "1",
+          "authority",
+          "gibraltar",
+          "month",
+          "spokesman",
+          "gibraltar",
+          "attorney",
+          "general"
+        ],
+        "verb": [
+          "make",
+          "block",
+          "seize",
+          "say"
+        ],
+        "adj": [
+          "last-minute",
+          "iranian",
+          "last"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161916666709708800,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "A Russian passenger jet flew into a flock of birds then crash-landed in a cornfield just outside a Moscow airport, according to Russian state news agency TASS https://t.co/jKRkgOGUQu",
+      "length": 182,
+      "likes": 396,
+      "retweet": 166,
+      "keywords": {
+        "noun": [
+          "passenger",
+          "jet",
+          "flock",
+          "bird",
+          "cornfield",
+          "outside",
+          "moscow",
+          "airport",
+          "state",
+          "news",
+          "agency",
+          "ta"
+        ],
+        "verb": [
+          "fly",
+          "crash-landed",
+          "accord"
+        ],
+        "adj": [
+          "russian",
+          "russian"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161858711037644800,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "A suspect has been arrested after he barricaded himself for hours in a North Philadelphia home in a shooting standoff that left six officers wounded, police say https://t.co/odCTC4HqPr",
+      "length": 184,
+      "likes": 675,
+      "retweet": 235,
+      "keywords": {
+        "noun": [
+          "suspect",
+          "hour",
+          "north",
+          "philadelphia",
+          "home",
+          "shooting",
+          "standoff",
+          "six",
+          "officer",
+          "police"
+        ],
+        "verb": [
+          "arrest",
+          "barricade",
+          "leave",
+          "wound",
+          "say"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161840101917433857,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Former Colorado Gov. John Hickenlooper plans to end his bid for the Democratic presidential nomination on Thursday, sources say https://t.co/GW7tUNpFxq https://t.co/K639dzOiQx",
+      "length": 175,
+      "likes": 907,
+      "retweet": 134,
+      "keywords": {
+        "noun": [
+          "former",
+          "colorado",
+          "gov",
+          "john",
+          "hickenlooper",
+          "bid",
+          "nomination",
+          "thursday",
+          "source"
+        ],
+        "verb": [
+          "plan",
+          "end",
+          "say"
+        ],
+        "adj": [
+          "democratic",
+          "presidential"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161817456148713474,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Two Philadelphia officers who were barricaded inside a house with the suspect in an ongoing standoff with police are now safe and out of the house https://t.co/MoF9guaAh4 https://t.co/ZZG0EpPmJL",
+      "length": 194,
+      "likes": 781,
+      "retweet": 145,
+      "keywords": {
+        "noun": [
+          "two",
+          "philadelphia",
+          "officer",
+          "inside",
+          "house",
+          "suspect",
+          "standoff",
+          "police",
+          "house"
+        ],
+        "verb": [
+          "barricade"
+        ],
+        "adj": [
+          "ongoing",
+          "safe"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161813611356012544,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Eight inmates were hospitalized after a riot at a Northern California prison, corrections officials say https://t.co/AwSEwsflbz https://t.co/PfZNBTAloS",
+      "length": 151,
+      "likes": 143,
+      "retweet": 71,
+      "keywords": {
+        "noun": [
+          "eight",
+          "inmate",
+          "riot",
+          "northern",
+          "california",
+          "prison",
+          "correction",
+          "official"
+        ],
+        "verb": [
+          "hospitalize",
+          "say"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161784149323210752,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Two officers remain trapped inside the house where a shootout erupted this afternoon in Philadelphia, Philadelphia Police Commissioner Richard Ross tells the Philadelphia Inquirer. Follow live updates: https://t.co/YnMjCmZWGR https://t.co/paFTNG9P9U",
+      "length": 249,
+      "likes": 900,
+      "retweet": 665,
+      "keywords": {
+        "noun": [
+          "two",
+          "officer",
+          "inside",
+          "house",
+          "shootout",
+          "afternoon",
+          "philadelphia",
+          "philadelphia",
+          "police",
+          "commissioner",
+          "richard",
+          "ross",
+          "philadelphia",
+          "inquirer",
+          "follow",
+          "update"
+        ],
+        "verb": [
+          "remain",
+          "erupt",
+          "tell"
+        ],
+        "adj": [
+          "trapped",
+          "live"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161770329368346624,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNN: Police swarmed a North Philadelphia neighborhood where six officers were wounded during a shootout and then a standoff with a gunm\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 181,
+      "keywords": {
+        "noun": [
+          "rt",
+          "cnn",
+          "police",
+          "north",
+          "philadelphia",
+          "neighborhood",
+          "six",
+          "officer",
+          "shootout",
+          "standoff",
+          "gunm",
+          "\u2026"
+        ],
+        "verb": [
+          "swarm",
+          "wound"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161754197257310212,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "At least three police officers have been shot in Philadelphia, according to a federal law enforcement source. Follow live updates: https://t.co/bk2X3q0obr https://t.co/C5rUjMDFf3",
+      "length": 178,
+      "likes": 304,
+      "retweet": 258,
+      "keywords": {
+        "noun": [
+          "three",
+          "police",
+          "officer",
+          "philadelphia",
+          "law",
+          "enforcement",
+          "source",
+          "follow",
+          "update"
+        ],
+        "verb": [
+          "shoot",
+          "accord"
+        ],
+        "adj": [
+          "least",
+          "federal",
+          "live"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161748695290916866,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Philadelphia police are responding to a shooting in the city https://t.co/odCTC4HqPr https://t.co/wdDFBdzPcr",
+      "length": 108,
+      "likes": 471,
+      "retweet": 419,
+      "keywords": {
+        "noun": [
+          "philadelphia",
+          "police",
+          "shooting",
+          "city"
+        ],
+        "verb": [
+          "respond"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161732641693032448,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "The Dow plunged 800 points after the bond market flashed a warning signal that often indicates a coming recession https://t.co/ZpAyc4Plzi https://t.co/7hBDhIeEgO",
+      "length": 161,
+      "likes": 843,
+      "retweet": 565,
+      "keywords": {
+        "noun": [
+          "dow",
+          "800",
+          "point",
+          "bond",
+          "market",
+          "warning",
+          "signal",
+          "recession"
+        ],
+        "verb": [
+          "plunge",
+          "flash",
+          "indicate",
+          "come"
+        ],
+        "adj": [],
+        "adv": [
+          "often"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161721034862669824,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNBusiness: The Dow has fallen 700 points after the bond market, for the first time in over a decade, flashed a warning signal that ha\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 236,
+      "keywords": {
+        "noun": [
+          "rt",
+          "cnnbusiness",
+          "dow",
+          "700",
+          "point",
+          "bond",
+          "market",
+          "time",
+          "decade",
+          "warning",
+          "signal",
+          "\u2026"
+        ],
+        "verb": [
+          "fall",
+          "flash",
+          "ha"
+        ],
+        "adj": [
+          "first"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161695370927382530,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Dow's plunge continues -- falling 700+ points -- as recession fears grow https://t.co/ZpAyc4Plzi https://t.co/bW9SD79fub",
+      "length": 120,
+      "likes": 417,
+      "retweet": 256,
+      "keywords": {
+        "noun": [
+          "dow's",
+          "plunge",
+          "700",
+          "point",
+          "recession",
+          "fear"
+        ],
+        "verb": [
+          "continue",
+          "fall",
+          "grow"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161676240249602048,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNPolitics: Republican senator to introduce bill next month making domestic terrorism a punishable federal crime https://t.co/l8yv5J3W\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 141,
+      "keywords": {
+        "noun": [
+          "cnnpolitics",
+          "senator",
+          "bill",
+          "month",
+          "terrorism",
+          "crime"
+        ],
+        "verb": [
+          "introduce",
+          "make"
+        ],
+        "adj": [
+          "rt",
+          "republican",
+          "next",
+          "domestic",
+          "punishable",
+          "federal"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161647104189751296,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Tear gas has been deployed in the Sham Shui Po area as police and protesters face off again in Hong Kong. Watch live updates:\nhttps://t.co/GIju03retq https://t.co/iuddwi1edV",
+      "length": 173,
+      "likes": 233,
+      "retweet": 147,
+      "keywords": {
+        "noun": [
+          "tear",
+          "gas",
+          "sham",
+          "shui",
+          "po",
+          "area",
+          "police",
+          "protester",
+          "hong",
+          "kong",
+          "watch",
+          "update"
+        ],
+        "verb": [
+          "deploy",
+          "face"
+        ],
+        "adj": [
+          "live"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161646700177633286,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "Argentine footballer Emiliano Sala and his pilot were exposed to high levels of carbon monoxide before their plane crashed in the English Channel in January, investigators say\nhttps://t.co/ClKc2BUJZk https://t.co/s0KeP254aZ",
+      "length": 223,
+      "likes": 258,
+      "retweet": 95,
+      "keywords": {
+        "noun": [
+          "argentine",
+          "footballer",
+          "emiliano",
+          "sala",
+          "pilot",
+          "level",
+          "carbon",
+          "monoxide",
+          "plane",
+          "english",
+          "channel",
+          "january",
+          "investigator"
+        ],
+        "verb": [
+          "expose",
+          "crash",
+          "say"
+        ],
+        "adj": [
+          "high"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161632478471294976,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNBusiness: The Dow slid more than 400  points Wednesday after the bond market, for the first time in over a decade, flashed a warning\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 101,
+      "keywords": {
+        "noun": [
+          "rt",
+          "cnnbusiness",
+          "dow",
+          "400",
+          "point",
+          "wednesday",
+          "bond",
+          "market",
+          "time",
+          "decade",
+          "warning",
+          "\u2026"
+        ],
+        "verb": [
+          "slide",
+          "flash"
+        ],
+        "adj": [
+          "first"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161623785004552199,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "RT @CNNBusiness: This marks the first time since 2007 that 10-year bond yields fell below 2-year yields https://t.co/NxVg4sazEB",
+      "length": 127,
+      "likes": 0,
+      "retweet": 223,
+      "keywords": {
+        "noun": [
+          "rt",
+          "cnnbusiness",
+          "time",
+          "since",
+          "2007",
+          "10",
+          "year",
+          "bond",
+          "yield",
+          "2",
+          "year",
+          "yield"
+        ],
+        "verb": [
+          "mark",
+          "fell"
+        ],
+        "adj": [
+          "first"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161613871657996288,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "US rapper A$AP Rocky has been found guilty of assault and gets a conditional sentence after a street brawl in Sweden. His case angered fans and drew the attention of President Trump. \nhttps://t.co/sE2PfEfsdD https://t.co/4sVDnJzSgO",
+      "length": 231,
+      "likes": 549,
+      "retweet": 162,
+      "keywords": {
+        "noun": [
+          "u",
+          "ap",
+          "rocky",
+          "assault",
+          "sentence",
+          "street",
+          "brawl",
+          "sweden",
+          "case",
+          "fan",
+          "attention",
+          "president",
+          "trump"
+        ],
+        "verb": [
+          "rapper",
+          "find",
+          "get",
+          "anger",
+          "draw"
+        ],
+        "adj": [
+          "guilty",
+          "conditional"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161609099546701825,
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+      "text": "WeWork's parent company moves forward with plans to go public despite listing a $1.9 billion loss last year in IPO filing https://t.co/y05XQsdyo1 https://t.co/pysNZ51thk",
+      "length": 169,
+      "likes": 148,
+      "retweet": 55,
+      "keywords": {
+        "noun": [
+          "parent",
+          "company",
+          "plan",
+          "despite",
+          "1.9",
+          "billion",
+          "loss",
+          "year",
+          "ipo",
+          "filing"
+        ],
+        "verb": [
+          "move",
+          "go",
+          "list"
+        ],
+        "adj": [
+          "wework's",
+          "public",
+          "last"
+        ],
+        "adv": [
+          "forward"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1162022689630015495,
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "text": "Israel bars two US members of Congress and Israel critics Rashida Tlaib and Ilhan Omar, deputy foreign minister says https://t.co/jQljOqKw48",
+      "length": 140,
+      "likes": 1186,
+      "retweet": 430,
+      "keywords": {
+        "noun": [
+          "israel",
+          "two",
+          "member",
+          "congress",
+          "israel",
+          "critic",
+          "rashida",
+          "tlaib",
+          "ilhan",
+          "omar",
+          "minister"
+        ],
+        "verb": [
+          "bar",
+          "say"
+        ],
+        "adj": [
+          "us",
+          "deputy",
+          "foreign"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161926814735970305,
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "text": "Gibraltar drops legal proceedings against the crew of an Iranian supertanker detained since 4 July https://t.co/3JLonSwD5O",
+      "length": 122,
+      "likes": 465,
+      "retweet": 183,
+      "keywords": {
+        "noun": [
+          "gibraltar",
+          "proceeding",
+          "crew",
+          "supertanker",
+          "since",
+          "4",
+          "july"
+        ],
+        "verb": [
+          "drop",
+          "detain"
+        ],
+        "adj": [
+          "legal",
+          "iranian"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161881098642743296,
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "text": "Post-mortem results show 'no suspicion of foul play' in death of teenager Nora Quoirin - Malaysian police https://t.co/KythIgt9JH",
+      "length": 129,
+      "likes": 574,
+      "retweet": 206,
+      "keywords": {
+        "noun": [
+          "result",
+          "suspicion",
+          "play",
+          "death",
+          "teenager",
+          "nora",
+          "quoirin",
+          "police"
+        ],
+        "verb": [
+          "show"
+        ],
+        "adj": [
+          "post-mortem",
+          "foul",
+          "malaysian"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161756280828116992,
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "text": "RT @BBCSport: Liverpool add to their Champions League triumph by winning the #SuperCup on penalties.\n\nReaction \ud83d\udc49 https://t.co/OpkPQNpuVp #b\u2026",
+      "length": 140,
+      "likes": 0,
+      "retweet": 270,
+      "keywords": {
+        "noun": [
+          "rt",
+          "bbcsport",
+          "liverpool",
+          "champion",
+          "league",
+          "triumph",
+          "supercup",
+          "penalty",
+          "reaction",
+          "\ud83d\udc49",
+          "b",
+          "\u2026"
+        ],
+        "verb": [
+          "add",
+          "win"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161627081127747586,
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "text": "Footballer Emiliano Sala, who died in a plane crash over the English Channel, had been exposed to high levels of carbon monoxide\n\nhttps://t.co/MoTz8ey0fc",
+      "length": 153,
+      "likes": 920,
+      "retweet": 464,
+      "keywords": {
+        "noun": [
+          "footballer",
+          "emiliano",
+          "sala",
+          "plane",
+          "crash",
+          "english",
+          "channel",
+          "level",
+          "carbon",
+          "monoxide"
+        ],
+        "verb": [
+          "die",
+          "expose"
+        ],
+        "adj": [
+          "high"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161610486498115584,
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "text": "US rapper ASAP Rocky found guilty of assault during Stockholm brawl and given suspended sentence https://t.co/VCkQl0Qvwq",
+      "length": 120,
+      "likes": 1040,
+      "retweet": 409,
+      "keywords": {
+        "noun": [
+          "u",
+          "asap",
+          "rocky",
+          "assault",
+          "stockholm",
+          "brawl",
+          "sentence"
+        ],
+        "verb": [
+          "rapper",
+          "find",
+          "give",
+          "suspend"
+        ],
+        "adj": [
+          "guilty"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1162114412293046272,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Former NASCAR driver Dale Earnhardt Jr. and family survive fiery plane crash at Tennessee airport.\n\n\"Everyone is safe and has been taken to the hospital for further evaluation,\" his sister says. https://t.co/X0mmjQLJkM",
+      "length": 218,
+      "likes": 194,
+      "retweet": 103,
+      "keywords": {
+        "noun": [
+          "nascar",
+          "driver",
+          "dale",
+          "earnhardt",
+          "jr",
+          "family",
+          "fiery",
+          "plane",
+          "crash",
+          "tennessee",
+          "airport",
+          "everyone",
+          "hospital",
+          "evaluation",
+          "sister"
+        ],
+        "verb": [
+          "survive",
+          "take",
+          "say"
+        ],
+        "adj": [
+          "former",
+          "safe"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161775772396412928,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "President Trump tweets that he has \"zero doubt\" that if Chinese President Xi wants \"to quickly and humanely solve the Hong Kong problem, he can do it.\"\n\n\"Personal meeting?\" he added to end the tweet.",
+      "length": 199,
+      "likes": 44,
+      "retweet": 22,
+      "keywords": {
+        "noun": [
+          "president",
+          "trump",
+          "zero",
+          "doubt",
+          "president",
+          "xi",
+          "hong",
+          "kong",
+          "problem",
+          "personal",
+          "meeting",
+          "tweet"
+        ],
+        "verb": [
+          "tweet",
+          "want",
+          "solve",
+          "add",
+          "end"
+        ],
+        "adj": [
+          "chinese"
+        ],
+        "adv": [
+          "quickly",
+          "humanely"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161765531344691200,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "@NBCNewsNow @NBCPhiladelphia Police says at least 6 officers shot in Philadelphia active shooter gun battle; they are at hospitals with non life threatening injuries; other officers are receiving treatment for non-gunshot injuries.\n\nPolice were serving a warrant at the location when the shootout began.",
+      "length": 303,
+      "likes": 64,
+      "retweet": 66,
+      "keywords": {
+        "noun": [
+          "nbcphiladelphia",
+          "police",
+          "6",
+          "officer",
+          "philadelphia",
+          "shooter",
+          "gun",
+          "battle",
+          "hospital",
+          "life",
+          "injury",
+          "officer",
+          "treatment",
+          "injury",
+          "police",
+          "warrant",
+          "location",
+          "shootout"
+        ],
+        "verb": [
+          "say",
+          "shoot",
+          "threaten",
+          "receive",
+          "serve",
+          "begin"
+        ],
+        "adj": [
+          "nbcnewsnow",
+          "least",
+          "active",
+          "non",
+          "non-gunshot"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161762530546634752,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "LIVE: @NBCNewsNow and @NBCPhiladelphia updates on the active shooter gun battle in Philadelphia that has left at least 5 police officers wounded. https://t.co/ryXCrRRtcL",
+      "length": 169,
+      "likes": 35,
+      "retweet": 25,
+      "keywords": {
+        "noun": [
+          "live",
+          "nbcnewsnow",
+          "nbcphiladelphia",
+          "shooter",
+          "gun",
+          "battle",
+          "philadelphia",
+          "5",
+          "police",
+          "officer"
+        ],
+        "verb": [
+          "update",
+          "leave",
+          "wound"
+        ],
+        "adj": [
+          "active",
+          "least"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161758784487923712,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Philadelphia Police spokesperson says 5 police officers have now been shot in ongoing gun battle with at least 1 gunman; asks news outlets to stop broadcasting tactical positions of officers. https://t.co/xG1wpTHqTb",
+      "length": 215,
+      "likes": 148,
+      "retweet": 182,
+      "keywords": {
+        "noun": [
+          "philadelphia",
+          "police",
+          "spokesperson",
+          "5",
+          "police",
+          "officer",
+          "battle",
+          "1",
+          "gunman",
+          "news",
+          "outlet",
+          "position",
+          "officer"
+        ],
+        "verb": [
+          "say",
+          "shoot",
+          "ongoing",
+          "ask",
+          "stop",
+          "broadcast"
+        ],
+        "adj": [
+          "gun",
+          "least",
+          "tactical"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161754344729063424,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Philadelphia Police remain engaged in an active shooting gun battle with at least 1 gunman as of 5:38 p.m. ET. https://t.co/rMlViFhPBL",
+      "length": 134,
+      "likes": 80,
+      "retweet": 89,
+      "keywords": {
+        "noun": [
+          "philadelphia",
+          "police",
+          "shooting",
+          "battle",
+          "1",
+          "gunman",
+          "5:38",
+          "p",
+          "et"
+        ],
+        "verb": [
+          "remain",
+          "engage"
+        ],
+        "adj": [
+          "active",
+          "gun",
+          "least"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161750006702989314,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Multiple police officers have been shot in shooting incident that is still unfolding in Philadelphia. https://t.co/xG1wpTHqTb",
+      "length": 125,
+      "likes": 87,
+      "retweet": 127,
+      "keywords": {
+        "noun": [
+          "police",
+          "officer",
+          "incident",
+          "philadelphia"
+        ],
+        "verb": [
+          "shoot",
+          "shoot",
+          "unfold"
+        ],
+        "adj": [
+          "multiple"
+        ],
+        "adv": [
+          "still"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161745719239335936,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Philadelphia Police say at least 1 gunman is firing at police in this incident. \n\nLIVE: @NBCPhiladelphia coverage of the active shooting incident in the city's Nicetown section. https://t.co/flC3fepqXJ",
+      "length": 201,
+      "likes": 82,
+      "retweet": 96,
+      "keywords": {
+        "noun": [
+          "philadelphia",
+          "police",
+          "1",
+          "gunman",
+          "police",
+          "incident",
+          "coverage",
+          "shooting",
+          "incident",
+          "city's",
+          "nicetown",
+          "section"
+        ],
+        "verb": [
+          "say",
+          "fire",
+          "live"
+        ],
+        "adj": [
+          "least",
+          "nbcphiladelphia",
+          "active"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161743827486617605,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Active shooting incident unfolding in Philadelphia. https://t.co/UxBgIImgdt",
+      "length": 75,
+      "likes": 273,
+      "retweet": 416,
+      "keywords": {
+        "noun": [
+          "incident",
+          "philadelphia"
+        ],
+        "verb": [
+          "shoot",
+          "unfold"
+        ],
+        "adj": [
+          "active"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161730739311906826,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "@CNBC Dow closes down 800 points, or 3%, on Wednesday, as a key potential recession indicator rings an alarm bell. https://t.co/LEhzvnFjC7",
+      "length": 138,
+      "likes": 70,
+      "retweet": 69,
+      "keywords": {
+        "noun": [
+          "cnbc",
+          "dow",
+          "800",
+          "point",
+          "3",
+          "wednesday",
+          "recession",
+          "indicator",
+          "alarm",
+          "bell"
+        ],
+        "verb": [
+          "close",
+          "ring"
+        ],
+        "adj": [
+          "key",
+          "potential"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161684300435267584,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Dow falls 700 points as sell-off accelerates; Nasdaq down 3%; S&amp;P 500 tumbles 2.6%.\nhttps://t.co/D4C0KCso8c - @CNBC",
+      "length": 119,
+      "likes": 64,
+      "retweet": 91,
+      "keywords": {
+        "noun": [
+          "dow",
+          "700",
+          "point",
+          "accelerates",
+          "nasdaq",
+          "3",
+          "p",
+          "500",
+          "2.6",
+          "cnbc"
+        ],
+        "verb": [
+          "fall",
+          "tumble"
+        ],
+        "adj": [
+          "sell-off"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161647365893349376,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "The yield on the benchmark 10-year US Treasury note broke below the 2-year rate, an odd bond market phenomenon that has been a reliable indicator for economic recessions. The move shows increasing worries about the global economy. https://t.co/nOlpqPh9IV",
+      "length": 254,
+      "likes": 168,
+      "retweet": 134,
+      "keywords": {
+        "noun": [
+          "yield",
+          "benchmark",
+          "10",
+          "year",
+          "u",
+          "treasury",
+          "note",
+          "2",
+          "year",
+          "rate",
+          "bond",
+          "market",
+          "phenomenon",
+          "indicator",
+          "recession",
+          "move",
+          "worry",
+          "economy"
+        ],
+        "verb": [
+          "break",
+          "show",
+          "increase"
+        ],
+        "adj": [
+          "odd",
+          "reliable",
+          "economic",
+          "global"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161611599569928192,
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+      "text": "Rapper A$AP Rocky found guilty of assault in Sweden. https://t.co/KQh9lF72Ug",
+      "length": 76,
+      "likes": 107,
+      "retweet": 69,
+      "keywords": {
+        "noun": [
+          "rapper",
+          "ap",
+          "rocky",
+          "assault",
+          "sweden"
+        ],
+        "verb": [
+          "find"
+        ],
+        "adj": [
+          "guilty"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1162294960495964160,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Child protection expert Jim Gamble who has been advising the family of Nora Quoirin has told Sky News that there are still questions to be answered about the disappearance and death of the 15-year-old in Malaysia",
+      "length": 212,
+      "likes": 16,
+      "retweet": 5,
+      "keywords": {
+        "noun": [
+          "child",
+          "protection",
+          "expert",
+          "jim",
+          "gamble",
+          "family",
+          "nora",
+          "quoirin",
+          "sky",
+          "news",
+          "question",
+          "disappearance",
+          "death",
+          "15",
+          "year-old",
+          "malaysia"
+        ],
+        "verb": [
+          "advise",
+          "tell",
+          "answer"
+        ],
+        "adj": [],
+        "adv": [
+          "still"
+        ]
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162275762994417665,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Turkey's military pension fund, Oyak, has been confirmed as the buyer of British Steel",
+      "length": 86,
+      "likes": 154,
+      "retweet": 124,
+      "keywords": {
+        "noun": [
+          "turkey's",
+          "pension",
+          "fund",
+          "oyak",
+          "buyer",
+          "steel"
+        ],
+        "verb": [
+          "confirm"
+        ],
+        "adj": [
+          "military",
+          "british"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162036236699275264,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "A Foreign Office spokesperson says there is no comparison or linkage between \"Iran's unacceptable and illegal seizure of, and attacks on, commercial shipping vessels in the Strait of Hormuz and the enforcement of EU Syria sanctions by the government of Gibraltar\"",
+      "length": 263,
+      "likes": 37,
+      "retweet": 15,
+      "keywords": {
+        "noun": [
+          "foreign",
+          "office",
+          "spokesperson",
+          "comparison",
+          "linkage",
+          "iran's",
+          "seizure",
+          "attack",
+          "shipping",
+          "vessel",
+          "strait",
+          "hormuz",
+          "enforcement",
+          "eu",
+          "syria",
+          "sanction",
+          "government",
+          "gibraltar"
+        ],
+        "verb": [
+          "say"
+        ],
+        "adj": [
+          "unacceptable",
+          "illegal",
+          "commercial"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162036010982813701,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "A Foreign Office spokesperson says the UK notes that the government of Gibraltar has received assurances from Iran that the supertanker Grace 1 will not proceed to Syria and Iran must \"abide by the assurances they have provided\"",
+      "length": 228,
+      "likes": 50,
+      "retweet": 23,
+      "keywords": {
+        "noun": [
+          "foreign",
+          "office",
+          "spokesperson",
+          "uk",
+          "note",
+          "government",
+          "gibraltar",
+          "assurance",
+          "iran",
+          "supertanker",
+          "grace",
+          "1",
+          "syria",
+          "iran",
+          "must",
+          "abide",
+          "assurance"
+        ],
+        "verb": [
+          "say",
+          "receive",
+          "proceed",
+          "provide"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161928930766532613,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Conservative MPs who Jeremy Corbyn has written to over plans to avoid a 'no-deal' Brexit have said they are \"happy to meet\" the Labour leader and opposition parties to discuss proposals",
+      "length": 185,
+      "likes": 417,
+      "retweet": 179,
+      "keywords": {
+        "noun": [
+          "mp",
+          "jeremy",
+          "corbyn",
+          "plan",
+          "brexit",
+          "labour",
+          "leader",
+          "opposition",
+          "party",
+          "proposal"
+        ],
+        "verb": [
+          "write",
+          "avoid",
+          "say",
+          "meet",
+          "discuss"
+        ],
+        "adj": [
+          "conservative",
+          "no-deal",
+          "happy"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161897778764746752,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Shannon Airport has confirmed operations are temporarily suspended after an incident involving a Boeing 763 aircraft and it is currently working to remove the aircraft from the scene",
+      "length": 182,
+      "likes": 62,
+      "retweet": 62,
+      "keywords": {
+        "noun": [
+          "shannon",
+          "airport",
+          "operation",
+          "incident",
+          "boeing",
+          "763",
+          "aircraft",
+          "aircraft",
+          "scene"
+        ],
+        "verb": [
+          "confirm",
+          "suspend",
+          "involve",
+          "work",
+          "remove"
+        ],
+        "adj": [],
+        "adv": [
+          "temporarily",
+          "currently"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161894818341171200,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Initial Ucas figures show the total number of students accepted on to UK degree courses has fallen with 408,960 taking up places so far which is down 1% on the same point last year",
+      "length": 180,
+      "likes": 40,
+      "retweet": 18,
+      "keywords": {
+        "noun": [
+          "uca",
+          "figure",
+          "number",
+          "student",
+          "uk",
+          "degree",
+          "course",
+          "408,960",
+          "place",
+          "1",
+          "point",
+          "year"
+        ],
+        "verb": [
+          "show",
+          "accept",
+          "fall",
+          "take"
+        ],
+        "adj": [
+          "initial",
+          "total",
+          "last"
+        ],
+        "adv": [
+          "far"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161878898516381696,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Police in Malaysia confirm 15-year-old Nora Quoirin died from intestinal damage likely from prolonged hunger and stress and a post mortem has not found evidence of rape or kidnapping",
+      "length": 182,
+      "likes": 197,
+      "retweet": 87,
+      "keywords": {
+        "noun": [
+          "police",
+          "malaysia",
+          "15",
+          "nora",
+          "quoirin",
+          "damage",
+          "hunger",
+          "stress",
+          "post",
+          "mortem",
+          "evidence",
+          "rape",
+          "kidnapping"
+        ],
+        "verb": [
+          "confirm",
+          "die",
+          "prolong",
+          "find"
+        ],
+        "adj": [
+          "year-old",
+          "intestinal"
+        ],
+        "adv": [
+          "likely"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161755894683701249,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Liverpool have won the 2019 UEFA Super Cup after beating Chelsea in a penalty shoot-out following a 2-2 draw in Istanbul",
+      "length": 120,
+      "likes": 513,
+      "retweet": 100,
+      "keywords": {
+        "noun": [
+          "liverpool",
+          "2019",
+          "uefa",
+          "super",
+          "cup",
+          "chelsea",
+          "penalty",
+          "shoot-out",
+          "draw",
+          "istanbul"
+        ],
+        "verb": [
+          "beat",
+          "follow"
+        ],
+        "adj": [
+          "2-2"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161747545162420224,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "The Liberal Democrats have announced former Conservative MP Sarah Wollaston has joined the party",
+      "length": 96,
+      "likes": 539,
+      "retweet": 203,
+      "keywords": {
+        "noun": [
+          "liberal",
+          "democrat",
+          "conservative",
+          "mp",
+          "sarah",
+          "wollaston",
+          "party"
+        ],
+        "verb": [
+          "announce",
+          "join"
+        ],
+        "adj": [
+          "former"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161714080744464384,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "The wife of pilot David Ibbotson who died in a plane crash alongside Emiliano Sala on 21 January has told Sky News toxicology tests which found \"potentially fatal\" levels of carbon monoxide in the footballer's blood which also \"likely\" affected the pilot came as a \"massive shock\"",
+      "length": 280,
+      "likes": 40,
+      "retweet": 14,
+      "keywords": {
+        "noun": [
+          "wife",
+          "pilot",
+          "david",
+          "ibbotson",
+          "plane",
+          "crash",
+          "alongside",
+          "emiliano",
+          "sala",
+          "21",
+          "january",
+          "sky",
+          "news",
+          "toxicology",
+          "test",
+          "level",
+          "carbon",
+          "monoxide",
+          "footballer's",
+          "blood",
+          "pilot",
+          "shock"
+        ],
+        "verb": [
+          "die",
+          "tell",
+          "find",
+          "affect",
+          "come"
+        ],
+        "adj": [
+          "fatal",
+          "likely",
+          "massive"
+        ],
+        "adv": [
+          "potentially",
+          "also"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161684927873769472,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Sky News has seen Sir Mark Sedwill's response to a letter he received from Jeremy Corbyn in which the Cabinet Secretary says he will ensure the \"full and proper application\" of rules in the pre-election period if there were to be a general election before the Brexit date",
+      "length": 271,
+      "likes": 50,
+      "retweet": 26,
+      "keywords": {
+        "noun": [
+          "sky",
+          "news",
+          "sir",
+          "mark",
+          "sedwill's",
+          "response",
+          "letter",
+          "jeremy",
+          "corbyn",
+          "cabinet",
+          "secretary",
+          "application",
+          "rule",
+          "pre-election",
+          "period",
+          "election",
+          "brexit",
+          "date"
+        ],
+        "verb": [
+          "see",
+          "receive",
+          "say",
+          "ensure"
+        ],
+        "adj": [
+          "full",
+          "proper",
+          "general"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161629971724558336,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "The Air Accident Investigation branch says footballer Emiliano Sala and his pilot David Ibbotson had been exposed to harmful levels of carbon monoxide in the cockpit of their private plane when it crashed in the English Channel on 21 January",
+      "length": 241,
+      "likes": 158,
+      "retweet": 90,
+      "keywords": {
+        "noun": [
+          "air",
+          "accident",
+          "investigation",
+          "branch",
+          "footballer",
+          "emiliano",
+          "sala",
+          "pilot",
+          "david",
+          "ibbotson",
+          "level",
+          "carbon",
+          "monoxide",
+          "cockpit",
+          "plane",
+          "english",
+          "channel",
+          "21",
+          "january"
+        ],
+        "verb": [
+          "say",
+          "expose",
+          "crash"
+        ],
+        "adj": [
+          "harmful",
+          "private"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161611257134247936,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "A Swedish court has found American rapper A$AP Rocky guilty of assault over his role in a 30 June street fight in Stockholm and has handed him a suspended sentence",
+      "length": 163,
+      "likes": 95,
+      "retweet": 48,
+      "keywords": {
+        "noun": [
+          "court",
+          "american",
+          "ap",
+          "rocky",
+          "assault",
+          "role",
+          "30",
+          "june",
+          "street",
+          "fight",
+          "stockholm",
+          "sentence"
+        ],
+        "verb": [
+          "find",
+          "rapper",
+          "hand",
+          "suspend"
+        ],
+        "adj": [
+          "swedish",
+          "guilty"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161573825487790080,
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+      "text": "Campaigner Marcus Ball has lost a bid to take his legal fight against Prime Minister Boris Johnson over the \u00a3350 million EU referendum bus claim to the Supreme Court",
+      "length": 165,
+      "likes": 849,
+      "retweet": 249,
+      "keywords": {
+        "noun": [
+          "campaigner",
+          "marcus",
+          "ball",
+          "bid",
+          "fight",
+          "prime",
+          "minister",
+          "boris",
+          "johnson",
+          "350",
+          "million",
+          "eu",
+          "referendum",
+          "bus",
+          "claim",
+          "supreme",
+          "court"
+        ],
+        "verb": [
+          "lose",
+          "take"
+        ],
+        "adj": [
+          "legal",
+          "\u00a3"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1162292503678201857,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "KNUT OFFICIALS locked out of Education conference at KICC, asked to get identification badges from Interior ministry; Uhuru expected to attend. https://t.co/6bXka9EcNN",
+      "length": 167,
+      "likes": 29,
+      "retweet": 24,
+      "keywords": {
+        "noun": [
+          "knut",
+          "official",
+          "education",
+          "conference",
+          "kicc",
+          "identification",
+          "badge",
+          "interior",
+          "ministry",
+          "uhuru"
+        ],
+        "verb": [
+          "lock",
+          "ask",
+          "get",
+          "expect",
+          "attend"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-16-2019"
+    },
+    {
+      "id": 1162023058112241664,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "UHURU LIFTS suspension of Justice Jackton Ojwang; says he is immediately reinstated to office and entitled to pay and benefits. https://t.co/4y3lKzEb6o",
+      "length": 151,
+      "likes": 182,
+      "retweet": 58,
+      "keywords": {
+        "noun": [
+          "uhuru",
+          "lift",
+          "suspension",
+          "justice",
+          "jackton",
+          "ojwang",
+          "office",
+          "benefit"
+        ],
+        "verb": [
+          "say",
+          "reinstate",
+          "entitle",
+          "pay"
+        ],
+        "adj": [],
+        "adv": [
+          "immediately"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162012345071263745,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "COURT SUSPENDS order to freeze accounts of businessman Humphrey Kariuki in Sh41bn tax evasion probe until cases by DPP, Wow Beverages are heard. https://t.co/3PEeCoee9P",
+      "length": 168,
+      "likes": 71,
+      "retweet": 34,
+      "keywords": {
+        "noun": [
+          "court",
+          "suspends",
+          "order",
+          "account",
+          "businessman",
+          "humphrey",
+          "kariuki",
+          "sh41bn",
+          "tax",
+          "evasion",
+          "probe",
+          "case",
+          "dpp",
+          "wow",
+          "beverage"
+        ],
+        "verb": [
+          "freeze",
+          "hear"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1162010095481425920,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "POLICE IN Kakamega detain 10, including 5 county officers, for questioning after body of youth service staff is exhumed and uniform retrieved.",
+      "length": 142,
+      "likes": 130,
+      "retweet": 61,
+      "keywords": {
+        "noun": [
+          "police",
+          "kakamega",
+          "detain",
+          "10",
+          "5",
+          "county",
+          "officer",
+          "body",
+          "service",
+          "staff"
+        ],
+        "verb": [
+          "include",
+          "question",
+          "exhume",
+          "retrieve"
+        ],
+        "adj": [
+          "youth",
+          "uniform"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161968261216505857,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "WATER CS Chelugui says 4,404 pollutants found in Nairobi River, tens of industries may be ordered shut down; lauds Nation Toxic Flow expos\u00e9. #ToxicFlow https://t.co/57kt4kNAVb",
+      "length": 175,
+      "likes": 116,
+      "retweet": 66,
+      "keywords": {
+        "noun": [
+          "water",
+          "c",
+          "chelugui",
+          "4,404",
+          "pollutant",
+          "nairobi",
+          "river",
+          "ten",
+          "industry",
+          "may",
+          "nation",
+          "toxic",
+          "flow",
+          "expos\u00e9"
+        ],
+        "verb": [
+          "say",
+          "find",
+          "order",
+          "toxicflow"
+        ],
+        "adj": [
+          "lauds"
+        ],
+        "adv": [
+          "shut"
+        ]
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161952986274390018,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "SUPREME COURT allows MPs time to pursue mediation over county revenue share after National Assembly says it has formed team, waiting on Senate. https://t.co/Mpq8lPVobl",
+      "length": 167,
+      "likes": 28,
+      "retweet": 9,
+      "keywords": {
+        "noun": [
+          "supreme",
+          "court",
+          "mp",
+          "time",
+          "mediation",
+          "county",
+          "revenue",
+          "share",
+          "national",
+          "assembly",
+          "team",
+          "senate"
+        ],
+        "verb": [
+          "allow",
+          "pursue",
+          "say",
+          "form",
+          "wait"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161945665951473664,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "HIGH COURT judges to visit Mzee Kenyatta statue today to establish if it is part of KICC building in Omtatah case against CBK on new bank notes. https://t.co/nfayENrEBx",
+      "length": 168,
+      "likes": 379,
+      "retweet": 181,
+      "keywords": {
+        "noun": [
+          "court",
+          "judge",
+          "mzee",
+          "kenyatta",
+          "statue",
+          "today",
+          "part",
+          "kicc",
+          "building",
+          "omtatah",
+          "case",
+          "cbk",
+          "bank",
+          "note"
+        ],
+        "verb": [
+          "visit",
+          "establish"
+        ],
+        "adj": [
+          "high",
+          "new"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161944722937647104,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "KENYAN, 2 Ethiopian herders killed and 100 camels stolen in Ethiopia, Banisa sub-county boss Tanui says Kenyans crossed border due to drought.",
+      "length": 142,
+      "likes": 46,
+      "retweet": 14,
+      "keywords": {
+        "noun": [
+          "kenyan",
+          "2",
+          "herder",
+          "100",
+          "camel",
+          "ethiopia",
+          "banisa",
+          "bos",
+          "tanui",
+          "kenyan",
+          "border"
+        ],
+        "verb": [
+          "kill",
+          "steal",
+          "say",
+          "drought"
+        ],
+        "adj": [
+          "ethiopian",
+          "sub-county",
+          "crossed",
+          "due"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161926889067466752,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "COURT ORDERS the freeze of bank accounts of wanted billionaire Humphrey Kariuki over Sh41 billion tax evasion. https://t.co/K21dC9RiPH",
+      "length": 134,
+      "likes": 80,
+      "retweet": 37,
+      "keywords": {
+        "noun": [
+          "court",
+          "freeze",
+          "bank",
+          "account",
+          "billionaire",
+          "humphrey",
+          "kariuki",
+          "sh41",
+          "billion",
+          "tax",
+          "evasion"
+        ],
+        "verb": [
+          "order"
+        ],
+        "adj": [
+          "wanted"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161924541913993216,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "COURT STOPS burial of slain Chuka University student Maureen Mwihaki until murder case is heard and determined; suspects detained for 14 days. https://t.co/gtrgpdnYny",
+      "length": 166,
+      "likes": 36,
+      "retweet": 9,
+      "keywords": {
+        "noun": [
+          "court",
+          "stop",
+          "burial",
+          "slain",
+          "chuka",
+          "university",
+          "student",
+          "maureen",
+          "mwihaki",
+          "murder",
+          "case",
+          "suspect",
+          "14",
+          "day"
+        ],
+        "verb": [
+          "hear",
+          "determine",
+          "detain"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161874717453762560,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "US BANS former Sudan National Intelligence and Security Service chief Salah Ghosh, his wife, and daughter from entry; accuses him of torture. https://t.co/xTAtoLXLHV",
+      "length": 165,
+      "likes": 127,
+      "retweet": 35,
+      "keywords": {
+        "noun": [
+          "u",
+          "ban",
+          "sudan",
+          "national",
+          "intelligence",
+          "security",
+          "service",
+          "chief",
+          "salah",
+          "ghosh",
+          "wife",
+          "daughter",
+          "entry",
+          "torture"
+        ],
+        "verb": [
+          "accuse"
+        ],
+        "adj": [
+          "former"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-15-2019"
+    },
+    {
+      "id": 1161654124443852800,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "SUPER PETROL and diesel prices drop by Sh2.86 and Sh3.28 per litre respectively as kerosene price increases by Sh1.98 in August review. https://t.co/hWYRv1GXM1",
+      "length": 159,
+      "likes": 145,
+      "retweet": 113,
+      "keywords": {
+        "noun": [
+          "super",
+          "petrol",
+          "diesel",
+          "price",
+          "drop",
+          "sh2",
+          "86",
+          "sh3",
+          "28",
+          "per",
+          "litre",
+          "price",
+          "increase",
+          "sh1",
+          "98",
+          "august",
+          "review"
+        ],
+        "verb": [],
+        "adj": [
+          "kerosene"
+        ],
+        "adv": [
+          "respectively"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161627878880161792,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "UHURU ASKS Senate, National Assembly to end dispute over counties revenue for govt to release money; says no extra funds as resources are limited. https://t.co/Wek5X2R9DR",
+      "length": 170,
+      "likes": 70,
+      "retweet": 31,
+      "keywords": {
+        "noun": [
+          "uhuru",
+          "asks",
+          "senate",
+          "national",
+          "assembly",
+          "dispute",
+          "county",
+          "revenue",
+          "govt",
+          "money",
+          "fund",
+          "resource"
+        ],
+        "verb": [
+          "end",
+          "release",
+          "say",
+          "limit"
+        ],
+        "adj": [
+          "extra"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161627013301637120,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "TOLL FROM Tanzania fuel truck explosion rises to 82 after more people die from their injuries; preliminary report from inquiry expected this week. https://t.co/AUuvFjTfyF",
+      "length": 170,
+      "likes": 32,
+      "retweet": 24,
+      "keywords": {
+        "noun": [
+          "toll",
+          "tanzania",
+          "fuel",
+          "truck",
+          "explosion",
+          "82",
+          "people",
+          "injury",
+          "report",
+          "inquiry",
+          "week"
+        ],
+        "verb": [
+          "rise",
+          "die",
+          "expect"
+        ],
+        "adj": [
+          "preliminary"
+        ],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161625320300122115,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "NATIONAL ASSEMBLY Speaker Justin Muturi officially declares Kibra seat vacant; paves way for a by-election after the death of MP Ken Okoth. https://t.co/m1F4sV59Y7",
+      "length": 163,
+      "likes": 191,
+      "retweet": 66,
+      "keywords": {
+        "noun": [
+          "national",
+          "assembly",
+          "speaker",
+          "justin",
+          "muturi",
+          "kibra",
+          "seat",
+          "vacant",
+          "way",
+          "by-election",
+          "death",
+          "mp",
+          "ken",
+          "okoth"
+        ],
+        "verb": [
+          "declare",
+          "pave"
+        ],
+        "adj": [],
+        "adv": [
+          "officially"
+        ]
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    },
+    {
+      "id": 1161564233731104770,
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+      "text": "KWS FILES class action suit against more than 233 individuals who it says have encroached on Tsavo East park; agency seeks eviction order. https://t.co/nKEsqvZNvc",
+      "length": 162,
+      "likes": 45,
+      "retweet": 28,
+      "keywords": {
+        "noun": [
+          "kw",
+          "file",
+          "class",
+          "action",
+          "suit",
+          "233",
+          "individual",
+          "tsavo",
+          "east",
+          "park",
+          "agency",
+          "eviction",
+          "order"
+        ],
+        "verb": [
+          "say",
+          "encroach",
+          "seek"
+        ],
+        "adj": [],
+        "adv": []
+      },
+      "verified": true,
+      "date": "08-14-2019"
+    }
+  ]
+}

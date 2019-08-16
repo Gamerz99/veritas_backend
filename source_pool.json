@@ -1,0 +1,29 @@
+{
+  "pool": [
+    {
+      "name": "CNN Breaking News",
+      "screen_name": "cnnbrk",
+      "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg"
+    },
+    {
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "image": "http://pbs.twimg.com/profile_images/875701863957630977/KTviCCaU_normal.jpg"
+    },
+    {
+      "name": "Breaking News",
+      "screen_name": "BreakingNews",
+      "image": "https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png"
+    },
+     {
+      "name": "Sky News Breaking",
+      "screen_name": "SkyNewsBreak",
+      "image": "https://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg"
+    },
+     {
+      "name": "NationBreakingNews",
+      "screen_name": "NationBreaking",
+      "image": "https://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png"
+    }
+  ]
+}
