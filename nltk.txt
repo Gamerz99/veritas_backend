@@ -1,4 +1,1 @@
-nltk.tokenize
-nltk.corpus
-nltk.stem
-nltk.classify
+wordnet
