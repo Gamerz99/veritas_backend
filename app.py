@@ -37,20 +37,20 @@ class check(Resource):
 
         if data:
             recent = keyword_extract.extract(data)
-            # with open('tweets.json') as json_file:
-            #     data = json.load(json_file)
-            #     for d in data['data']:
-            #         keywords = {'verb': d['keywords']['verb'], 'noun':d['keywords']['noun'], 'adj': d['keywords']['adj'], 'adv': d['keywords']['adv']}
-            #         tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date']})
-            #
-            # for tweet in tweets:
-            #     threshold = 1
-            #     for count in range(1, 3):
-            #         if result != 1 and keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'], threshold) and keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'],threshold):
-            #             result = count
-            #             related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes']})
-            #             rescount = rescount + 1
-            #         threshold = 0.5
+            with open('tweets.json') as json_file:
+                data = json.load(json_file)
+                for d in data['data']:
+                    keywords = {'verb': d['keywords']['verb'], 'noun':d['keywords']['noun'], 'adj': d['keywords']['adj'], 'adv': d['keywords']['adv']}
+                    tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date']})
+
+            for tweet in tweets:
+                threshold = 1
+                for count in range(1, 3):
+                    if result != 1 and keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'], threshold) and keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'],threshold):
+                        result = count
+                        related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes']})
+                        rescount = rescount + 1
+                    threshold = 0.5
 
         response = {"message": "success", "count": rescount, "response": result, "related": related}
         return {"data": response}, 200
