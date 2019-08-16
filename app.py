@@ -5,9 +5,6 @@ import time, threading
 import json
 import keyword_extract
 from flask_cors import CORS
-import nltk
-
-nltk.download()
 
 app = Flask(__name__)
 CORS(app)
