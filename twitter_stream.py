@@ -136,6 +136,7 @@ def search_hashtags():
 
 
 def tweet_crowler():
+    print("s")
 
     fetched_tweets = "tweets.json"
     source_list = []
@@ -148,7 +149,7 @@ def tweet_crowler():
     twitter_client = TwitterClient()
     tweet_analyzer = TweetAnalyzer(fetched_tweets)
 
-    tweets = twitter_client.get_user_timeline_tweets(source_list, 100)
+    tweets = twitter_client.get_user_timeline_tweets(source_list, 10)
     tweet_analyzer.tweets_to_json(tweets)
 
 

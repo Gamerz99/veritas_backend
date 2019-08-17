@@ -5,18 +5,22 @@ import time, threading
 import json
 import keyword_extract
 from flask_cors import CORS
-import datetime
+from apscheduler.schedulers.background import BackgroundScheduler
 
 app = Flask(__name__)
 CORS(app)
 api = Api(app)
-
 parser = reqparse.RequestParser()
+scheduler = BackgroundScheduler()
 
 
 def timer():
     twitter_stream.tweet_crowler()
     threading.Timer(120, timer).start()
+
+
+def crowler():
+    twitter_stream.tweet_crowler()
 
 
 class home(Resource):
@@ -73,6 +77,10 @@ api.add_resource(check, "/check")
 api.add_resource(source_pool, "/source_pool")
 
 if __name__ == "__main__":
-    timer()
+    scheduler.add_job(func=crowler, trigger="interval", seconds=120)
+    scheduler.start()
     app.run()
+
+
+
 
