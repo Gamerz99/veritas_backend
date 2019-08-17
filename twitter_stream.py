@@ -3,7 +3,7 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 from tweepy import API
 from tweepy import Cursor
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta,timezone
 
 import os
 import json
@@ -107,16 +107,19 @@ class TweetAnalyzer():
         try:
             with open(self.fetched_tweets, 'a') as tf:
                 for tweet in tweets:
-                    date = tweet.created_at.strftime('%m-%d-%Y')
-                    time = tweet.created_at.strftime('%H-%M')
-                    write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'time': time})
+                    date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
+                    write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date})
                 json.dump(write_data, tf, indent=2)
-
+            print(date)
             tf.close()
             return True
         except BaseException as e:
             print (e)
             return True
+
+
+def utc_to_local(utc_dt):
+    return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
 
 
 def search_hashtags():
