@@ -24,7 +24,7 @@ class TwitterClient():
 
     def get_user_timeline_tweets(self, twitter_source, num_tweets):
 
-        startDate =  datetime.now() - timedelta(hours=60)
+        startDate =  datetime.now() - timedelta(hours=90)
         tweets = []
         for source in twitter_source:
             for tweet in Cursor(self.twitter_client.user_timeline, screen_name=source, tweet_mode='extended').items(num_tweets):
@@ -98,7 +98,7 @@ class TweetAnalyzer():
 
         return df
 
-    def tweets_to_json(self,tweets):
+    def tweets_to_json(self, tweets):
         write_data = {}
         write_data['data'] = []
 
@@ -106,12 +106,10 @@ class TweetAnalyzer():
             os.remove("tweets.json")
         try:
             with open(self.fetched_tweets, 'a') as tf:
-                print(tweets)
                 for tweet in tweets:
-                    #print(tweet.entities.urls[0].expanded_url)
                     date = tweet.created_at.strftime('%m-%d-%Y')
-                    write_data['data'].append({'id':tweet.id,'name':tweet.user.name,'screen_name':tweet.user.screen_name,'image':tweet.user.profile_image_url,'text': tweet.full_text, 'length':len(tweet.full_text),'likes':tweet.favorite_count,'retweet':tweet.retweet_count, 'keywords':keyword_extract.extract(tweet.full_text), 'verified':tweet.user.verified,'date':date})
-
+                    time = tweet.created_at.strftime('%H-%M')
+                    write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'time': time})
                 json.dump(write_data, tf, indent=2)
 
             tf.close()
@@ -148,7 +146,7 @@ def tweet_crowler():
     twitter_client = TwitterClient()
     tweet_analyzer = TweetAnalyzer(fetched_tweets)
 
-    tweets = twitter_client.get_user_timeline_tweets(source_list, 50)
+    tweets = twitter_client.get_user_timeline_tweets(source_list, 100)
     tweet_analyzer.tweets_to_json(tweets)
 
 
