@@ -3,7 +3,7 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 from tweepy import API
 from tweepy import Cursor
-from datetime import datetime, timedelta,timezone
+from datetime import datetime, timedelta, timezone
 
 import os
 import json
@@ -24,7 +24,7 @@ class TwitterClient():
 
     def get_user_timeline_tweets(self, twitter_source, num_tweets):
 
-        startDate =  datetime.now() - timedelta(hours=90)
+        startDate = datetime.now() - timedelta(hours=90)
         tweets = []
         for source in twitter_source:
             for tweet in Cursor(self.twitter_client.user_timeline, screen_name=source, tweet_mode='extended').items(num_tweets):
@@ -110,7 +110,6 @@ class TweetAnalyzer():
                     date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
                     write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date})
                 json.dump(write_data, tf, indent=2)
-            print(date)
             tf.close()
             return True
         except BaseException as e:

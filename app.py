@@ -5,6 +5,7 @@ import time, threading
 import json
 import keyword_extract
 from flask_cors import CORS
+import datetime
 
 app = Flask(__name__)
 CORS(app)
@@ -15,7 +16,7 @@ parser = reqparse.RequestParser()
 
 def timer():
     twitter_stream.tweet_crowler()
-    threading.Timer(60, timer).start()
+    threading.Timer(120, timer).start()
 
 
 class home(Resource):
