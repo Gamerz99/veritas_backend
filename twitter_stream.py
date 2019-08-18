@@ -102,7 +102,11 @@ class TweetAnalyzer():
         write_data = {}
         write_data['data'] = []
 
-        os.remove("tweets.json")
+        try:
+            os.remove("tweets.json")
+        except OSError as e:
+            print("Failed with:", e.strerror_)
+
         try:
             with open(self.fetched_tweets, 'w') as tf:
                 for tweet in tweets:
