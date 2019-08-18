@@ -149,7 +149,7 @@ def tweet_crowler():
     twitter_client = TwitterClient()
     tweet_analyzer = TweetAnalyzer(fetched_tweets)
 
-    tweets = twitter_client.get_user_timeline_tweets(source_list, 100)
+    tweets = twitter_client.get_user_timeline_tweets(source_list, 50)
     tweet_analyzer.tweets_to_json(tweets)
 
 
