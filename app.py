@@ -77,7 +77,7 @@ api.add_resource(check, "/check")
 api.add_resource(source_pool, "/source_pool")
 
 if __name__ == "__main__":
-    scheduler.add_job(func=crowler, trigger="interval", seconds=120)
+    scheduler.add_job(func=crowler, trigger="interval", seconds=900)
     scheduler.start()
     app.run()
 
