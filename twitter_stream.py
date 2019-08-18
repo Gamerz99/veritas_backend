@@ -105,7 +105,7 @@ class TweetAnalyzer():
         if os.path.exists("tweets.json"):
             os.remove("tweets.json")
         try:
-            with open(self.fetched_tweets, 'a') as tf:
+            with open(self.fetched_tweets, 'w') as tf:
                 for tweet in tweets:
                     updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                     date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
