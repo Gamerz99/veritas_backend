@@ -46,14 +46,14 @@ class check(Resource):
                 data = json.load(json_file)
                 for d in data['data']:
                     keywords = {'verb': d['keywords']['verb'], 'noun':d['keywords']['noun'], 'adj': d['keywords']['adj'], 'adv': d['keywords']['adv']}
-                    tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date']})
+                    tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date'], 'updated': d['updated']})
 
             for tweet in tweets:
                 threshold = 1
                 for count in range(1, 3):
                     if result != 1 and keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'], threshold) and keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'],threshold):
                         result = count
-                        related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes']})
+                        related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes'],  'updated': tweet['updated']})
                         rescount = rescount + 1
                     threshold = 0.5
 
@@ -77,7 +77,7 @@ api.add_resource(check, "/check")
 api.add_resource(source_pool, "/source_pool")
 
 if __name__ == "__main__":
-    scheduler.add_job(func=crowler, trigger="interval", seconds=900)
+    scheduler.add_job(func=crowler, trigger="interval", seconds=300)
     scheduler.start()
     app.run()
 
