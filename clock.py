@@ -4,7 +4,7 @@ import twitter_stream
 sched = BlockingScheduler()
 
 
-@sched.scheduled_job('interval', minutes=1)
+@sched.scheduled_job('interval', minutes=5)
 def timed_job():
     twitter_stream.tweet_crowler()
 
