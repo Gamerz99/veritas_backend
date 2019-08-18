@@ -112,6 +112,7 @@ class TweetAnalyzer():
                     write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'updated': updated})
                 json.dump(write_data, tf, indent=2)
             tf.close()
+            print("ss")
             return True
         except BaseException as e:
             print (e)
@@ -137,8 +138,6 @@ def search_hashtags():
 
 
 def tweet_crowler():
-    print("s")
-
     fetched_tweets = "tweets.json"
     source_list = []
 
