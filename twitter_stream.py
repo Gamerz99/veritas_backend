@@ -102,8 +102,7 @@ class TweetAnalyzer():
         write_data = {}
         write_data['data'] = []
 
-        if os.path.exists("tweets.json"):
-            os.remove("tweets.json")
+        os.remove("tweets.json")
         try:
             with open(self.fetched_tweets, 'w') as tf:
                 for tweet in tweets:
