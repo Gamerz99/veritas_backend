@@ -107,7 +107,7 @@ class TweetAnalyzer():
         try:
             with open(self.fetched_tweets, 'a') as tf:
                 for tweet in tweets:
-                    updated = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                     date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
                     write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'updated': updated})
                 json.dump(write_data, tf, indent=2)
@@ -150,7 +150,7 @@ def tweet_crowler():
     twitter_client = TwitterClient()
     tweet_analyzer = TweetAnalyzer(fetched_tweets)
 
-    tweets = twitter_client.get_user_timeline_tweets(source_list, 10)
+    tweets = twitter_client.get_user_timeline_tweets(source_list, 100)
     tweet_analyzer.tweets_to_json(tweets)
 
 
