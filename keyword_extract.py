@@ -50,7 +50,6 @@ def extract(news):
             'adv': [lemmatizer.lemmatize(token.lower().strip(string.punctuation), pos) for token, pos in pos_d
                     if pos == wordnet.ADV and token.lower().strip(string.punctuation) not in stopwords],
             }
-
     return res
 
 

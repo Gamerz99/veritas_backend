@@ -12,7 +12,6 @@ import numpy as np
 import pandas as pd
 import keyword_extract
 
-
 # # # # TWITTER CLIENT # # # #
 class TwitterClient():
     def __init__(self):
@@ -102,10 +101,8 @@ class TweetAnalyzer():
         write_data = {}
         write_data['data'] = []
 
-        try:
+        if os.path.exists("tweets.json"):
             os.remove("tweets.json")
-        except OSError as e:
-            print("Failed with:", e.strerror_)
 
         try:
             with open(self.fetched_tweets, 'w') as tf:
@@ -165,9 +162,10 @@ if __name__ == '__main__':
     tweet_analyzer = TweetAnalyzer(fetched_tweets)
     api = twitter_client.get_twitter_client_api()
 
-    tweets = twitter_client.get_user_timeline_tweets(source_list, 50)
-    tweet_analyzer.tweets_to_json(tweets)
+    tweet_crowler()
 
+    # tweets = twitter_client.get_user_timeline_tweets(source_list, 50)
+    # tweet_analyzer.tweets_to_json(tweets)
 
     #df = tweet_analyzer.tweets_to_data_frame(tweets)
     #print(df.head(20))
