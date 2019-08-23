@@ -4,6 +4,7 @@ from tweepy import Stream
 from tweepy import API
 from tweepy import Cursor
 from datetime import datetime, timedelta, timezone
+import pymongo
 
 import os
 import json
@@ -100,18 +101,30 @@ class TweetAnalyzer():
     def tweets_to_json(self, tweets):
         write_data = {}
         write_data['data'] = []
+        myclient = pymongo.MongoClient("mongodb://root:root123@ds263927.mlab.com:63927/veritas,retryWrites=false")
+        mydb = myclient["veritas"]
+        mycol = mydb["tweets"]
 
         # if os.path.exists("tweets.json"):
         #     os.remove("tweets.json")
 
         try:
-            with open(self.fetched_tweets, 'w') as tf:
-                for tweet in tweets:
-                    updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                    date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
-                    write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'updated': updated})
-                json.dump(write_data, tf, indent=2)
-            tf.close()
+            # with open(self.fetched_tweets, 'w') as tf:
+            #     for tweet in tweets:
+            #         updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            #         date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
+            #         write_data['data'].append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'updated': updated})
+            #     json.dump(write_data, tf, indent=2)
+            # tf.close()
+            for tweet in tweets:
+                updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
+                write_data ={'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name,
+                     'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text),
+                     'likes': tweet.favorite_count, 'retweet': tweet.retweet_count,
+                     'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified,
+                     'date': date, 'updated': updated}
+                mycol.insert_one(write_data)
             print("ss")
             return True
         except BaseException as e:

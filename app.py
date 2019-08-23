@@ -11,6 +11,7 @@ CORS(app)
 api = Api(app)
 parser = reqparse.RequestParser()
 
+
 def timer():
     twitter_stream.tweet_crowler()
     threading.Timer(120, timer).start()
