@@ -101,7 +101,7 @@ class TweetAnalyzer():
     def tweets_to_json(self, tweets):
         write_data = {}
         write_data['data'] = []
-        myclient = pymongo.MongoClient("mongodb://root:root123@ds263927.mlab.com:63927/veritas,retryWrites=false")
+        myclient = pymongo.MongoClient("mongodb://gg123:gg12345@ds263927.mlab.com:63927/veritas,retryWrites=false")
         mydb = myclient["veritas"]
         mycol = mydb["tweets"]
 
