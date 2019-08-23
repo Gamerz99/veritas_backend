@@ -27,11 +27,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twitter_stream.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="104" column="34" lean-forward="true" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+            <state relative-caret-position="75">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
-                <marker date="1566567916352" expanded="true" signature="3253:3335" ph="..." />
+                <marker date="1566569067380" expanded="true" signature="3048:3126" ph="..." />
               </folding>
             </state>
           </provider>
@@ -353,11 +352,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter_stream.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="104" column="34" lean-forward="true" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+        <state relative-caret-position="75">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1566567916352" expanded="true" signature="3253:3335" ph="..." />
+            <marker date="1566569067380" expanded="true" signature="3048:3126" ph="..." />
           </folding>
         </state>
       </provider>
