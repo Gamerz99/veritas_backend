@@ -12,6 +12,7 @@ import numpy as np
 import pandas as pd
 import keyword_extract
 
+
 # # # # TWITTER CLIENT # # # #
 class TwitterClient():
     def __init__(self):

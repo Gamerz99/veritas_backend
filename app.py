@@ -4,6 +4,7 @@ import twitter_stream
 import time, threading
 import json
 import keyword_extract
+import rate_module
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -17,18 +18,19 @@ def timer():
     threading.Timer(120, timer).start()
 
 
-class home(Resource):
+class Home(Resource):
     def get(self):
         return {"message": "success"}, 200
 
 
-class check(Resource):
+class Check(Resource):
 
     def post(self):
         result = 0
         tweets = []
         related = []
         rescount = 0
+        url_base = False
 
         parser.add_argument('data', type=str, help="add news content", required=True)
         args=parser.parse_args()
@@ -50,12 +52,14 @@ class check(Resource):
                         related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes'],  'updated': tweet['updated']})
                         rescount = rescount + 1
                     threshold = 0.5
+            if url_base:
+                rate_module.rate('https://bbc.com/questions/9626535/get-protocol-host-name-from-url', result)
 
         response = {"message": "success", "count": rescount, "response": result, "related": related}
         return {"data": response}, 200
 
 
-class source_pool(Resource):
+class SourcePool(Resource):
     def get(self):
         source_list = []
 
@@ -66,9 +70,9 @@ class source_pool(Resource):
         return {"message": "success", "response": source_list}, 200
 
 
-api.add_resource(home, "/")
-api.add_resource(check, "/check")
-api.add_resource(source_pool, "/source_pool")
+api.add_resource(Home, "/")
+api.add_resource(Check, "/check")
+api.add_resource(SourcePool, "/source_pool")
 
 if __name__ == "__main__":
     app.run()
