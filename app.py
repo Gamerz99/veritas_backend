@@ -40,7 +40,7 @@ class Check(Resource):
             recent = keyword_extract.extract(data)
             with open('tweets.json') as json_file:
                 data = json.load(json_file)
-                for d in data['data']:
+                for d in data:
                     keywords = {'verb': d['keywords']['verb'], 'noun':d['keywords']['noun'], 'adj': d['keywords']['adj'], 'adv': d['keywords']['adv']}
                     tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date'], 'updated': d['updated']})
 
@@ -75,7 +75,9 @@ api.add_resource(Check, "/check")
 api.add_resource(SourcePool, "/source_pool")
 
 if __name__ == "__main__":
+    twitter_stream.tweet_crowler()
     app.run()
+
 
 
 
