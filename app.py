@@ -2,10 +2,11 @@ from flask_restful import Resource,Api,reqparse
 from flask import Flask
 import twitter_stream
 import time, threading
-import json
+import json, re
 import keyword_extract
 import rate_module
 from flask_cors import CORS
+import web_scrap
 
 app = Flask(__name__)
 CORS(app)
@@ -30,18 +31,33 @@ class Check(Resource):
         tweets = []
         related = []
         rescount = 0
+        url = ''
         url_base = False
+        check = ''
 
         parser.add_argument('data', type=str, help="add news content", required=True)
-        args=parser.parse_args()
+        args = parser.parse_args()
         data = args['data']
 
         if data:
-            recent = keyword_extract.extract(data)
+            try:
+                check = re.search("(?P<url>https?://[^\s]+)", data).group("url")
+            except BaseException as e:
+                check = ''
+            if check != '':
+                url = data
+                #url = "https://www.nytimes.com/2019/02/25/opinion/trump-kim-hanoi-summit.html?action=click&module=Opinion&pgtype=Homepage"
+            if url != '':
+                article = web_scrap.getArticle(url)
+                recent = web_scrap.getkeywords(article)
+                url_base = True
+            if url == '':
+                recent = keyword_extract.extract(data)
+                url_base = False
             with open('tweets.json') as json_file:
                 data = json.load(json_file)
                 for d in data:
-                    keywords = {'verb': d['keywords']['verb'], 'noun':d['keywords']['noun'], 'adj': d['keywords']['adj'], 'adv': d['keywords']['adv']}
+                    keywords = {'verb': d['keywords']['verb'], 'noun': d['keywords']['noun'], 'adj': d['keywords']['adj'], 'adv': d['keywords']['adv']}
                     tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date'], 'updated': d['updated']})
 
             for tweet in tweets:
@@ -53,7 +69,7 @@ class Check(Resource):
                         rescount = rescount + 1
                     threshold = 0.5
             if url_base:
-                rate_module.rate('https://bbc.com/questions/9626535/get-protocol-host-name-from-url', result)
+                rate_module.rate(url, result)
 
         response = {"message": "success", "count": rescount, "response": result, "related": related}
         return {"data": response}, 200
