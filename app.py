@@ -69,7 +69,7 @@ class Check(Resource):
                         rescount = rescount + 1
                     threshold = 0.5
             if url_base:
-                rate_module.rate(url, result)
+                rate_module.rate(url, result, article)
 
         response = {"message": "success", "count": rescount, "response": result, "related": related}
         return {"data": response}, 200
