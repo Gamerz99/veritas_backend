@@ -6,6 +6,7 @@ from nltk.stem import PorterStemmer
 import nltk
 import string, re
 import sentiment_mod as s
+import rate_module
 
 
 def get_wordnet_pos(pos_tag):
@@ -83,8 +84,9 @@ if __name__ == '__main__':
 
     #tagging()
 
-    print(s.sentiment("If they're not showing, I'll just have to resort to their live ticker. At least it's better than hearing 2nd hand news."))
-    print(s.sentiment("I'm awake right now! Gonna travel a few hundred kilometres tomorrow!"))
-    print(s.sentiment("The one day i really need to go into school and i'm not well"))
-    print(s.sentiment("right then nsb archive done and dusted, ape accounts up to date, freeland winner sorted.. haha now to do some real work"))
+    # print(s.sentiment("If they're not showing, I'll just have to resort to their live ticker. At least it's better than hearing 2nd hand news."))
+    # print(s.sentiment("I'm awake right now! Gonna travel a few hundred kilometres tomorrow!"))
+    # print(s.sentiment("The one day i really need to go into school and i'm not well"))
+    # print(s.sentiment("right then nsb archive done and dusted, ape accounts up to date, freeland winner sorted.. haha now to do some real work"))
 
+    rate_module.ranking()

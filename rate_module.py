@@ -3,19 +3,27 @@ import json
 from urllib.parse import urlparse
 from textstat.textstat import textstatistics, legacy_round
 from nltk.tokenize import PunktSentenceTokenizer
+import pandas as pd
+
 
 def rate(url, status, text):
     write_data = []
+    valid = 0
     url = extract_domain(url)
     try:
         smog = smog_index(text)
         with open('rating.json') as json_file:
             data = json.load(json_file)
             for d in data:
-                write_data.append({'url': d['url'], 'rating': d['rating'], 'date': d['date'], 'smog': d['smog']})
+                write_data.append({'url': d['url'], 'valid': d['valid'], 'date': d['date'], 'smog': d['smog']})
         with open('rating.json', 'w') as tf:
             updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            write_data.append({'url': url, 'rating': status, 'smog': smog, 'date': updated})
+            if status == 1:
+                valid = 2
+            if status == 2:
+                valid = 1
+
+            write_data.append({'url': url, 'valid': valid, 'smog': smog, 'date': updated})
             json.dump(write_data, tf, indent=2)
         tf.close()
         return True
@@ -40,7 +48,6 @@ def smog_index(text):
         return 0
 
 
-# Returns the number of sentences in the text
 def sentence_count(text):
     sentences = break_sentences(text)
     return len(sentences)
@@ -70,3 +77,29 @@ def syllables_count(word):
     return textstatistics().syllable_count(word)
 
 
+def ranking():
+    data = pd.read_json("rating.json")
+    data["total"] = (data["valid"]*5) + data["smog"]
+    data["rating"] = data["total"].rank()
+    data.sort_values("rating", inplace=True, ascending=False)
+
+    ratings = pd.DataFrame(data.groupby('url')['rating'].mean())
+    ratings.head()
+    print(ratings)
+
+    ratings.to_json('ranking.json', orient='index')
+
+    # with open('rating.json') as json_file:
+    #     data = json.load(json_file)
+    #     for d in data:
+    #         total = (d['rating']*5) + d['smog']
+    #         url.append(d['url'])
+    #         rating.append(total)
+    #
+    #         df = pd.DataFrame({
+    #             'url': url,
+    #             'value': total,
+    #         })
+    # df['value'] = df.groupby('url')['value'].rank(pct=True, ascending=False)
+    # result = df
+    # print(result)

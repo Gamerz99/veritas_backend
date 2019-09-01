@@ -1,13 +1,492 @@
 [
   {
+    "id": 1167949176946053122,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "Police say the suspect in the Texas shootings was a white man in his mid-30s. The incident began with a traffic stop. https://t.co/MhBSNwD8af https://t.co/0HWbeLOn1r",
+    "length": 165,
+    "likes": 732,
+    "retweet": 523,
+    "keywords": {
+      "noun": [
+        "police",
+        "suspect",
+        "texas",
+        "shooting",
+        "man",
+        "mid",
+        "30",
+        "incident",
+        "traffic",
+        "stop"
+      ],
+      "verb": [
+        "say",
+        "begin"
+      ],
+      "adj": [
+        "white"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 05:25:57",
+    "updated": "2019-09-01 13:48:02"
+  },
+  {
+    "id": 1167939403039178753,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "At least five people were killed and 21 injured in the shootings in West Texas, police say. The gunman was killed. https://t.co/Tw0MoIvExv https://t.co/SXzArey5Gi",
+    "length": 162,
+    "likes": 663,
+    "retweet": 524,
+    "keywords": {
+      "noun": [
+        "five",
+        "people",
+        "21",
+        "shooting",
+        "west",
+        "texas",
+        "police",
+        "gunman"
+      ],
+      "verb": [
+        "kill",
+        "injure",
+        "say",
+        "kill"
+      ],
+      "adj": [
+        "least"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 04:47:07",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167933406811836421,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "A suspect was shot and killed in Odessa, Texas, police in Midland say https://t.co/DYoAdWAk3x https://t.co/b7QeLd5Kzj",
+    "length": 117,
+    "likes": 407,
+    "retweet": 217,
+    "keywords": {
+      "noun": [
+        "suspect",
+        "odessa",
+        "texas",
+        "police",
+        "midland"
+      ],
+      "verb": [
+        "shoot",
+        "kill",
+        "say"
+      ],
+      "adj": [],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 04:23:17",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167919818575470594,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "At least one person is dead and 10 injured in ongoing shootings near Midland and Odessa, Texas, police say https://t.co/anxUjCEUh9 https://t.co/nzA128TNJr",
+    "length": 154,
+    "likes": 796,
+    "retweet": 756,
+    "keywords": {
+      "noun": [
+        "one",
+        "person",
+        "10",
+        "shooting",
+        "near",
+        "midland",
+        "odessa",
+        "texas",
+        "police"
+      ],
+      "verb": [
+        "injure",
+        "ongoing",
+        "say"
+      ],
+      "adj": [
+        "least",
+        "dead"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 03:29:18",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167912333382836225,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "Tropical storm watches have now been issued for portions of the Florida coastline, stretching from Deerfield Beach to Sebastian Inlet, the National Hurricane Center says.\n\nHurricane Dorian remains a dangerous Category 4 hurricane with winds up to 150 mph. https://t.co/L8hczzBAy8 https://t.co/KeqNFmA8qn",
+    "length": 303,
+    "likes": 406,
+    "retweet": 192,
+    "keywords": {
+      "noun": [
+        "storm",
+        "watch",
+        "portion",
+        "florida",
+        "coastline",
+        "deerfield",
+        "beach",
+        "sebastian",
+        "inlet",
+        "national",
+        "hurricane",
+        "center",
+        "hurricane",
+        "dorian",
+        "category",
+        "4",
+        "hurricane",
+        "wind",
+        "150",
+        "mph"
+      ],
+      "verb": [
+        "issue",
+        "stretch",
+        "say",
+        "remain"
+      ],
+      "adj": [
+        "tropical",
+        "dangerous"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 02:59:33",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167908784674500615,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "A US service member who died Thursday in Zabul Province, Afghanistan, has been identified as Sgt. 1st Class Dustin Ard, the Defense Department says https://t.co/gYT1BNrSHD https://t.co/ZZd5dv3w28",
+    "length": 195,
+    "likes": 635,
+    "retweet": 223,
+    "keywords": {
+      "noun": [
+        "u",
+        "service",
+        "member",
+        "thursday",
+        "zabul",
+        "province",
+        "afghanistan",
+        "sgt",
+        "1st",
+        "class",
+        "dustin",
+        "ard",
+        "defense",
+        "department"
+      ],
+      "verb": [
+        "die",
+        "identify",
+        "say"
+      ],
+      "adj": [],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 02:45:27",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167887260986957824,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "A sample of mosquitoes in New Jersey have tested positive for two potentially deadly viruses, West Nile and Eastern equine encephalitis, local health officials say https://t.co/G7lxpN8OSE https://t.co/tKm80YiVoj",
+    "length": 211,
+    "likes": 590,
+    "retweet": 450,
+    "keywords": {
+      "noun": [
+        "sample",
+        "mosquito",
+        "new",
+        "jersey",
+        "two",
+        "virus",
+        "west",
+        "nile",
+        "eastern",
+        "encephalitis",
+        "health",
+        "official"
+      ],
+      "verb": [
+        "test",
+        "equine",
+        "say"
+      ],
+      "adj": [
+        "positive",
+        "deadly",
+        "local"
+      ],
+      "adv": [
+        "potentially"
+      ]
+    },
+    "verified": true,
+    "date": "2019-09-01 01:19:55",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167860495866421249,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "French Formula 2 driver Anthoine Hubert has died at age 22 after a crash on the second lap of the Belgian Grand Prix https://t.co/imiF8U4hvk https://t.co/6oeGLOw9eC",
+    "length": 164,
+    "likes": 556,
+    "retweet": 242,
+    "keywords": {
+      "noun": [
+        "formula",
+        "2",
+        "driver",
+        "anthoine",
+        "hubert",
+        "age",
+        "22",
+        "crash",
+        "lap",
+        "grand",
+        "prix"
+      ],
+      "verb": [
+        "die"
+      ],
+      "adj": [
+        "french",
+        "second",
+        "belgian"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 23:33:34",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167844535361318912,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "South Carolina Gov. Henry McMaster declares a state of emergency as forecasts say Hurricane Dorian could be heading toward the state https://t.co/zrykMhv3Hb https://t.co/VixG73lvsF",
+    "length": 180,
+    "likes": 533,
+    "retweet": 277,
+    "keywords": {
+      "noun": [
+        "south",
+        "carolina",
+        "gov",
+        "henry",
+        "mcmaster",
+        "state",
+        "emergency",
+        "forecast",
+        "hurricane",
+        "dorian",
+        "could",
+        "toward",
+        "state"
+      ],
+      "verb": [
+        "declare",
+        "say",
+        "head"
+      ],
+      "adj": [],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 22:30:09",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167823730464165888,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "Hurricane Dorian has grown stronger and has sustained winds of 150 mph, the National Hurricane Center says. It's moving slower, at just 8 mph. https://t.co/bRnKXKh0cx https://t.co/8Daf2Bhd4c",
+    "length": 190,
+    "likes": 1026,
+    "retweet": 467,
+    "keywords": {
+      "noun": [
+        "hurricane",
+        "dorian",
+        "stronger",
+        "wind",
+        "150",
+        "mph",
+        "national",
+        "hurricane",
+        "center",
+        "8",
+        "mph"
+      ],
+      "verb": [
+        "grow",
+        "sustain",
+        "say",
+        "move"
+      ],
+      "adj": [
+        "slow"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 21:07:29",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167806781281710080,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "At least 12 people were killed and 58 injured after an explosion at a chemical factory in western India https://t.co/LWqFe4u9Wj https://t.co/tAbcQXfngF",
+    "length": 151,
+    "likes": 256,
+    "retweet": 144,
+    "keywords": {
+      "noun": [
+        "12",
+        "people",
+        "58",
+        "explosion",
+        "chemical",
+        "factory",
+        "india"
+      ],
+      "verb": [
+        "kill",
+        "injure"
+      ],
+      "adj": [
+        "least",
+        "western"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 20:00:08",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167773782578278407,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "Hong Kong protesters set fire to barricades after police fired tear gas and blue dye to disperse the crowd. Follow live updates: https://t.co/wSDFDrl60b https://t.co/hrpBSoksm9",
+    "length": 176,
+    "likes": 376,
+    "retweet": 160,
+    "keywords": {
+      "noun": [
+        "hong",
+        "kong",
+        "protester",
+        "fire",
+        "barricade",
+        "police",
+        "tear",
+        "gas",
+        "dye",
+        "crowd",
+        "follow",
+        "update"
+      ],
+      "verb": [
+        "set",
+        "fire",
+        "disperse"
+      ],
+      "adj": [
+        "blue",
+        "live"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 17:49:00",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
+    "id": 1167767198108135424,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "Hurricane Dorian shifts track and is now expected to make landfall in the Carolinas. But Florida isn't in the clear.\nhttps://t.co/MPijLBpc28 https://t.co/GzXLUW15pl",
+    "length": 164,
+    "likes": 1634,
+    "retweet": 1010,
+    "keywords": {
+      "noun": [
+        "hurricane",
+        "dorian",
+        "track",
+        "landfall",
+        "carolina",
+        "florida"
+      ],
+      "verb": [
+        "shift",
+        "expect",
+        "make"
+      ],
+      "adj": [
+        "clear"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 17:22:50",
+    "updated": "2019-09-01 13:48:03"
+  },
+  {
     "id": 1167690036311183360,
     "name": "CNN Breaking News",
     "screen_name": "cnnbrk",
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Thousands of Hong Kongers took to the streets for the city's 13th weekend of protests.  https://t.co/X5NjGH8GxY https://t.co/uBXMFpfozd",
     "length": 135,
-    "likes": 374,
-    "retweet": 121,
+    "likes": 562,
+    "retweet": 164,
     "keywords": {
       "noun": [
         "thousand",
@@ -27,7 +506,7 @@
     },
     "verified": true,
     "date": "2019-08-31 12:16:13",
-    "updated": "2019-08-31 16:24:22"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167669068226269185,
@@ -36,8 +515,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Gunfire broke out after a high school football game in Alabama, leaving 10 teens injured, half of them critically https://t.co/uusFDMMzwK https://t.co/8K4Bm6s4lu",
     "length": 161,
-    "likes": 590,
-    "retweet": 667,
+    "likes": 827,
+    "retweet": 894,
     "keywords": {
       "noun": [
         "gunfire",
@@ -63,7 +542,7 @@
     },
     "verified": true,
     "date": "2019-08-31 10:52:54",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167612555730280448,
@@ -72,8 +551,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A company owned by President Trump's campaign manager was paid more than $900,000 from the President's flagship political action committee, which is barred from coordinating with the campaign https://t.co/88kwKwiovi https://t.co/wOygME5wsq",
     "length": 239,
-    "likes": 845,
-    "retweet": 560,
+    "likes": 1116,
+    "retweet": 698,
     "keywords": {
       "noun": [
         "company",
@@ -101,7 +580,7 @@
     },
     "verified": true,
     "date": "2019-08-31 07:08:21",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167603113374695424,
@@ -110,8 +589,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian is now a Category 4 storm and is expected to continue to get stronger before it reaches the east coast of Florida https://t.co/jhrnPtTiBJ https://t.co/Dby31Q73t2",
     "length": 178,
-    "likes": 315,
-    "retweet": 218,
+    "likes": 335,
+    "retweet": 228,
     "keywords": {
       "noun": [
         "hurricane",
@@ -136,7 +615,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:30:49",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167597412808089600,
@@ -145,8 +624,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian is gaining strength and has sustained winds of 125 mph. It's expected to reach Category 4 late Friday or early Saturday, days before it's forecast to make landfall in the US. https://t.co/NZuNHgen4Y https://t.co/9Yj2NZODVA",
     "length": 239,
-    "likes": 280,
-    "retweet": 196,
+    "likes": 302,
+    "retweet": 202,
     "keywords": {
       "noun": [
         "hurricane",
@@ -179,7 +658,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:08:10",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167576547450150914,
@@ -188,8 +667,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Valerie Harper, who played Rhoda on the 1970s sitcom \"The Mary Tyler Moore Show,\" has died at 80 after a long battle with cancer https://t.co/YWByKaVEx9 https://t.co/IvQFJ5Wyl4",
     "length": 176,
-    "likes": 1477,
-    "retweet": 516,
+    "likes": 1613,
+    "retweet": 545,
     "keywords": {
       "noun": [
         "valerie",
@@ -216,7 +695,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:45:16",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167533927172575233,
@@ -225,8 +704,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Major League baseball pitcher Tyler Skaggs died last month by choking on vomit after using drugs and alcohol, an autopsy shows  https://t.co/mM95kmgTqx https://t.co/6YCo0Fg71E",
     "length": 175,
-    "likes": 399,
-    "retweet": 225,
+    "likes": 413,
+    "retweet": 229,
     "keywords": {
       "noun": [
         "major",
@@ -254,7 +733,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:55:54",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167533177616916480,
@@ -263,8 +742,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Twitter CEO Jack Dorsey's Twitter account was hacked, resulting in a series of racist and otherwise offensive tweets  https://t.co/zGiWpQ7vH4 https://t.co/I93QYYIbUK",
     "length": 165,
-    "likes": 1209,
-    "retweet": 654,
+    "likes": 1309,
+    "retweet": 691,
     "keywords": {
       "noun": [
         "twitter",
@@ -290,7 +769,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:52:55",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167518805234507777,
@@ -299,8 +778,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Officials in Virginia, Texas and North Carolina arrested 35 people in a multi-state drug bust and seized enough fentanyl to kill about 14 million people, the Justice Department says https://t.co/c6WsJz0jxV https://t.co/VsyeHBqbwB",
     "length": 229,
-    "likes": 941,
-    "retweet": 399,
+    "likes": 992,
+    "retweet": 419,
     "keywords": {
       "noun": [
         "official",
@@ -334,7 +813,7 @@
     },
     "verified": true,
     "date": "2019-08-31 00:55:49",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167498446904942592,
@@ -343,8 +822,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian strengthens to an \"extremely dangerous\" Category 3 storm and is expected to get stronger before hitting the Bahamas and Florida, the National Hurricane Center says https://t.co/7HUPC045Y3 https://t.co/StFUpGuMWB",
     "length": 228,
-    "likes": 359,
-    "retweet": 229,
+    "likes": 367,
+    "retweet": 230,
     "keywords": {
       "noun": [
         "hurricane",
@@ -375,7 +854,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:34:55",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167478102869643264,
@@ -384,8 +863,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "President Trump approves a state of emergency declaration for Florida as Hurricane Dorian approaches https://t.co/9BGljD1dYm https://t.co/hVZhx7YaGO",
     "length": 148,
-    "likes": 415,
-    "retweet": 153,
+    "likes": 422,
+    "retweet": 154,
     "keywords": {
       "noun": [
         "president",
@@ -406,7 +885,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:14:05",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167474743051739137,
@@ -415,8 +894,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A US service member was killed in combat in Afghanistan on Thursday, the NATO-led operation says https://t.co/vxiJy2zDJg https://t.co/LY65Zx9euD",
     "length": 144,
-    "likes": 165,
-    "retweet": 79,
+    "likes": 171,
+    "retweet": 80,
     "keywords": {
       "noun": [
         "u",
@@ -438,7 +917,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:00:44",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167460871196545024,
@@ -447,8 +926,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Dorian is expected to soon become an \"extremely dangerous major hurricane\" with winds that will get even stronger as it nears the Bahamas and Florida, the National Hurricane Center says. Follow live updates: https://t.co/2U1VfrX4hj https://t.co/RghO9O2Xej",
     "length": 255,
-    "likes": 279,
-    "retweet": 171,
+    "likes": 285,
+    "retweet": 173,
     "keywords": {
       "noun": [
         "dorian",
@@ -483,7 +962,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:05:36",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167433777410449409,
@@ -492,8 +971,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian's impact is expected to be a multi-day event, Florida Gov. Ron DeSantis warns. The governor also acknowledges a fuel shortage in the state. https://t.co/GVqh1CoB2c https://t.co/u6hqVX2ZLj",
     "length": 204,
-    "likes": 210,
-    "retweet": 150,
+    "likes": 216,
+    "retweet": 152,
     "keywords": {
       "noun": [
         "hurricane",
@@ -523,7 +1002,7 @@
     },
     "verified": true,
     "date": "2019-08-30 19:17:57",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167409965570633728,
@@ -532,7 +1011,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian's winds are now 1 mph shy of reaching Category 3 strength, according to the National Hurricane Center's latest advisory. Follow live updates: https://t.co/uO5KUsHY14 https://t.co/VHCQnlxJeT",
     "length": 206,
-    "likes": 302,
+    "likes": 306,
     "retweet": 180,
     "keywords": {
       "noun": [
@@ -564,7 +1043,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:43:19",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167335359950274560,
@@ -573,7 +1052,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian is strengthening once again and is now a Category 2 hurricane. Follow live updates: https://t.co/oG7HYfgob3 https://t.co/bTpT7pUg6F",
     "length": 148,
-    "likes": 289,
+    "likes": 290,
     "retweet": 121,
     "keywords": {
       "noun": [
@@ -595,7 +1074,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:46:52",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167310121317228546,
@@ -604,8 +1083,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A Hong Kong mass rally planned for Saturday has been canceled by organizers after they failed to secure permission from police. Follow live updates: https://t.co/DbZq8cm1sd https://t.co/u0Q0MkLBle",
     "length": 196,
-    "likes": 397,
-    "retweet": 159,
+    "likes": 403,
+    "retweet": 163,
     "keywords": {
       "noun": [
         "hong",
@@ -633,7 +1112,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:06:35",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167274538641625088,
@@ -642,7 +1121,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Four prominent pro-democracy leaders in Hong Kong have been arrested ahead of a planned mass march tomorrow. Follow live updates: https://t.co/LOgwLzpk6c https://t.co/DLYkR3cKLx",
     "length": 177,
-    "likes": 411,
+    "likes": 415,
     "retweet": 313,
     "keywords": {
       "noun": [
@@ -671,7 +1150,7 @@
     },
     "verified": true,
     "date": "2019-08-30 08:45:11",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167268995319377920,
@@ -681,7 +1160,7 @@
     "text": "RT @CNNPolitics: Trump's personal assistant abruptly exits White House https://t.co/33dFblNNsg https://t.co/eqymCVeRw0",
     "length": 118,
     "likes": 0,
-    "retweet": 121,
+    "retweet": 122,
     "keywords": {
       "noun": [
         "cnnpolitics",
@@ -703,7 +1182,7 @@
     },
     "verified": true,
     "date": "2019-08-30 08:23:09",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:03"
   },
   {
     "id": 1167255923376709635,
@@ -712,8 +1191,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Two former detectives will serve no prison time after pleading guilty to bribe taking and official misconduct for having sex with young woman in custody\nhttps://t.co/dJI4MpVGou https://t.co/af1RSpbOl6",
     "length": 200,
-    "likes": 234,
-    "retweet": 219,
+    "likes": 242,
+    "retweet": 221,
     "keywords": {
       "noun": [
         "two",
@@ -741,7 +1220,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:31:13",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167251648881856513,
@@ -751,7 +1230,7 @@
     "text": "RT @CNNPolitics: Trump administration poised to tap military construction funds to build wall https://t.co/sl9z4f9Wae https://t.co/RhyWJL0n\u2026",
     "length": 140,
     "likes": 0,
-    "retweet": 71,
+    "retweet": 72,
     "keywords": {
       "noun": [
         "cnnpolitics",
@@ -774,7 +1253,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:14:14",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167236945484947456,
@@ -783,8 +1262,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Authorities have arrested a man who they say texted undercover agents that he planned to conduct a terror attack in the name of ISIS in Queens https://t.co/mrrUtXp6VM https://t.co/QHLT7W1LIX",
     "length": 190,
-    "likes": 284,
-    "retweet": 122,
+    "likes": 286,
+    "retweet": 121,
     "keywords": {
       "noun": [
         "authority",
@@ -810,7 +1289,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:15:48",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167214553622601728,
@@ -819,7 +1298,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Taylor Townsend stuns Wimbledon champion Simona Halep in the second round of the US Open https://t.co/an7dYaZtcS https://t.co/90fLKd56XJ",
     "length": 136,
-    "likes": 383,
+    "likes": 386,
     "retweet": 80,
     "keywords": {
       "noun": [
@@ -843,7 +1322,7 @@
     },
     "verified": true,
     "date": "2019-08-30 04:46:50",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167206296363393025,
@@ -852,8 +1331,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Breast cancer risk linked to hormone therapy can persist for years, a new study says https://t.co/rUSPEHRnio https://t.co/VZsgjgFmuh",
     "length": 132,
-    "likes": 140,
-    "retweet": 73,
+    "likes": 143,
+    "retweet": 75,
     "keywords": {
       "noun": [
         "breast",
@@ -876,7 +1355,7 @@
     },
     "verified": true,
     "date": "2019-08-30 04:14:01",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167199938251493381,
@@ -885,8 +1364,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Trump announces a new military Space Command as the US grows increasingly concerned about threats to its satellites. He says Space Force is next.\nhttps://t.co/lJYqfLRXG7 https://t.co/WEYpoxXjTh",
     "length": 193,
-    "likes": 295,
-    "retweet": 89,
+    "likes": 296,
+    "retweet": 88,
     "keywords": {
       "noun": [
         "trump",
@@ -915,7 +1394,7 @@
     },
     "verified": true,
     "date": "2019-08-30 03:48:45",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167188469589925905,
@@ -924,7 +1403,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "The criminal case against accused sex trafficker Jeffrey Epstein has been officially dismissed, almost three weeks after he died in jail\nhttps://t.co/U8awSNJEAX https://t.co/M3TwhObG7d",
     "length": 184,
-    "likes": 270,
+    "likes": 274,
     "retweet": 223,
     "keywords": {
       "noun": [
@@ -952,7 +1431,7 @@
     },
     "verified": true,
     "date": "2019-08-30 03:03:11",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167178888746807296,
@@ -961,7 +1440,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Full story: https://t.co/PK7qTN2hM0",
     "length": 35,
-    "likes": 133,
+    "likes": 138,
     "retweet": 35,
     "keywords": {
       "noun": [
@@ -974,7 +1453,7 @@
     },
     "verified": true,
     "date": "2019-08-30 02:25:06",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167178373489156101,
@@ -983,7 +1462,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "The President announces he's canceling his trip to Poland as Hurricane Dorian approaches the US. He'll send Vice President Pence in his place. https://t.co/RisuDs50Sg",
     "length": 166,
-    "likes": 867,
+    "likes": 902,
     "retweet": 169,
     "keywords": {
       "noun": [
@@ -1012,7 +1491,7 @@
     },
     "verified": true,
     "date": "2019-08-30 02:23:04",
-    "updated": "2019-08-31 16:24:23"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167128855674376193,
@@ -1021,7 +1500,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A satellite image appears to show what US officials believe to be smoke from a rocket explosion on the launch pad at Iran's Khomeini Space Center \nhttps://t.co/LZKaULg9WC https://t.co/5bNPBKRYZq",
     "length": 194,
-    "likes": 453,
+    "likes": 456,
     "retweet": 178,
     "keywords": {
       "noun": [
@@ -1049,7 +1528,7 @@
     },
     "verified": true,
     "date": "2019-08-29 23:06:18",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167103042526883840,
@@ -1059,7 +1538,7 @@
     "text": "A 6.3-magnitude earthquake strikes off the Oregon coast, about 175 miles west-northwest of Bandon, US Geological Survey reports https://t.co/xroHXsOpVP https://t.co/gqZs5hhe3M",
     "length": 175,
     "likes": 557,
-    "retweet": 501,
+    "retweet": 503,
     "keywords": {
       "noun": [
         "magnitude",
@@ -1085,7 +1564,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:23:43",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167090175371091968,
@@ -1095,7 +1574,7 @@
     "text": "The National Hurricane Center's latest advisory says Hurricane Dorian is forecast to be a Category 4 hurricane when it makes US landfall. Follow live updates: https://t.co/DzhucoBRCc https://t.co/36nIyTSwkF",
     "length": 206,
     "likes": 940,
-    "retweet": 754,
+    "retweet": 752,
     "keywords": {
       "noun": [
         "national",
@@ -1125,7 +1604,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:32:35",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167082327689912320,
@@ -1162,7 +1641,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:01:24",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167068921603743745,
@@ -1201,7 +1680,7 @@
     },
     "verified": true,
     "date": "2019-08-29 19:08:08",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167055282897399808,
@@ -1238,7 +1717,7 @@
     },
     "verified": true,
     "date": "2019-08-29 18:13:56",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166870330964684800,
@@ -1247,7 +1726,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian could grow to a Category 3 hurricane and pummel the US mainland during Labor Day weekend https://t.co/9FPgCSYpcr https://t.co/ktDBwraJQ8",
     "length": 153,
-    "likes": 440,
+    "likes": 441,
     "retweet": 218,
     "keywords": {
       "noun": [
@@ -1272,7 +1751,7 @@
     },
     "verified": true,
     "date": "2019-08-29 05:59:00",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166857390190469120,
@@ -1281,7 +1760,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "The eye of Hurricane Dorian is moving away from Puerto Rico but it may be intensifying as it pushes into the Atlantic https://t.co/JgsVV6yLMu https://t.co/Tk4uehuty2",
     "length": 165,
-    "likes": 404,
+    "likes": 405,
     "retweet": 195,
     "keywords": {
       "noun": [
@@ -1305,7 +1784,7 @@
     },
     "verified": true,
     "date": "2019-08-29 05:07:35",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166829136494682113,
@@ -1336,492 +1815,42 @@
     },
     "verified": true,
     "date": "2019-08-29 03:15:19",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166825042359066624,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Florida Gov. Ron DeSantis declares a state of emergency urging residents to prepare for Hurricane Dorian https://t.co/nsVikTv0QB https://t.co/RZHltRGT9w",
-    "length": 152,
-    "likes": 257,
-    "retweet": 141,
+    "id": 1167923450754654210,
+    "name": "BBC Breaking News",
+    "screen_name": "BBCBreaking",
+    "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+    "text": "A mass random shooting in the Texas city of Odessa has left 'multiple gunshot victims', local police say https://t.co/i6BJPeGXmQ",
+    "length": 128,
+    "likes": 1019,
+    "retweet": 913,
     "keywords": {
       "noun": [
-        "florida",
-        "gov",
-        "ron",
-        "desantis",
-        "state",
-        "emergency",
-        "resident",
-        "hurricane",
-        "dorian"
+        "mass",
+        "random",
+        "texas",
+        "city",
+        "odessa",
+        "gunshot",
+        "victim",
+        "police"
       ],
       "verb": [
-        "declare",
-        "urge",
-        "prepare"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-29 02:59:03",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166801709693308935,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "An 80-year-old Puerto Rican man died from falling off the roof of his home while preparing for Hurricane Dorian https://t.co/yNsxvNfEnb https://t.co/MsYnvh2HkI",
-    "length": 159,
-    "likes": 308,
-    "retweet": 124,
-    "keywords": {
-      "noun": [
-        "80",
-        "puerto",
-        "rican",
-        "man",
-        "roof",
-        "home",
-        "hurricane",
-        "dorian"
-      ],
-      "verb": [
-        "die",
-        "fall",
-        "prepare"
+        "shoot",
+        "leave",
+        "say"
       ],
       "adj": [
-        "year-old"
+        "multiple",
+        "local"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-29 01:26:20",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166792633039147015,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Italy's Five Star Movement and Democratic Party form a coalition to avoid snap elections which could favor Matteo Salvini's far-right League Party https://t.co/V27lA6gbOQ https://t.co/yGGsA5urk8",
-    "length": 194,
-    "likes": 221,
-    "retweet": 64,
-    "keywords": {
-      "noun": [
-        "italy's",
-        "five",
-        "star",
-        "movement",
-        "democratic",
-        "party",
-        "form",
-        "coalition",
-        "election",
-        "could",
-        "matteo",
-        "salvini's",
-        "league",
-        "party"
-      ],
-      "verb": [
-        "avoid",
-        "favor"
-      ],
-      "adj": [
-        "snap",
-        "far-right"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-29 00:50:16",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166790835675062274,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Angel Reinosa, the Los Angeles deputy who lied about getting shot by a sniper, is no longer employed by the sheriff's department\nhttps://t.co/1hGrK3VUzb https://t.co/r2fjjeblnA",
-    "length": 176,
-    "likes": 404,
-    "retweet": 119,
-    "keywords": {
-      "noun": [
-        "angel",
-        "reinosa",
-        "los",
-        "angeles",
-        "deputy",
-        "shot",
-        "sniper",
-        "sheriff's",
-        "department"
-      ],
-      "verb": [
-        "lie",
-        "get",
-        "employ"
-      ],
-      "adj": [],
-      "adv": [
-        "longer"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-29 00:43:07",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166772606583918592,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Dorian, currently located over St. Thomas in the US Virgin Islands, has strengthened into a hurricane with sustained winds of 75 mph. Follow live updates: https://t.co/9z1gvnmFr6 https://t.co/oS5R8risL3",
-    "length": 202,
-    "likes": 225,
-    "retweet": 139,
-    "keywords": {
-      "noun": [
-        "st",
-        "thomas",
-        "u",
-        "virgin",
-        "island",
-        "hurricane",
-        "wind",
-        "75",
-        "mph",
-        "follow",
-        "update"
-      ],
-      "verb": [
-        "locate",
-        "strengthen"
-      ],
-      "adj": [
-        "dorian",
-        "sustained",
-        "live"
-      ],
-      "adv": [
-        "currently"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 23:30:41",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166749328981024768,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Tropical Storm Dorian strengthens and is now 4 mph short of hurricane status as it approaches Puerto Rico. Follow live updates: https://t.co/oifpkZB3ud https://t.co/OaGWOgA9Li",
-    "length": 175,
-    "likes": 358,
-    "retweet": 198,
-    "keywords": {
-      "noun": [
-        "storm",
-        "dorian",
-        "strengthens",
-        "4",
-        "mph",
-        "short",
-        "hurricane",
-        "status",
-        "puerto",
-        "rico",
-        "follow",
-        "update"
-      ],
-      "verb": [
-        "approach"
-      ],
-      "adj": [
-        "tropical",
-        "live"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 21:58:11",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166728633286877185,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "RT @CNNPolitics: BREAKING: Georgia Republican Sen. Johnny Isakson to resign at end of year https://t.co/6nXVT3m8k8 https://t.co/Xo7lge2NRe",
-    "length": 138,
-    "likes": 0,
-    "retweet": 144,
-    "keywords": {
-      "noun": [
-        "cnnpolitics",
-        "breaking",
-        "republican",
-        "sen",
-        "johnny",
-        "isakson",
-        "end",
-        "year"
-      ],
-      "verb": [
-        "resign"
-      ],
-      "adj": [
-        "rt",
-        "georgia"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 20:35:57",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166723145027506178,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "The Queen approves UK Prime Minister Johnson's plan to suspend Parliament weeks ahead of a Brexit deadline. Follow live updates: https://t.co/8rJBxElLi6 https://t.co/gdu6ZUt714",
-    "length": 176,
-    "likes": 582,
-    "retweet": 300,
-    "keywords": {
-      "noun": [
-        "queen",
-        "uk",
-        "prime",
-        "minister",
-        "johnson's",
-        "plan",
-        "parliament",
-        "week",
-        "brexit",
-        "deadline",
-        "follow",
-        "update"
-      ],
-      "verb": [
-        "approve",
-        "suspend"
-      ],
-      "adj": [
-        "live"
-      ],
-      "adv": [
-        "ahead"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 20:14:09",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166707761729671175,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "RT @CNNBusiness: US stocks kicked the day off lower on Wednesday, as the three major indexes are sliding towards month-end.\n\nThe Dow opened\u2026",
-    "length": 140,
-    "likes": 0,
-    "retweet": 29,
-    "keywords": {
-      "noun": [
-        "rt",
-        "cnnbusiness",
-        "stock",
-        "day",
-        "wednesday",
-        "three",
-        "index",
-        "towards",
-        "month-end",
-        "dow",
-        "\u2026"
-      ],
-      "verb": [
-        "kick",
-        "slide",
-        "open"
-      ],
-      "adj": [
-        "us",
-        "low",
-        "major"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 19:13:01",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166705064074973184,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Democratic presidential candidate Tom Steyer will likely miss next month's debate after failing to register the 2% needed to qualify in two new polls https://t.co/hMMxIAHZwC https://t.co/Fn2q4SF5N8",
-    "length": 197,
-    "likes": 272,
-    "retweet": 56,
-    "keywords": {
-      "noun": [
-        "candidate",
-        "tom",
-        "steyer",
-        "month's",
-        "debate",
-        "2",
-        "two",
-        "poll"
-      ],
-      "verb": [
-        "miss",
-        "fail",
-        "register",
-        "need",
-        "qualify"
-      ],
-      "adj": [
-        "democratic",
-        "presidential",
-        "next",
-        "new"
-      ],
-      "adv": [
-        "likely"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 19:02:18",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166693252944338944,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Tropical Storm Dorian is set to slam the eastern side of Puerto Rico later today with heavy rains that could lead to potential flooding and landslides\nhttps://t.co/rj2rvXhCNn https://t.co/PoIiFmUBis",
-    "length": 198,
-    "likes": 251,
-    "retweet": 159,
-    "keywords": {
-      "noun": [
-        "storm",
-        "dorian",
-        "side",
-        "puerto",
-        "rico",
-        "today",
-        "rain",
-        "could",
-        "flooding",
-        "landslide"
-      ],
-      "verb": [
-        "set",
-        "slam",
-        "lead"
-      ],
-      "adj": [
-        "tropical",
-        "eastern",
-        "heavy",
-        "potential"
-      ],
-      "adv": [
-        "later"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 18:15:22",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166688051537596426,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "At least 23 people are dead after an arson attack on a bar in Coatzacoalcos in southern Mexico https://t.co/3C57crurrA https://t.co/iBl8fzxyBM",
-    "length": 142,
-    "likes": 242,
-    "retweet": 184,
-    "keywords": {
-      "noun": [
-        "23",
-        "people",
-        "attack",
-        "bar",
-        "coatzacoalcos",
-        "mexico"
-      ],
-      "verb": [],
-      "adj": [
-        "least",
-        "dead",
-        "arson",
-        "southern"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 17:54:42",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166644369862135810,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "British Prime Minister Boris Johnson is to ask the Queen to suspend the UK Parliament from mid-September, a move that would shorten the time available to lawmakers to block a no-deal Brexit https://t.co/ynELGFSVWk",
-    "length": 213,
-    "likes": 351,
-    "retweet": 201,
-    "keywords": {
-      "noun": [
-        "prime",
-        "minister",
-        "boris",
-        "johnson",
-        "queen",
-        "uk",
-        "parliament",
-        "mid-september",
-        "move",
-        "would",
-        "time",
-        "lawmaker",
-        "brexit"
-      ],
-      "verb": [
-        "ask",
-        "suspend",
-        "shorten",
-        "block"
-      ],
-      "adj": [
-        "british",
-        "available",
-        "no-deal"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 15:01:07",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 03:43:44",
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167531312632213506,
@@ -1830,8 +1859,8 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Twitter co-founder Jack Dorsey's account hacked - retweets flurry of highly-offensive messages https://t.co/Ls5kEFitlW",
     "length": 118,
-    "likes": 2292,
-    "retweet": 1323,
+    "likes": 2441,
+    "retweet": 1395,
     "keywords": {
       "noun": [
         "twitter",
@@ -1853,7 +1882,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:45:31",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167366748909264898,
@@ -1862,8 +1891,8 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Judge refuses to order temporary halt to Boris Johnson's plan to suspend UK Parliament, ahead of full hearing https://t.co/MfcDdL5rEP",
     "length": 133,
-    "likes": 2932,
-    "retweet": 1079,
+    "likes": 3000,
+    "retweet": 1090,
     "keywords": {
       "noun": [
         "judge",
@@ -1890,7 +1919,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:51:36",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167013606854209536,
@@ -1899,7 +1928,7 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Ruth Davidson MSP announces she is stepping down as leader of the Scottish Conservatives\n\nhttps://t.co/U5Flssoycj",
     "length": 113,
-    "likes": 1152,
+    "likes": 1160,
     "retweet": 393,
     "keywords": {
       "noun": [
@@ -1920,177 +1949,479 @@
     },
     "verified": true,
     "date": "2019-08-29 15:28:20",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166762584470622208,
-    "name": "BBC Breaking News",
-    "screen_name": "BBCBreaking",
-    "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
-    "text": "Italy's populist Five Star agrees coalition deal with centre-left PD in blow to the far-right League https://t.co/e37Lzh1Mco",
-    "length": 124,
-    "likes": 919,
-    "retweet": 356,
-    "keywords": {
-      "noun": [
-        "italy's",
-        "five",
-        "star",
-        "coalition",
-        "deal",
-        "pd",
-        "blow",
-        "league"
-      ],
-      "verb": [
-        "populist",
-        "agree"
-      ],
-      "adj": [
-        "centre-left",
-        "far-right"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 22:50:52",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166761706015612933,
-    "name": "BBC Breaking News",
-    "screen_name": "BBCBreaking",
-    "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
-    "text": "RT @BBCSport: Bolton Wanderers' survival has been secured after Football Ventures (Whites) Limited complete its protracted takeover of the\u2026",
-    "length": 139,
+    "id": 1167944017285304320,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "RT @MSNBC: Odessa police chief says at least 5 people were killed and 21 injured after a mass shooting in Odessa, Texas, in a \"horrific\" da\u2026",
+    "length": 140,
     "likes": 0,
-    "retweet": 412,
+    "retweet": 1011,
     "keywords": {
       "noun": [
         "rt",
-        "bbcsport",
-        "bolton",
-        "wanderer",
-        "survival",
-        "venture",
-        "white",
-        "takeover",
+        "msnbc",
+        "odessa",
+        "police",
+        "chief",
+        "5",
+        "people",
+        "21",
+        "mass",
+        "shooting",
+        "odessa",
+        "texas",
+        "horrific",
+        "da",
         "\u2026"
       ],
       "verb": [
-        "secure",
-        "limit"
+        "say",
+        "kill",
+        "injure"
       ],
       "adj": [
-        "football",
-        "complete",
-        "protracted"
+        "least"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 22:47:22",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 05:05:27",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166749753633382400,
-    "name": "BBC Breaking News",
-    "screen_name": "BBCBreaking",
-    "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
-    "text": "Ruth Davidson on verge of quitting as leader of Scottish Conservatives, BBC Scotland understands https://t.co/SgW0xVrJss",
-    "length": 120,
-    "likes": 1341,
-    "retweet": 511,
+    "id": 1167943070232375297,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "RT @NBCNews: LIVE: @NBCNews Special Report: At least 5 killed in Odessa-Midland shooting attack, police say. https://t.co/xGjPosWi6F\n\nhttps\u2026",
+    "length": 140,
+    "likes": 0,
+    "retweet": 184,
     "keywords": {
       "noun": [
-        "ruth",
-        "davidson",
-        "verge",
-        "leader",
-        "conservative",
-        "bbc",
-        "scotland",
-        "understands"
+        "nbcnews",
+        "live",
+        "report",
+        "5",
+        "odessa-midland",
+        "attack",
+        "police"
       ],
       "verb": [
-        "quit"
+        "kill",
+        "shoot",
+        "say"
       ],
       "adj": [
-        "scottish"
+        "rt",
+        "nbcnews",
+        "special",
+        "least"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 21:59:53",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 05:01:41",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166713424530870276,
-    "name": "BBC Breaking News",
-    "screen_name": "BBCBreaking",
-    "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
-    "text": "The Queen approves order to suspend UK Parliament from early September to 14 October - just before Brexit deadline https://t.co/6OLmWNavwa",
-    "length": 138,
-    "likes": 6700,
-    "retweet": 4948,
+    "id": 1167937610724982784,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "@NBCNews Police official: \n\n-Trooper tried a traffic stop; was shot\n\n-Shooter continued on with a shooting rampage\n\n-Suspect stole a mail truck\n\n-Multiple law enforcement officers and many victims shot in multiple locations during rampage\n\nSuspect: White male in his mid-30s",
+    "length": 274,
+    "likes": 235,
+    "retweet": 231,
     "keywords": {
       "noun": [
-        "queen",
-        "order",
-        "uk",
-        "parliament",
-        "september",
-        "14",
-        "october",
-        "brexit",
-        "deadline"
+        "nbcnews",
+        "police",
+        "official",
+        "trooper",
+        "traffic",
+        "stop",
+        "shooter",
+        "shooting",
+        "rampage",
+        "stole",
+        "mail",
+        "truck",
+        "law",
+        "enforcement",
+        "officer",
+        "victim",
+        "location",
+        "rampage",
+        "suspect",
+        "white",
+        "male",
+        "mid",
+        "30"
       ],
       "verb": [
-        "approve",
-        "suspend"
+        "try",
+        "shoot",
+        "continue",
+        "shoot"
       ],
       "adj": [
-        "early"
+        "suspect",
+        "multiple",
+        "many",
+        "multiple"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 19:35:31",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 04:40:00",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166624168680538114,
-    "name": "BBC Breaking News",
-    "screen_name": "BBCBreaking",
-    "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
-    "text": "Government expected to suspend Parliament from mid-September, meaning MPs have limited time to stop no-deal Brexit https://t.co/6QDIT1IfgY",
-    "length": 138,
-    "likes": 5043,
-    "retweet": 3591,
+    "id": 1167936234783571968,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "@NBCNews At least 5 killed and more than 20 injured in Odessa-Midland shooting attack, police official says; there does not appear to be a second shooter, as of now.\n\nIncident began with a traffic stop; gunman shot trooper and went on rampage.",
+    "length": 243,
+    "likes": 1205,
+    "retweet": 1381,
     "keywords": {
       "noun": [
-        "government",
-        "parliament",
-        "mid-september",
-        "mp",
+        "nbcnews",
+        "5",
+        "20",
+        "odessa-midland",
+        "attack",
+        "police",
+        "official",
+        "shooter",
+        "incident",
+        "traffic",
+        "stop",
+        "shot",
+        "trooper",
+        "rampage"
+      ],
+      "verb": [
+        "kill",
+        "shoot",
+        "say",
+        "appear",
+        "begin",
+        "go"
+      ],
+      "adj": [
+        "least",
+        "injured",
+        "second",
+        "gunman"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 04:34:32",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167928120302718976,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "@NBCNews Midland Police: \"It has been confirmed that the active shooter was shot and killed at the Cinergy in Odessa. There is no active shooter at this time. All agencies are investigating reports of possible suspects.\"",
+    "length": 220,
+    "likes": 331,
+    "retweet": 228,
+    "keywords": {
+      "noun": [
+        "nbcnews",
+        "midland",
+        "police",
+        "shooter",
+        "cinergy",
+        "odessa",
+        "shooter",
         "time",
-        "brexit"
+        "agency",
+        "report",
+        "suspect"
       ],
       "verb": [
-        "expect",
-        "suspend",
-        "mean",
-        "limit",
-        "stop"
+        "confirm",
+        "shoot",
+        "kill",
+        "investigate"
       ],
       "adj": [
-        "no-deal"
+        "active",
+        "active",
+        "possible"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 13:40:51",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 04:02:17",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167927485532528640,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "@NBCNews UPDATE: At least 20 people, including a Texas state trooper, have been injured in the Odessa-Midland shooting attack, 3 senior US law enforcement officials briefed on the incident tell @NBCNews. https://t.co/n1FvaqeRrC",
+    "length": 227,
+    "likes": 93,
+    "retweet": 124,
+    "keywords": {
+      "noun": [
+        "nbcnews",
+        "update",
+        "20",
+        "people",
+        "texas",
+        "state",
+        "trooper",
+        "odessa-midland",
+        "shooting",
+        "attack",
+        "3",
+        "u",
+        "law",
+        "enforcement",
+        "official",
+        "incident",
+        "tell",
+        "nbcnews"
+      ],
+      "verb": [
+        "include",
+        "injure",
+        "brief"
+      ],
+      "adj": [
+        "least",
+        "senior"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 03:59:46",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167924017317044225,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "At least 1 dead and many injured in Odessa-Midland shooting attack, an Odessa city official tells @NBCNews. https://t.co/n1FvaqeRrC",
+    "length": 131,
+    "likes": 70,
+    "retweet": 71,
+    "keywords": {
+      "noun": [
+        "1",
+        "odessa-midland",
+        "attack",
+        "odessa",
+        "city",
+        "official",
+        "nbcnews"
+      ],
+      "verb": [
+        "injure",
+        "shoot",
+        "tell"
+      ],
+      "adj": [
+        "least",
+        "dead",
+        "many"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 03:45:59",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167919609376194562,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "RT @MSNBC: BREAKING: Police say that multiple people have been shot in the Odessa-Midland, Texas, area, by at least one shooter. People in\u2026",
+    "length": 139,
+    "likes": 0,
+    "retweet": 614,
+    "keywords": {
+      "noun": [
+        "rt",
+        "msnbc",
+        "breaking",
+        "police",
+        "people",
+        "odessa-midland",
+        "texas",
+        "area",
+        "one",
+        "shooter",
+        "people",
+        "\u2026"
+      ],
+      "verb": [
+        "say",
+        "shoot"
+      ],
+      "adj": [
+        "multiple",
+        "least"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 03:28:28",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167917895772278784,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "https://t.co/SXvWqvAM3k",
+    "length": 23,
+    "likes": 65,
+    "retweet": 60,
+    "keywords": {
+      "noun": [],
+      "verb": [],
+      "adj": [],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 03:21:39",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167914220748328962,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "Manhunt ongoing for at least 1 active shooter in Odessa, Texas; police ask public to get off roadways.\n\nPolice: \"A subject (possibly 2) ... At this time there are multiple gunshot victims. The suspect just hijacked a U.S. mail carrier truck\"",
+    "length": 241,
+    "likes": 319,
+    "retweet": 450,
+    "keywords": {
+      "noun": [
+        "manhunt",
+        "1",
+        "shooter",
+        "odessa",
+        "texas",
+        "police",
+        "roadway",
+        "police",
+        "subject",
+        "2",
+        "time",
+        "victim",
+        "suspect",
+        "u",
+        "mail",
+        "carrier",
+        "truck"
+      ],
+      "verb": [
+        "ongoing",
+        "ask",
+        "get",
+        "hijack"
+      ],
+      "adj": [
+        "least",
+        "active",
+        "public",
+        "multiple",
+        "gunshot"
+      ],
+      "adv": [
+        "possibly"
+      ]
+    },
+    "verified": true,
+    "date": "2019-09-01 03:07:03",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167827119507955713,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "RT @NBCNews: LIVE: Latest Hurricane Dorian forecast updates. https://t.co/aHkRPsNOID https://t.co/LEBBxJDLsX",
+    "length": 108,
+    "likes": 0,
+    "retweet": 98,
+    "keywords": {
+      "noun": [
+        "nbcnews",
+        "live",
+        "latest",
+        "hurricane",
+        "dorian",
+        "forecast",
+        "update"
+      ],
+      "verb": [],
+      "adj": [
+        "rt"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 21:20:57",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167774167128842240,
+    "name": "Breaking News",
+    "screen_name": "BreakingNews",
+    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
+    "text": "Hurricane Dorian's forecast path has shifted slightly Saturday morning; could miss a direct hit on Florida and later make landfall on the Carolinas. https://t.co/tv7BvNMW2J https://t.co/Kfn5nmkCgF",
+    "length": 196,
+    "likes": 219,
+    "retweet": 170,
+    "keywords": {
+      "noun": [
+        "hurricane",
+        "dorian's",
+        "path",
+        "saturday",
+        "morning",
+        "could",
+        "hit",
+        "florida",
+        "landfall",
+        "carolina"
+      ],
+      "verb": [
+        "forecast",
+        "shift",
+        "miss",
+        "make"
+      ],
+      "adj": [
+        "direct"
+      ],
+      "adv": [
+        "slightly",
+        "later"
+      ]
+    },
+    "verified": true,
+    "date": "2019-08-31 17:50:32",
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167599521599086592,
@@ -2099,7 +2430,7 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "Hurricane Dorian strengthens to an \"extremely dangerous\" Cat. 4 storm, with maximum sustained winds near 130 mph, NHC reports https://t.co/RokdHG2Hl8 https://t.co/odyEHDGB8S",
     "length": 173,
-    "likes": 124,
+    "likes": 130,
     "retweet": 137,
     "keywords": {
       "noun": [
@@ -2129,7 +2460,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:16:33",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167579428525723648,
@@ -2138,8 +2469,8 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "Valerie Harper, beloved 'Mary Tyler Moore' and 'Rhoda' actress, dies from cancer, AP reports. https://t.co/6Ti5POUpYM https://t.co/3Fdi449njp",
     "length": 141,
-    "likes": 202,
-    "retweet": 124,
+    "likes": 209,
+    "retweet": 126,
     "keywords": {
       "noun": [
         "valerie",
@@ -2162,7 +2493,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:56:42",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167497568823193601,
@@ -2171,7 +2502,7 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "Dorian strengthens to Cat. 3 hurricane, NHC says. https://t.co/pZ11MKOO7K",
     "length": 73,
-    "likes": 53,
+    "likes": 56,
     "retweet": 51,
     "keywords": {
       "noun": [
@@ -2191,7 +2522,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:31:26",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167457274211835904,
@@ -2220,7 +2551,7 @@
     },
     "verified": true,
     "date": "2019-08-30 20:51:19",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167091404000178177,
@@ -2253,7 +2584,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:37:28",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167086938035118085,
@@ -2263,7 +2594,7 @@
     "text": "RT @NBCNews: LIVE: Florida Gov. DeSantis speaks from National Hurricane Center as Hurricane Dorian approaches; currently forecast to hit at\u2026",
     "length": 140,
     "likes": 0,
-    "retweet": 109,
+    "retweet": 111,
     "keywords": {
       "noun": [
         "nbcnews",
@@ -2293,7 +2624,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:19:44",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167082039750930432,
@@ -2302,7 +2633,7 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "Inspector general report: Former FBI Director Comey's actions with handling his memos violated US Justice Dept. and FBI policies, and his FBI Employment Agreement, but \u201cthe Department declined prosecution.\u201d https://t.co/k1SWhGAchE",
     "length": 230,
-    "likes": 81,
+    "likes": 82,
     "retweet": 59,
     "keywords": {
       "noun": [
@@ -2339,269 +2670,300 @@
     },
     "verified": true,
     "date": "2019-08-29 20:00:16",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166771005563514880,
-    "name": "Breaking News",
-    "screen_name": "BreakingNews",
-    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
-    "text": "The leaders of Italy's centre-left Democratic Party (PD) and populist Five Star Movement say they have agreed to form a coalition government. https://t.co/8pPRdLu1Ht",
-    "length": 165,
-    "likes": 52,
-    "retweet": 24,
+    "id": 1168074686342803457,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Shadow Chancellor John McDonnell has told Sky News that cross-party plans to block a 'no-deal' Brexit will be published on Tuesday",
+    "length": 130,
+    "likes": 14,
+    "retweet": 5,
     "keywords": {
       "noun": [
-        "leader",
-        "italy's",
-        "democratic",
-        "party",
-        "pd",
-        "five",
-        "star",
-        "movement",
-        "coalition",
-        "government"
+        "shadow",
+        "chancellor",
+        "john",
+        "mcdonnell",
+        "sky",
+        "news",
+        "plan",
+        "brexit",
+        "tuesday"
+      ],
+      "verb": [
+        "tell",
+        "block",
+        "publish"
+      ],
+      "adj": [
+        "cross-party",
+        "no-deal"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 13:44:41",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1168066217514418176,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Former Justice Secretary David Gauke has told Sky News he will meet Prime Minister Boris Johnson tomorrow to discuss Brexit plans",
+    "length": 129,
+    "likes": 29,
+    "retweet": 9,
+    "keywords": {
+      "noun": [
+        "justice",
+        "secretary",
+        "david",
+        "gauke",
+        "sky",
+        "news",
+        "prime",
+        "minister",
+        "boris",
+        "johnson",
+        "tomorrow",
+        "brexit",
+        "plan"
+      ],
+      "verb": [
+        "tell",
+        "meet",
+        "discuss"
+      ],
+      "adj": [
+        "former"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 13:11:02",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167931229104033792,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Midland Police Department in the U.S. state of Texas says a suspect has been shot and killed at the Cinergy in Odessa",
+    "length": 117,
+    "likes": 100,
+    "retweet": 54,
+    "keywords": {
+      "noun": [
+        "midland",
+        "police",
+        "department",
+        "u",
+        "state",
+        "texas",
+        "suspect",
+        "cinergy",
+        "odessa"
       ],
       "verb": [
         "say",
-        "agree",
-        "form"
-      ],
-      "adj": [
-        "centre-left",
-        "populist"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 23:24:19",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166768783010226176,
-    "name": "Breaking News",
-    "screen_name": "BreakingNews",
-    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
-    "text": "RT @NBCNews: LIVE: 16-year-old climate activist Greta Thunberg sails into NYC after two-week journey across Atlantic. https://t.co/QbyALQ1F\u2026",
-    "length": 140,
-    "likes": 0,
-    "retweet": 2689,
-    "keywords": {
-      "noun": [
-        "nbcnews",
-        "live",
-        "16",
-        "climate",
-        "activist",
-        "greta",
-        "thunberg",
-        "nyc",
-        "journey",
-        "across",
-        "atlantic"
-      ],
-      "verb": [
-        "sail"
-      ],
-      "adj": [
-        "rt",
-        "year-old",
-        "two-week"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 23:15:30",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166754672717287426,
-    "name": "Breaking News",
-    "screen_name": "BreakingNews",
-    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
-    "text": "Jessi Combs, who was dubbed \"the fastest woman on four wheels,\" has died at age 36 after crashing while attempting to break her own record in a jet-powered land-speed car in Oregon. https://t.co/Kz85lmPcjF",
-    "length": 205,
-    "likes": 277,
-    "retweet": 261,
-    "keywords": {
-      "noun": [
-        "jessi",
-        "comb",
-        "woman",
-        "four",
-        "wheel",
-        "age",
-        "36",
-        "record",
-        "car",
-        "oregon"
-      ],
-      "verb": [
-        "dub",
-        "die",
-        "crash",
-        "attempt",
-        "break"
-      ],
-      "adj": [
-        "fast",
-        "jet-powered",
-        "land-speed"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 22:19:25",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166735024693157888,
-    "name": "Breaking News",
-    "screen_name": "BreakingNews",
-    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
-    "text": "Tropical Storm Dorian could strengthen to Cat. 3 hurricane as it nears Florida coast. https://t.co/MJKhiuhdS2 https://t.co/SY29EcOJZt",
-    "length": 133,
-    "likes": 50,
-    "retweet": 49,
-    "keywords": {
-      "noun": [
-        "storm",
-        "dorian",
-        "could",
-        "cat",
-        "3",
-        "hurricane",
-        "florida",
-        "coast"
-      ],
-      "verb": [
-        "strengthen",
-        "near"
-      ],
-      "adj": [
-        "tropical"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 21:01:21",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166727054773149696,
-    "name": "Breaking News",
-    "screen_name": "BreakingNews",
-    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
-    "text": "The Queen approves request by PM Johnson to suspend UK Parliament ahead of Brexit. https://t.co/xABzKwk0qY",
-    "length": 106,
-    "likes": 58,
-    "retweet": 67,
-    "keywords": {
-      "noun": [
-        "queen",
-        "request",
-        "pm",
-        "johnson",
-        "uk",
-        "parliament",
-        "brexit"
-      ],
-      "verb": [
-        "approve",
-        "suspend"
+        "shoot",
+        "kill"
       ],
       "adj": [],
-      "adv": [
-        "ahead"
-      ]
+      "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 20:29:41",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 04:14:38",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166693932249571329,
-    "name": "Breaking News",
-    "screen_name": "BreakingNews",
-    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
-    "text": "At least 23 people are dead in the Mexican state of Veracruz after a fire at a bar, the attorney general\u2019s office said early Wednesday.\n\nVeracruz Gov. Cuitlahuac Garcia suggested that a gang dispute was involved in the attack. https://t.co/6UAsXlGPIx",
-    "length": 250,
-    "likes": 33,
-    "retweet": 30,
+    "id": 1167919075927834624,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Police in the U.S. state of Texas say around 20 people have been shot in the Midland and Odessa area by at least one and possibly two shooters in separate vehicles according to a local television station report",
+    "length": 210,
+    "likes": 229,
+    "retweet": 248,
     "keywords": {
       "noun": [
-        "23",
-        "people",
-        "mexican",
+        "police",
+        "u",
         "state",
-        "veracruz",
-        "fire",
-        "bar",
-        "attorney",
-        "\u2019",
-        "office",
-        "wednesday",
-        "veracruz",
-        "gov",
-        "cuitlahuac",
-        "garcia",
-        "gang",
-        "dispute",
-        "attack"
+        "texas",
+        "around",
+        "20",
+        "people",
+        "midland",
+        "odessa",
+        "area",
+        "one",
+        "two",
+        "shooter",
+        "vehicle",
+        "television",
+        "station",
+        "report"
       ],
       "verb": [
         "say",
-        "suggest",
-        "involve"
+        "shoot",
+        "accord"
       ],
       "adj": [
         "least",
-        "dead",
-        "general",
-        "early"
+        "separate",
+        "local"
+      ],
+      "adv": [
+        "possibly"
+      ]
+    },
+    "verified": true,
+    "date": "2019-09-01 03:26:21",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167854450679189505,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Bolton have announced the appointment of Keith Hill as their new manager",
+    "length": 72,
+    "likes": 142,
+    "retweet": 35,
+    "keywords": {
+      "noun": [
+        "bolton",
+        "appointment",
+        "keith",
+        "hill",
+        "manager"
+      ],
+      "verb": [
+        "announce"
+      ],
+      "adj": [
+        "new"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 18:18:04",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-08-31 23:09:33",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166691972444295168,
-    "name": "Breaking News",
-    "screen_name": "BreakingNews",
-    "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
-    "text": "New UK PM Johnson has asked the Queen to temporarily suspend Parliament in effort to clear way for Brexit. https://t.co/YRBDV98mf2",
-    "length": 130,
-    "likes": 73,
-    "retweet": 70,
+    "id": 1167848372377673730,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "The FIA has announced French driver Anthoine Hubert has died as a result of injuries sustained in a crash during the Formula 2 Sprint Race at Spa-Francorchamps in Belgium",
+    "length": 170,
+    "likes": 496,
+    "retweet": 185,
     "keywords": {
       "noun": [
-        "new",
-        "uk",
-        "pm",
-        "johnson",
-        "queen",
-        "parliament",
-        "effort",
-        "way",
-        "brexit"
+        "fia",
+        "driver",
+        "anthoine",
+        "hubert",
+        "result",
+        "injury",
+        "crash",
+        "formula",
+        "2",
+        "sprint",
+        "race",
+        "spa-francorchamps",
+        "belgium"
       ],
       "verb": [
-        "ask",
-        "suspend"
+        "announce",
+        "die",
+        "sustain"
       ],
       "adj": [
-        "clear"
+        "french"
       ],
-      "adv": [
-        "temporarily"
-      ]
+      "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 18:10:16",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-08-31 22:45:24",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167838523220791296,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Lancashire Police says a 16-year-old boy has been charged with the murder of 47-year-old teaching assistant and mother-of-two Lindsay Birbeck",
+    "length": 141,
+    "likes": 94,
+    "retweet": 54,
+    "keywords": {
+      "noun": [
+        "lancashire",
+        "police",
+        "16",
+        "boy",
+        "murder",
+        "47",
+        "teaching",
+        "assistant",
+        "lindsay",
+        "birbeck"
+      ],
+      "verb": [
+        "say",
+        "charge"
+      ],
+      "adj": [
+        "year-old",
+        "year-old",
+        "mother-of-two"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 22:06:15",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167764636688625664,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Protesters in Hong Kong have started a fire during the 13th consecutive weekend of pro-democracy demonstrations in the city",
+    "length": 123,
+    "likes": 26,
+    "retweet": 15,
+    "keywords": {
+      "noun": [
+        "protester",
+        "hong",
+        "kong",
+        "fire",
+        "13th",
+        "weekend",
+        "demonstration",
+        "city"
+      ],
+      "verb": [
+        "start"
+      ],
+      "adj": [
+        "consecutive",
+        "pro-democracy"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 17:12:40",
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167740520984174592,
@@ -2610,8 +2972,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Demonstrators in Hong Kong have thrown objects and pointed laser beams at police officers during the 13th consecutive weekend of pro-democracy protests in the city",
     "length": 163,
-    "likes": 33,
-    "retweet": 13,
+    "likes": 60,
+    "retweet": 22,
     "keywords": {
       "noun": [
         "demonstrator",
@@ -2639,7 +3001,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:36:50",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167735680203665408,
@@ -2648,8 +3010,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Police in Hong Kong have used water cannon against protesters who are marching through the city during the 13th consecutive weekend of pro-democracy demonstrations",
     "length": 163,
-    "likes": 45,
-    "retweet": 25,
+    "likes": 56,
+    "retweet": 30,
     "keywords": {
       "noun": [
         "police",
@@ -2675,7 +3037,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:17:36",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167732947157434368,
@@ -2684,8 +3046,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Police in Hong Kong have fired tear gas at protesters who are marching through the city during the 13th consecutive weekend of pro-democracy demonstrations",
     "length": 155,
-    "likes": 91,
-    "retweet": 38,
+    "likes": 141,
+    "retweet": 54,
     "keywords": {
       "noun": [
         "police",
@@ -2711,7 +3073,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:06:44",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167724561980432385,
@@ -2720,8 +3082,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Sky News understands more than 50 suspected migrants have been picked up this morning around Dover in four different incidents with eight making it to Kingsdown Beach",
     "length": 166,
-    "likes": 85,
-    "retweet": 61,
+    "likes": 258,
+    "retweet": 181,
     "keywords": {
       "noun": [
         "sky",
@@ -2751,7 +3113,7 @@
     },
     "verified": true,
     "date": "2019-08-31 14:33:25",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167522420871303168,
@@ -2760,8 +3122,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Johanna Konta has beaten Zhang Shuai 6-2 6-3 in the third round of the U.S. Open",
     "length": 80,
-    "likes": 100,
-    "retweet": 7,
+    "likes": 104,
+    "retweet": 8,
     "keywords": {
       "noun": [
         "johanna",
@@ -2784,7 +3146,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:10:11",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167508334456557568,
@@ -2793,8 +3155,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Metropolitan Police says a 15-year-old boy is in a critical condition after being stabbed multiple times in Haringey in north London",
     "length": 132,
-    "likes": 88,
-    "retweet": 84,
+    "likes": 90,
+    "retweet": 89,
     "keywords": {
       "noun": [
         "metropolitan",
@@ -2820,7 +3182,7 @@
     },
     "verified": true,
     "date": "2019-08-31 00:14:12",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167491734244397056,
@@ -2829,8 +3191,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Roger Federer has beaten Dan Evans 6-2 6-2 6-1 in the third round of the U.S. Open",
     "length": 82,
-    "likes": 89,
-    "retweet": 14,
+    "likes": 92,
+    "retweet": 15,
     "keywords": {
       "noun": [
         "roger",
@@ -2854,7 +3216,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:08:15",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167482122405330944,
@@ -2863,8 +3225,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "The Department for Education has announced more than \u00a314bn will be invested in primary and secondary school education across England between now and 2022/23 which it says will bring the schools budget to \u00a352.2bn in 2022/23",
     "length": 222,
-    "likes": 533,
-    "retweet": 156,
+    "likes": 544,
+    "retweet": 158,
     "keywords": {
       "noun": [
         "department",
@@ -2897,7 +3259,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:30:03",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167472578648301570,
@@ -2906,8 +3268,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Cambridgeshire Police says five teenagers aged between 15 and 19 have been arrested in connection with a fire at a kitchen appliance factory in Peterborough last night which caused around \u00a32m worth of damages to 48 trailers",
     "length": 223,
-    "likes": 103,
-    "retweet": 57,
+    "likes": 108,
+    "retweet": 60,
     "keywords": {
       "noun": [
         "cambridgeshire",
@@ -2944,7 +3306,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:52:07",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167413538257821696,
@@ -2953,8 +3315,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Labour deputy leader Tom Watson says he will also be joining Gina Miller's legal action against the suspension of Parliament calling the move \"an unprecedented affront to democracy\"",
     "length": 181,
-    "likes": 252,
-    "retweet": 80,
+    "likes": 257,
+    "retweet": 81,
     "keywords": {
       "noun": [
         "deputy",
@@ -2986,7 +3348,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:57:31",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167365358174576640,
@@ -2995,8 +3357,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Opponents of Prime Minister Boris Johnson's bid to suspend Parliament have been denied an interim block at the Court of Session in Edinburgh",
     "length": 140,
-    "likes": 5511,
-    "retweet": 1169,
+    "likes": 5561,
+    "retweet": 1180,
     "keywords": {
       "noun": [
         "opponent",
@@ -3022,7 +3384,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:46:04",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167362997997703168,
@@ -3031,7 +3393,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Pro-democracy group Demosisto says bail has been granted to activists Joshua Wong and Agnes Chow who were arrested earlier today following the ongoing protests in Hong Kong",
     "length": 172,
-    "likes": 44,
+    "likes": 43,
     "retweet": 15,
     "keywords": {
       "noun": [
@@ -3064,7 +3426,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:36:41",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167360265358364672,
@@ -3073,8 +3435,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Former prime minister Sir John Major says he wants to join the legal action being brought by campaigner Gina Miller over Boris Johnson's decision to suspend Parliament",
     "length": 167,
-    "likes": 1568,
-    "retweet": 390,
+    "likes": 1603,
+    "retweet": 401,
     "keywords": {
       "noun": [
         "former",
@@ -3106,7 +3468,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:25:50",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167332260460269568,
@@ -3115,7 +3477,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Transport Secretary Grant Shapps has told Sky News that the government has put forward alternatives to the Northern Ireland backstop including ideas on trusted trading schemes",
     "length": 175,
-    "likes": 132,
+    "likes": 135,
     "retweet": 64,
     "keywords": {
       "noun": [
@@ -3148,7 +3510,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:34:33",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167126901175066624,
@@ -3157,7 +3519,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "England international Lucy Bronze has been named women's player of the year by UEFA",
     "length": 83,
-    "likes": 277,
+    "likes": 278,
     "retweet": 21,
     "keywords": {
       "noun": [
@@ -3179,7 +3541,7 @@
     },
     "verified": true,
     "date": "2019-08-29 22:58:32",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167125747384934400,
@@ -3188,7 +3550,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Liverpool defender Virgil Van Dijk has been named men's player of the year by UEFA",
     "length": 82,
-    "likes": 519,
+    "likes": 520,
     "retweet": 83,
     "keywords": {
       "noun": [
@@ -3211,7 +3573,7 @@
     },
     "verified": true,
     "date": "2019-08-29 22:53:56",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167082629671378945,
@@ -3220,7 +3582,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Labour Leader Jeremy Corbyn says Parliament should \"legislate rapidly\" to prevent a 'no-deal' Brexit and says he will try on Tuesday to politically stop Boris Johnson shutting down Parliament",
     "length": 191,
-    "likes": 628,
+    "likes": 634,
     "retweet": 207,
     "keywords": {
       "noun": [
@@ -3254,7 +3616,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:02:36",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167012866551177216,
@@ -3288,7 +3650,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:25:24",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167009309290565632,
@@ -3297,7 +3659,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Government Source: Lord Young the Government's whip in the House of Lords has resigned",
     "length": 86,
-    "likes": 258,
+    "likes": 259,
     "retweet": 118,
     "keywords": {
       "noun": [
@@ -3318,7 +3680,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:11:15",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166961355867471872,
@@ -3327,7 +3689,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Liberal Democrat Brexit spokesperson Tom Brake MP has told Sky News that the Liberal Democrats will be working actively cross-party to stop a No-deal Brexit and against the proroguing of Parliament - he called the suspension of parliament \"undemocratic and dictatorial\"",
     "length": 269,
-    "likes": 177,
+    "likes": 178,
     "retweet": 46,
     "keywords": {
       "noun": [
@@ -3366,7 +3728,7 @@
     },
     "verified": true,
     "date": "2019-08-29 12:00:42",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166954465464918016,
@@ -3404,278 +3766,45 @@
     },
     "verified": true,
     "date": "2019-08-29 11:33:20",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166761279731720192,
-    "name": "Sky News Breaking",
-    "screen_name": "SkyNewsBreak",
-    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
-    "text": "Bolton Wanderers' administrators have announced the League One club has been sold to Football Ventures (whites) Limited",
-    "length": 119,
-    "likes": 518,
-    "retweet": 118,
+    "id": 1167781044243902470,
+    "name": "NationBreakingNews",
+    "screen_name": "NationBreaking",
+    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+    "text": "OUSTED SUDAN president Bashir, who is on trial for corruption, charged with illegal acquisition and use of foreign funds; faces 10 years in jail. https://t.co/jlXV61rfmE",
+    "length": 169,
+    "likes": 52,
+    "retweet": 25,
     "keywords": {
       "noun": [
-        "bolton",
-        "wanderer",
-        "administrator",
-        "league",
-        "one",
-        "club",
-        "venture",
-        "white"
+        "ousted",
+        "sudan",
+        "president",
+        "bashir",
+        "trial",
+        "corruption",
+        "acquisition",
+        "use",
+        "fund",
+        "10",
+        "year",
+        "jail"
       ],
       "verb": [
-        "announce",
-        "sell",
-        "football",
-        "limit"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 22:45:41",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166751122670927872,
-    "name": "Sky News Breaking",
-    "screen_name": "SkyNewsBreak",
-    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
-    "text": "Sky Sources say Scottish Conservatives leader Ruth Davidson is expected to confirm tomorrow that she is standing down",
-    "length": 117,
-    "likes": 407,
-    "retweet": 204,
-    "keywords": {
-      "noun": [
-        "sky",
-        "source",
-        "conservative",
-        "leader",
-        "ruth",
-        "davidson",
-        "tomorrow"
-      ],
-      "verb": [
-        "say",
-        "expect",
-        "confirm",
-        "stand"
+        "charge",
+        "face"
       ],
       "adj": [
-        "scottish"
+        "illegal",
+        "foreign"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 22:05:19",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166750062640291846,
-    "name": "Sky News Breaking",
-    "screen_name": "SkyNewsBreak",
-    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
-    "text": "Former Chancellor Philip Hammond says it is \"profoundly undemocratic\" to shut down Parliament and stop it doing its job at a time of \"national crisis\"",
-    "length": 150,
-    "likes": 318,
-    "retweet": 82,
-    "keywords": {
-      "noun": [
-        "former",
-        "chancellor",
-        "philip",
-        "hammond",
-        "parliament",
-        "job",
-        "time",
-        "crisis"
-      ],
-      "verb": [
-        "say",
-        "shut",
-        "stop"
-      ],
-      "adj": [
-        "undemocratic",
-        "national"
-      ],
-      "adv": [
-        "profoundly"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 22:01:06",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166712986402263047,
-    "name": "Sky News Breaking",
-    "screen_name": "SkyNewsBreak",
-    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
-    "text": "The Queen has approved an order to prorogue Parliament no earlier than 9 September and no later than 12 September until 14 October",
-    "length": 130,
-    "likes": 2719,
-    "retweet": 1013,
-    "keywords": {
-      "noun": [
-        "queen",
-        "order",
-        "parliament",
-        "9",
-        "september",
-        "12",
-        "september",
-        "14",
-        "october"
-      ],
-      "verb": [
-        "approve",
-        "prorogue"
-      ],
-      "adj": [
-        "early"
-      ],
-      "adv": [
-        "later"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 19:33:47",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166664671698530306,
-    "name": "Sky News Breaking",
-    "screen_name": "SkyNewsBreak",
-    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
-    "text": "The DUP says it welcomes the Prime Minister's decision to hold a new Queen's Speech and says the terms of the 2017 'confidence and supply' agreement will be reviewed in advance of a new parliament session",
-    "length": 204,
-    "likes": 271,
-    "retweet": 73,
-    "keywords": {
-      "noun": [
-        "dup",
-        "prime",
-        "minister's",
-        "decision",
-        "queen's",
-        "speech",
-        "term",
-        "2017",
-        "confidence",
-        "supply",
-        "agreement",
-        "advance",
-        "parliament",
-        "session"
-      ],
-      "verb": [
-        "say",
-        "welcome",
-        "hold",
-        "say",
-        "review"
-      ],
-      "adj": [
-        "new",
-        "new"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 16:21:47",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166663798767398912,
-    "name": "Sky News Breaking",
-    "screen_name": "SkyNewsBreak",
-    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
-    "text": "Labour leader Jeremy Corbyn says he is \"appalled at the recklessness\" of Boris Johnson's Government which is \"seeking to suspend parliament to avoid scrutiny of its plans for a reckless no-deal Brexit\"",
-    "length": 201,
-    "likes": 360,
-    "retweet": 134,
-    "keywords": {
-      "noun": [
-        "leader",
-        "jeremy",
-        "corbyn",
-        "recklessness",
-        "boris",
-        "johnson's",
-        "government",
-        "parliament",
-        "scrutiny",
-        "plan",
-        "brexit"
-      ],
-      "verb": [
-        "say",
-        "appal",
-        "seek",
-        "suspend",
-        "avoid"
-      ],
-      "adj": [
-        "labour",
-        "reckless",
-        "no-deal"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 16:18:19",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166652644166950912,
-    "name": "Sky News Breaking",
-    "screen_name": "SkyNewsBreak",
-    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
-    "text": "Commons Speaker John Bercow says \"it is blindingly obvious that the purpose of prorogation now would be to stop Parliament debating Brexit and performing its duty in shaping a course for the country\" calling the Government's plans a \"constitutional outrage\"",
-    "length": 257,
-    "likes": 4182,
-    "retweet": 1670,
-    "keywords": {
-      "noun": [
-        "common",
-        "speaker",
-        "john",
-        "bercow",
-        "purpose",
-        "prorogation",
-        "would",
-        "parliament",
-        "brexit",
-        "duty",
-        "course",
-        "country",
-        "government's",
-        "outrage"
-      ],
-      "verb": [
-        "say",
-        "stop",
-        "debate",
-        "perform",
-        "shape",
-        "call",
-        "plan"
-      ],
-      "adj": [
-        "obvious",
-        "constitutional"
-      ],
-      "adv": [
-        "blindingly"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 15:34:00",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-08-31 18:17:51",
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167694207454253057,
@@ -3684,8 +3813,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "ANOTHER MAN hacks his two sons to death in Bomet after a quarrel with his wife over maize flour, Konoin police boss Alex Shikondi confirms. https://t.co/21Yjtflo1O",
     "length": 163,
-    "likes": 61,
-    "retweet": 77,
+    "likes": 106,
+    "retweet": 109,
     "keywords": {
       "noun": [
         "another",
@@ -3713,7 +3842,7 @@
     },
     "verified": true,
     "date": "2019-08-31 12:32:48",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167658119729745922,
@@ -3722,8 +3851,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "FATHER, 32, slashes his two sons aged 8 and 6 to death before committing suicide in Mirangine, Nyandarua County following domestic dispute. https://t.co/ThDeHzHU1f",
     "length": 163,
-    "likes": 99,
-    "retweet": 126,
+    "likes": 139,
+    "retweet": 152,
     "keywords": {
       "noun": [
         "father",
@@ -3752,7 +3881,7 @@
     },
     "verified": true,
     "date": "2019-08-31 10:09:24",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167449440413790211,
@@ -3761,8 +3890,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "KNUT CHAIRMAN Wickliffe Omucheyi says NEC has appointed Hesbon Otieno to replace Wilson Sossion as acting secretary-general. https://t.co/YEPJgcqsHI",
     "length": 148,
-    "likes": 381,
-    "retweet": 124,
+    "likes": 416,
+    "retweet": 132,
     "keywords": {
       "noun": [
         "knut",
@@ -3788,7 +3917,7 @@
     },
     "verified": true,
     "date": "2019-08-30 20:20:11",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167410264037298177,
@@ -3797,7 +3926,7 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "NAIROBI COURT dismisses terrorism charges against Worqu Sar and his father Sar Haro over twin bus blasts that killed 3 people in Githurai in 2014. https://t.co/VMNp9eq7Yy",
     "length": 170,
-    "likes": 50,
+    "likes": 54,
     "retweet": 26,
     "keywords": {
       "noun": [
@@ -3828,7 +3957,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:44:31",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167409784015982598,
@@ -3837,7 +3966,7 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "STEPHEN MWANGOLA, a senior chief in Isiolo, dies after he was run over by a lorry on Isiolo-Moyale road while riding on a motorcycle. https://t.co/OJ0g6zoKY2",
     "length": 157,
-    "likes": 19,
+    "likes": 22,
     "retweet": 13,
     "keywords": {
       "noun": [
@@ -3862,7 +3991,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:42:36",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167408128020926469,
@@ -3871,8 +4000,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "SECOND POSTMORTEM on body of Chuka University student Maureen Mwihaki confirms that she was strangled to death; 5 suspects to face murder charge. https://t.co/RtFIw0J89G",
     "length": 169,
-    "likes": 51,
-    "retweet": 33,
+    "likes": 53,
+    "retweet": 34,
     "keywords": {
       "noun": [
         "postmortem",
@@ -3900,7 +4029,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:36:01",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167406751198720002,
@@ -3909,8 +4038,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "DETECTIVES HUNT for Joseph Mwangi Nduta alias Joe, who is ex-manager of popular teen acrobat Wendy Waeni, over forgery claims. https://t.co/C5WLpDESGh https://t.co/4Zf3UHd6ea",
     "length": 174,
-    "likes": 66,
-    "retweet": 37,
+    "likes": 68,
+    "retweet": 38,
     "keywords": {
       "noun": [
         "detective",
@@ -3936,7 +4065,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:30:33",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167370993733685252,
@@ -3974,7 +4103,7 @@
     },
     "verified": true,
     "date": "2019-08-30 15:08:28",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167322949981892608,
@@ -3983,7 +4112,7 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "POLICE GUN down a suspected Shabaab linked to killing of a village elder and a cleric in Kwale; county commander Tom Odero says pistol found.",
     "length": 141,
-    "likes": 136,
+    "likes": 138,
     "retweet": 59,
     "keywords": {
       "noun": [
@@ -4013,7 +4142,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:57:33",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167312646925737984,
@@ -4022,8 +4151,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "UGANDA CONFIRMS Ebola case after Congolese girl, 9, tested positive; she was identified during screening at Mpondwe border post.",
     "length": 128,
-    "likes": 91,
-    "retweet": 91,
+    "likes": 92,
+    "retweet": 92,
     "keywords": {
       "noun": [
         "uganda",
@@ -4049,7 +4178,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:16:37",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167142922808152064,
@@ -4058,8 +4187,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "TOTTENHAM AND Belgian giants Club Brugge agree on a fee of around Sh1.2 billion for Harambee Stars skipper Victor Wanyama, English media reports. https://t.co/nSgH3qxOtx",
     "length": 169,
-    "likes": 348,
-    "retweet": 110,
+    "likes": 354,
+    "retweet": 111,
     "keywords": {
       "noun": [
         "tottenham",
@@ -4090,7 +4219,7 @@
     },
     "verified": true,
     "date": "2019-08-30 00:02:11",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167106928926961665,
@@ -4127,7 +4256,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:39:10",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167104781653041154,
@@ -4165,7 +4294,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:30:38",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167069767339036673,
@@ -4202,7 +4331,7 @@
     },
     "verified": true,
     "date": "2019-08-29 19:11:30",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167046676718243841,
@@ -4211,7 +4340,7 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "GOVERNORS TO shutdown counties from September 16 if the Division of Revenue bill impasse is not resolved, CoG chair Wycliffe Oparanya announces. https://t.co/JJvwswzNSV",
     "length": 168,
-    "likes": 245,
+    "likes": 246,
     "retweet": 143,
     "keywords": {
       "noun": [
@@ -4238,7 +4367,7 @@
     },
     "verified": true,
     "date": "2019-08-29 17:39:45",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167044415766048769,
@@ -4247,8 +4376,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "SIAYA COUNTY Assembly shoots down Punguza Mzigo Bill 2019; MCAs say proposed law likely to erode constitutional gains achieved since 2010. https://t.co/gyilGovCrs",
     "length": 162,
-    "likes": 173,
-    "retweet": 52,
+    "likes": 174,
+    "retweet": 53,
     "keywords": {
       "noun": [
         "siaya",
@@ -4280,7 +4409,7 @@
     },
     "verified": true,
     "date": "2019-08-29 17:30:46",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167018393322627077,
@@ -4317,7 +4446,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:47:21",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167007434105245698,
@@ -4326,7 +4455,7 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "AT LEAST 4 arrested as police battle to contain chaos that has rocked Knut House, with some executive members fighting to kick out Wilson Sossion. https://t.co/Pu2pbniVIQ",
     "length": 170,
-    "likes": 124,
+    "likes": 125,
     "retweet": 42,
     "keywords": {
       "noun": [
@@ -4355,7 +4484,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:03:48",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166965122209857536,
@@ -4393,422 +4522,356 @@
     },
     "verified": true,
     "date": "2019-08-29 12:15:40",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166787225851498496,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "POLICE ARREST Sarah Kamotho, wife of missing Dutch tycoon Tob Cohen. Mr Cohen vanished in July from his house in Kitisuru estate, Nairobi. https://t.co/g9nACJWyTP",
-    "length": 162,
-    "likes": 381,
-    "retweet": 234,
+    "id": 1168075069609971713,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "BREAKING Prince Harry and Meghan Markle share details of first official tour with Archie\nhttps://t.co/gBzII5Pb1Q https://t.co/gN0AwDhOHV",
+    "length": 136,
+    "likes": 1,
+    "retweet": 2,
     "keywords": {
       "noun": [
-        "police",
-        "arrest",
-        "sarah",
-        "kamotho",
-        "wife",
-        "dutch",
-        "tycoon",
-        "tob",
-        "cohen",
-        "mr",
-        "cohen",
-        "july",
-        "house",
-        "kitisuru",
-        "estate",
-        "nairobi"
+        "breaking",
+        "prince",
+        "harry",
+        "meghan",
+        "markle",
+        "share",
+        "detail",
+        "tour",
+        "archie"
+      ],
+      "verb": [],
+      "adj": [
+        "first",
+        "official"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 13:46:13",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1168074213015474176,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "RT @DailyMirror: BREAKING: Flights across Europe grounded after air traffic control failure in France https://t.co/mq81V8IXpD https://t.co/\u2026",
+    "length": 140,
+    "likes": 0,
+    "retweet": 7,
+    "keywords": {
+      "noun": [
+        "rt",
+        "dailymirror",
+        "breaking",
+        "flight",
+        "across",
+        "europe",
+        "air",
+        "traffic",
+        "control",
+        "failure",
+        "france"
       ],
       "verb": [
-        "miss",
-        "vanish"
+        "ground"
       ],
       "adj": [],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-29 00:28:47",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 13:42:48",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166734423187959809,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "QUEEN ELIZABETH II okays PM Boris Johnson move to suspend UK parliament, significantly reducing the window pro-EU MPs have to block a no-deal Brexit. https://t.co/1GpzXSOEIg",
-    "length": 173,
-    "likes": 99,
-    "retweet": 45,
+    "id": 1167934748481638400,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "BREAKING Thirty injured after huge screen 'collapses onto fans at rap concert' in Germany https://t.co/BgUsCTrGlT https://t.co/ZXCrr8Oj5o",
+    "length": 137,
+    "likes": 9,
+    "retweet": 13,
     "keywords": {
       "noun": [
-        "queen",
-        "elizabeth",
-        "ii",
-        "pm",
-        "boris",
-        "johnson",
-        "move",
-        "uk",
-        "parliament",
-        "window",
-        "mp",
-        "brexit"
+        "breaking",
+        "thirty",
+        "screen",
+        "collapse",
+        "onto",
+        "fan",
+        "rap",
+        "concert",
+        "germany"
       ],
       "verb": [
-        "okay",
-        "suspend",
-        "reduce",
-        "block"
+        "injure"
       ],
       "adj": [
-        "pro-eu",
-        "no-deal"
-      ],
-      "adv": [
-        "significantly"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 20:58:58",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166720465689370624,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "NYERI COUNTY Assembly rejects Punguza Mizigo draft bill by Third Way Alliance party leader Ekuru Aukot; argue its proposals are not practical. https://t.co/HKvWEhkLqF",
-    "length": 166,
-    "likes": 259,
-    "retweet": 117,
-    "keywords": {
-      "noun": [
-        "nyeri",
-        "county",
-        "assembly",
-        "punguza",
-        "mizigo",
-        "draft",
-        "bill",
-        "third",
-        "way",
-        "alliance",
-        "party",
-        "leader",
-        "ekuru",
-        "aukot",
-        "argue",
-        "proposal"
-      ],
-      "verb": [
-        "reject"
-      ],
-      "adj": [
-        "practical"
+        "huge"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 20:03:30",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 04:28:37",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166710217423409153,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "LABOUR COURT stops Thursday meeting by Knut National Executive Council members after Sossion argued they were planning to remove him from office. https://t.co/v0090meG62",
-    "length": 169,
-    "likes": 51,
+    "id": 1167925053675036672,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "Two dead in Texas shooting as gunman 'opens fire on multiple people'\nhttps://t.co/PimW3odXIp https://t.co/5URxL0Ocrm",
+    "length": 116,
+    "likes": 9,
     "retweet": 16,
     "keywords": {
       "noun": [
-        "labour",
-        "court",
-        "thursday",
-        "meeting",
-        "knut",
-        "national",
-        "executive",
-        "council",
-        "member",
-        "sossion",
-        "office"
+        "two",
+        "texas",
+        "shooting",
+        "gunman",
+        "open",
+        "people"
       ],
       "verb": [
-        "stop",
-        "argue",
-        "plan",
-        "remove"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 19:22:46",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166708394591436800,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "GOVT ISSUES alert over fake Augmentin tablets circulating in Kenya, Uganda; asks public to report if they see suspicious batch of the antibacterial. https://t.co/05p1l9qkDO",
-    "length": 172,
-    "likes": 320,
-    "retweet": 467,
-    "keywords": {
-      "noun": [
-        "govt",
-        "issue",
-        "alert",
-        "augmentin",
-        "tablet",
-        "kenya",
-        "uganda",
-        "batch",
-        "antibacterial"
-      ],
-      "verb": [
-        "circulate",
-        "ask",
-        "report",
-        "see"
+        "fire"
       ],
       "adj": [
-        "fake",
-        "public",
-        "suspicious"
+        "dead",
+        "multiple"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 19:15:32",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 03:50:06",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166687965785022464,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "MORE THAN 2.5m Kenyans in at least 11 counties facing starvation as drought and hunger situation gets worse, says drought management authority. https://t.co/F6TRrP0mKR",
-    "length": 167,
-    "likes": 32,
-    "retweet": 29,
+    "id": 1167920958172065793,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "BREAKING: One dead in chemical incident at posh hotel as 120 guests evacuated https://t.co/GbS0OOiojj https://t.co/nlpsVcu6tR",
+    "length": 125,
+    "likes": 6,
+    "retweet": 11,
     "keywords": {
       "noun": [
-        "2.5",
-        "kenyan",
-        "11",
-        "county",
-        "starvation",
-        "drought",
-        "situation",
-        "management",
-        "authority"
+        "breaking",
+        "one",
+        "dead",
+        "incident",
+        "hotel",
+        "120",
+        "guest"
       ],
       "verb": [
-        "face",
-        "get",
-        "say"
+        "evacuate"
       ],
       "adj": [
-        "least",
-        "hunger",
-        "bad",
-        "drought"
+        "chemical",
+        "posh"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 17:54:21",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 03:33:50",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166669472440172546,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "JUBILEE PARTY invites applications from aspirants seeking its ticket in Kibra by-election; Tuju says nomination to be handled by elections board. https://t.co/QIaT1Gedlu",
-    "length": 169,
-    "likes": 67,
-    "retweet": 23,
+    "id": 1167910182887641089,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "BREAKING: Gunman 'opens fire on multiple people' in Texas\nhttps://t.co/PimW3odXIp https://t.co/H9ZSLCDCFR",
+    "length": 105,
+    "likes": 15,
+    "retweet": 21,
     "keywords": {
       "noun": [
-        "jubilee",
-        "party",
-        "application",
-        "aspirant",
-        "ticket",
-        "kibra",
-        "by-election",
-        "tuju",
-        "nomination",
-        "election",
-        "board"
+        "breaking",
+        "gunman",
+        "open",
+        "people",
+        "texas"
       ],
       "verb": [
-        "invite",
-        "seek",
-        "say",
-        "handle"
+        "fire"
       ],
-      "adj": [],
+      "adj": [
+        "multiple"
+      ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 16:40:52",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-09-01 02:51:00",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166661304624525313,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "3 MEMBERS of Kabonokia sect arrested in Tharaka for declining to be counted citing their faith; man arrested for threatening to hack enumerators. https://t.co/erpbKOzqiX",
-    "length": 169,
-    "likes": 32,
-    "retweet": 15,
+    "id": 1167866355451748352,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "BREAKING: Caroline Russell arrested at Brexit protests after 'blocking traffic'\nhttps://t.co/xSO5cbQA3q https://t.co/y9U0EM6sYn",
+    "length": 127,
+    "likes": 49,
+    "retweet": 36,
     "keywords": {
       "noun": [
-        "3",
-        "member",
-        "kabonokia",
-        "sect",
-        "tharaka",
-        "faith",
-        "man",
-        "enumerator"
+        "breaking",
+        "caroline",
+        "russell",
+        "brexit",
+        "protest",
+        "traffic"
       ],
       "verb": [
         "arrest",
-        "decline",
-        "count",
-        "cite",
-        "arrest",
-        "threaten",
-        "hack"
+        "block"
       ],
       "adj": [],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 16:08:25",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-08-31 23:56:51",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166660277275910144,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "JEREMY TUBULA, the baby born at KNH prematurely weighing 400 grammes, discharged from hospital after attaining 3.5kg. https://t.co/sx5MN5AL8k",
-    "length": 141,
-    "likes": 975,
-    "retweet": 245,
+    "id": 1167845359609110528,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "F2 racing driver Antoine Hubert dies in horror crash during Belgian Grand Prix\nhttps://t.co/nSM37Dhd4E https://t.co/HaeJrgdPZQ",
+    "length": 126,
+    "likes": 4,
+    "retweet": 3,
     "keywords": {
       "noun": [
-        "jeremy",
-        "tubula",
-        "baby",
-        "knh",
-        "400",
-        "gramme",
-        "hospital",
-        "3.5",
-        "kg"
+        "f2",
+        "antoine",
+        "hubert",
+        "horror",
+        "crash",
+        "grand",
+        "prix"
       ],
       "verb": [
-        "bear",
-        "weigh",
-        "discharge",
-        "attain"
+        "race",
+        "die"
       ],
-      "adj": [],
+      "adj": [
+        "belgian"
+      ],
       "adv": [
-        "prematurely"
+        "driver"
       ]
     },
     "verified": true,
-    "date": "2019-08-28 16:04:20",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-08-31 22:33:25",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166648060438601729,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "MORE THAN 2.5m Kenyans in at least 11 counties facing starvation as drought and hunger situation gets worse, says drought management authority. https://t.co/aN1gSO6wSJ",
-    "length": 167,
-    "likes": 34,
-    "retweet": 23,
+    "id": 1167839764894158851,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "BREAKING: Police charge, boy, 16, with murder after death of mum Lindsay Birbeck\nhttps://t.co/uTQaqMQwsc https://t.co/BgxcZCZtkz",
+    "length": 128,
+    "likes": 2,
+    "retweet": 8,
     "keywords": {
       "noun": [
-        "2.5",
-        "kenyan",
-        "11",
-        "county",
-        "starvation",
-        "drought",
-        "situation",
-        "management",
-        "authority"
+        "breaking",
+        "police",
+        "charge",
+        "boy",
+        "16",
+        "murder",
+        "death",
+        "lindsay",
+        "birbeck"
       ],
-      "verb": [
-        "face",
-        "get",
-        "say"
-      ],
+      "verb": [],
       "adj": [
-        "least",
-        "hunger",
-        "bad",
-        "drought"
+        "mum"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 15:15:47",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-08-31 22:11:12",
+    "updated": "2019-09-01 13:48:04"
   },
   {
-    "id": 1166610654733721600,
-    "name": "NationBreakingNews",
-    "screen_name": "NationBreaking",
-    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
-    "text": "FORMER TLB chairman Hassan Ole Kamwaro succumbs to cancer at Mercy Hospital in Oklahoma, the US: Family sources. https://t.co/zP4Rjevx34",
-    "length": 136,
-    "likes": 161,
-    "retweet": 88,
+    "id": 1167829064213782528,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "BREAKING: Knife rampage at metro station in France leaves one dead and six injured https://t.co/7fUahkcy4q https://t.co/ZUihvDM7c5",
+    "length": 130,
+    "likes": 10,
+    "retweet": 15,
     "keywords": {
       "noun": [
-        "former",
-        "tlb",
-        "chairman",
-        "hassan",
-        "ole",
-        "kamwaro",
-        "cancer",
-        "mercy",
-        "hospital",
-        "oklahoma",
-        "u",
-        "source"
+        "breaking",
+        "knife",
+        "rampage",
+        "station",
+        "france",
+        "one",
+        "dead",
+        "six"
       ],
       "verb": [
-        "succumb"
+        "leave"
       ],
       "adj": [
-        "family"
+        "metro",
+        "injured"
       ],
       "adv": []
     },
     "verified": true,
-    "date": "2019-08-28 12:47:09",
-    "updated": "2019-08-31 16:24:24"
+    "date": "2019-08-31 21:28:40",
+    "updated": "2019-09-01 13:48:04"
+  },
+  {
+    "id": 1167794294649958403,
+    "name": "Mirror Breaking News",
+    "screen_name": "MirrorBreaking_",
+    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
+    "text": "RT @DailyMirror: Woman, 33, suffers heart attack and dies at Pontins holiday park in Prestatyn https://t.co/VF6ZaV6SU6 https://t.co/0hKMahf\u2026",
+    "length": 140,
+    "likes": 0,
+    "retweet": 3,
+    "keywords": {
+      "noun": [
+        "rt",
+        "dailymirror",
+        "woman",
+        "33",
+        "suffers",
+        "heart",
+        "attack",
+        "dy",
+        "pontins",
+        "holiday",
+        "park",
+        "prestatyn"
+      ],
+      "verb": [],
+      "adj": [],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-08-31 19:10:31",
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167644934394064896,
@@ -4841,7 +4904,7 @@
     },
     "verified": true,
     "date": "2019-08-31 09:17:00",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167642057634131968,
@@ -4874,7 +4937,7 @@
     },
     "verified": true,
     "date": "2019-08-31 09:05:34",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167613317034196992,
@@ -4904,7 +4967,7 @@
     },
     "verified": true,
     "date": "2019-08-31 07:11:22",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167577230064738304,
@@ -4914,7 +4977,7 @@
     "text": "Valerie Harper, star of The Mary Tyler Moore Show, has died aged 80 https://t.co/Z1bnTm7zXp https://t.co/JQ1vcR8snQ",
     "length": 115,
     "likes": 22,
-    "retweet": 14,
+    "retweet": 15,
     "keywords": {
       "noun": [
         "valerie",
@@ -4935,7 +4998,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:47:58",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167542756182560774,
@@ -4961,7 +5024,7 @@
     },
     "verified": true,
     "date": "2019-08-31 02:30:59",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167526926346575872,
@@ -4970,7 +5033,7 @@
     "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
     "text": "BREAKING Twitter CEO Jack Dorsey has account hacked and posts several racist tweets\nhttps://t.co/yw1Rphe2Js https://t.co/Y7aojvhNZ8",
     "length": 131,
-    "likes": 21,
+    "likes": 22,
     "retweet": 20,
     "keywords": {
       "noun": [
@@ -4994,7 +5057,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:28:05",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167523402401419266,
@@ -5003,8 +5066,8 @@
     "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
     "text": "BREAKING Friday's winning Lottery numbers for \u00a3107million jackpot\nhttps://t.co/A3V4WSxM3f https://t.co/e4E1wIWKfi",
     "length": 113,
-    "likes": 5,
-    "retweet": 3,
+    "likes": 8,
+    "retweet": 4,
     "keywords": {
       "noun": [
         "breaking",
@@ -5024,7 +5087,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:14:05",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167489016561831937,
@@ -5052,7 +5115,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:57:27",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167470594205634560,
@@ -5062,7 +5125,7 @@
     "text": "BREAKING Five teenagers arrested over Hotpoint factory fire which caused \u00a32m of damage  https://t.co/9AYsMQ0Ryj https://t.co/9KOlJOak2m",
     "length": 135,
     "likes": 3,
-    "retweet": 8,
+    "retweet": 9,
     "keywords": {
       "noun": [
         "breaking",
@@ -5084,7 +5147,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:44:14",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167423464581619712,
@@ -5119,7 +5182,7 @@
     },
     "verified": true,
     "date": "2019-08-30 18:36:58",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167395009634738177,
@@ -5150,7 +5213,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:43:54",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167372113357025281,
@@ -5178,7 +5241,7 @@
     },
     "verified": true,
     "date": "2019-08-30 15:12:55",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167367118016471040,
@@ -5209,7 +5272,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:53:04",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167361677018456066,
@@ -5218,8 +5281,8 @@
     "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
     "text": "BREAKING Ex-PM John Major joins legal bid to block Boris Johnson shutting down Parliament\n\nhttps://t.co/uD7g1bySv9 https://t.co/KMSiKQk8vP",
     "length": 138,
-    "likes": 64,
-    "retweet": 30,
+    "likes": 85,
+    "retweet": 40,
     "keywords": {
       "noun": [
         "breaking",
@@ -5243,7 +5306,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:31:26",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167251406153232385,
@@ -5273,7 +5336,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:13:16",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167241333473513472,
@@ -5303,7 +5366,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:33:14",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167240663559225344,
@@ -5313,7 +5376,7 @@
     "text": "Donald Trump's personal assistant 'steps down over leaks about his private life' https://t.co/vPBGCV7Sg2 https://t.co/XvpqsyqBmk",
     "length": 128,
     "likes": 17,
-    "retweet": 10,
+    "retweet": 11,
     "keywords": {
       "noun": [
         "donald",
@@ -5332,7 +5395,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:30:35",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167148287343939586,
@@ -5363,7 +5426,7 @@
     },
     "verified": true,
     "date": "2019-08-30 00:23:30",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167098266548350978,
@@ -5395,7 +5458,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:04:45",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167095190412234752,
@@ -5424,7 +5487,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:52:31",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167087801550196737,
@@ -5458,7 +5521,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:23:09",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167086298693341185,
@@ -5488,7 +5551,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:17:11",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167076325384970246,
@@ -5520,7 +5583,7 @@
     },
     "verified": true,
     "date": "2019-08-29 19:37:33",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167059821004111875,
@@ -5554,7 +5617,7 @@
     },
     "verified": true,
     "date": "2019-08-29 18:31:58",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167049504098521089,
@@ -5586,7 +5649,7 @@
     },
     "verified": true,
     "date": "2019-08-29 17:50:59",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167025657613864960,
@@ -5616,7 +5679,7 @@
     },
     "verified": true,
     "date": "2019-08-29 16:16:13",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167023524139151360,
@@ -5646,7 +5709,7 @@
     },
     "verified": true,
     "date": "2019-08-29 16:07:45",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167020883678048262,
@@ -5678,7 +5741,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:57:15",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167012322126237696,
@@ -5708,7 +5771,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:23:14",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167011196278624256,
@@ -5741,7 +5804,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:18:45",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167008948144234496,
@@ -5774,7 +5837,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:09:49",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167002776485933056,
@@ -5808,7 +5871,7 @@
     },
     "verified": true,
     "date": "2019-08-29 14:45:18",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166995809457582080,
@@ -5839,7 +5902,7 @@
     },
     "verified": true,
     "date": "2019-08-29 14:17:37",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166971992203059200,
@@ -5870,7 +5933,7 @@
     },
     "verified": true,
     "date": "2019-08-29 12:42:58",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1166959057334390784,
@@ -5901,474 +5964,7 @@
     },
     "verified": true,
     "date": "2019-08-29 11:51:34",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166714189458661378,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Queen approves Boris Johnson's request to shut down Parliament for a month\nhttps://t.co/iYYgfAbtUO https://t.co/jCvnnKlfVz",
-    "length": 131,
-    "likes": 31,
-    "retweet": 28,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "queen",
-        "boris",
-        "johnson's",
-        "request",
-        "parliament",
-        "month"
-      ],
-      "verb": [
-        "approve",
-        "shut"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 19:38:33",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166698218715078656,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "British woman drowns after falling from yacht in Menorca https://t.co/rKzjJV1dLu https://t.co/y2Q4fUelvL",
-    "length": 104,
-    "likes": 5,
-    "retweet": 3,
-    "keywords": {
-      "noun": [
-        "woman",
-        "drowns",
-        "yacht",
-        "menorca"
-      ],
-      "verb": [
-        "fall"
-      ],
-      "adj": [
-        "british"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 18:35:06",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166696849232801792,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Wayne Rooney breaks silence over cheating claims as he insists he's innocent https://t.co/ywxmjqeyxd https://t.co/h9fNt0GL9I",
-    "length": 133,
-    "likes": 27,
-    "retweet": 9,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "wayne",
-        "rooney",
-        "break",
-        "silence",
-        "claim",
-        "innocent"
-      ],
-      "verb": [
-        "cheat",
-        "insist"
-      ],
-      "adj": [
-        "he's"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 18:29:39",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166688460893241344,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Jeremy Corbyn requests meeting with Queen over Boris Johnson suspending Parliament\nhttps://t.co/Lag40xVUq2 https://t.co/FAbHbZnyXt",
-    "length": 139,
-    "likes": 90,
-    "retweet": 53,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "jeremy",
-        "corbyn",
-        "request",
-        "queen",
-        "boris",
-        "johnson",
-        "parliament"
-      ],
-      "verb": [
-        "meet",
-        "suspend"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 17:56:19",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166677351058550785,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Man arrested on suspicion of child cruelty after baby found dead https://t.co/Iw9zxvjc65 https://t.co/amCAF5l7Yn",
-    "length": 121,
-    "likes": 6,
-    "retweet": 5,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "man",
-        "suspicion",
-        "child",
-        "cruelty",
-        "baby"
-      ],
-      "verb": [
-        "arrest",
-        "find"
-      ],
-      "adj": [
-        "dead"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 17:12:10",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166668537043279877,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING: Stromboli volcano erupts in 'giant' plume of smoke in front of shocked tourists https://t.co/UR9HDdDYck https://t.co/fZqAlGCyrz",
-    "length": 137,
-    "likes": 69,
-    "retweet": 62,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "stromboli",
-        "volcano",
-        "erupts",
-        "plume",
-        "smoke",
-        "front",
-        "tourist"
-      ],
-      "verb": [],
-      "adj": [
-        "giant",
-        "shocked"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 16:37:09",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166659112630935552,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING. Dean Saunders jailed for failing to provide breath test https://t.co/cQ3qWxvcA1 https://t.co/3yoQ7rXMQV",
-    "length": 113,
-    "likes": 34,
-    "retweet": 12,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "dean",
-        "saunders",
-        "breath",
-        "test"
-      ],
-      "verb": [
-        "jail",
-        "fail",
-        "provide"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 15:59:42",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166658752759717888,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "RT @MirrorFootball: BREAKING: Dean Saunders jailed for 10 weeks for failing to provide roadside breath test https://t.co/iXLyTlv5zI https:/\u2026",
-    "length": 140,
-    "likes": 0,
-    "retweet": 252,
-    "keywords": {
-      "noun": [
-        "rt",
-        "mirrorfootball",
-        "breaking",
-        "saunders",
-        "10",
-        "week",
-        "breath",
-        "test"
-      ],
-      "verb": [
-        "jail",
-        "fail",
-        "provide"
-      ],
-      "adj": [
-        "dean",
-        "roadside"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 15:58:16",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166655062921363456,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING  Speaker John Bercow explodes at Boris Johnson for Commons suspension 'outrage'\nhttps://t.co/UkZwKFC2dH https://t.co/yjrfqlCvzq",
-    "length": 136,
-    "likes": 6,
-    "retweet": 3,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "speaker",
-        "john",
-        "bercow",
-        "boris",
-        "johnson",
-        "common",
-        "suspension",
-        "outrage"
-      ],
-      "verb": [
-        "explode"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 15:43:37",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166642699614789632,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Rapper Mist discharged from hospital after shooting as police investigate armed robbery https://t.co/AvowRcpzXM https://t.co/OngPLgLxet",
-    "length": 144,
-    "likes": 11,
-    "retweet": 9,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "rapper",
-        "mist",
-        "hospital",
-        "police",
-        "investigate",
-        "robbery"
-      ],
-      "verb": [
-        "discharge",
-        "shoot",
-        "arm"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 14:54:29",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166642661824106496,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Boris Johnson branded a \"tin-pot dictator\" as he confirms \"we are going to have a Queen's Speech and we are going to do it on October 14\"\n\nhttps://t.co/ONVIOQDG6O https://t.co/Y9Yqp78SEe",
-    "length": 195,
-    "likes": 27,
-    "retweet": 21,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "boris",
-        "johnson",
-        "dictator",
-        "queen's",
-        "speech",
-        "october",
-        "14"
-      ],
-      "verb": [
-        "brand",
-        "confirm",
-        "go",
-        "go"
-      ],
-      "adj": [
-        "tin-pot"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 14:54:20",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166634143247208448,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Woman hit by drink-driver who ploughed into her tent dies in hospital\nhttps://t.co/XPS3YTYVqQ https://t.co/no3MTvkNBq",
-    "length": 126,
-    "likes": 8,
-    "retweet": 5,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "woman",
-        "drink-driver",
-        "tent",
-        "dy",
-        "hospital"
-      ],
-      "verb": [
-        "hit",
-        "plough"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 14:20:29",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166626084164706306,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Boris Johnson 'to suspend Parliament within days for October 14 Queen's Speech'\nhttps://t.co/JYQjeoJt40 https://t.co/msog1rrF0b",
-    "length": 136,
-    "likes": 41,
-    "retweet": 32,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "boris",
-        "johnson",
-        "parliament",
-        "within",
-        "day",
-        "october",
-        "14",
-        "queen's",
-        "speech"
-      ],
-      "verb": [
-        "suspend"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 13:48:27",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166616166644748289,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING Boy, 14, fighting for life after getting trapped under tram at Blackpool event https://t.co/1sTPYE1zto https://t.co/vcfWJ7ilKe",
-    "length": 135,
-    "likes": 6,
-    "retweet": 5,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "boy",
-        "14",
-        "life",
-        "tram",
-        "blackpool",
-        "event"
-      ],
-      "verb": [
-        "fight",
-        "get",
-        "trap"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 13:09:03",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166611862609379332,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "Mexico nightclub attack kills 23 after Molotov cocktails thrown in bar https://t.co/BkvwsP5fHf https://t.co/7aVVjq6qXy",
-    "length": 118,
-    "likes": 4,
-    "retweet": 6,
-    "keywords": {
-      "noun": [
-        "mexico",
-        "attack",
-        "kill",
-        "23",
-        "molotov",
-        "bar"
-      ],
-      "verb": [
-        "cocktails",
-        "throw"
-      ],
-      "adj": [
-        "nightclub"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 12:51:57",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167718567929774081,
@@ -6377,8 +5973,8 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Lewis Allen lost his wife during Easter attacks. However, his love for \ud83c\uddf1\ud83c\uddf0 &amp; faith in Gem industry led to his\u00a0return. \"SL will come back stronger more united because light always wins over darkness\". Allen to build another ward at Ratnapura hospital  https://t.co/uudLdQf4fX",
     "length": 277,
-    "likes": 327,
-    "retweet": 72,
+    "likes": 886,
+    "retweet": 189,
     "keywords": {
       "noun": [
         "lewis",
@@ -6421,7 +6017,7 @@
     },
     "verified": true,
     "date": "2019-08-31 14:09:36",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167476816921137158,
@@ -6430,7 +6026,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "@de_janaka @akila4Dananjaya No update, ICC will take 14 days for the report",
     "length": 75,
-    "likes": 9,
+    "likes": 12,
     "retweet": 0,
     "keywords": {
       "noun": [
@@ -6450,7 +6046,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:08:58",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167417151403130883,
@@ -6459,7 +6055,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Next Election - Elpitiya local council  election likely to be held in the 1st week of October after SC ordered EC to hold elections for Elpitiya PS after accepting the rejected nominations list of Democratic United National Front.",
     "length": 230,
-    "likes": 87,
+    "likes": 92,
     "retweet": 9,
     "keywords": {
       "noun": [
@@ -6499,7 +6095,7 @@
     },
     "verified": true,
     "date": "2019-08-30 18:11:53",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167389277077946369,
@@ -6508,7 +6104,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Sri Lanka \ud83c\uddf1\ud83c\uddf0 allrounder\u00a0Isuru Udana\u00a0has been named as the International marquee player for the Paarl Rocks' Team in the second edition of the Mzansi Super League South Africa T 20 Tournament \ud83c\udfcf https://t.co/oFrKzFgyKB",
     "length": 216,
-    "likes": 540,
+    "likes": 584,
     "retweet": 36,
     "keywords": {
       "noun": [
@@ -6545,7 +6141,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:21:07",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167387650459701253,
@@ -6554,8 +6150,8 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "\"Several players have informed me that they are not willing to go to Pakistan. SLC have to talk to them. I am also expecting travel with the team to Pakistan to give confidence to them\" Sports Minister on Sri Lanka tour of Pakistan",
     "length": 231,
-    "likes": 321,
-    "retweet": 26,
+    "likes": 338,
+    "retweet": 27,
     "keywords": {
       "noun": [
         "player",
@@ -6589,7 +6185,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:14:39",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167325147172200448,
@@ -6598,8 +6194,8 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "What happened when the New Zealand team bus broke down in the Sri Lankan hills \ud83c\uddf1\ud83c\uddf0\ud83c\udfcf\nhttps://t.co/GZlZa5HoLk",
     "length": 106,
-    "likes": 555,
-    "retweet": 105,
+    "likes": 591,
+    "retweet": 107,
     "keywords": {
       "noun": [
         "new",
@@ -6623,7 +6219,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:06:17",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167094948543385600,
@@ -6632,7 +6228,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "The Archbishop of Canterbury who is currently in Sri Lanka on a three-day visit paid tribute to the victims of the Easter Sunday bomb attacks at the St. Sebastian\u2019s Church today. https://t.co/PunH3HQvGJ",
     "length": 202,
-    "likes": 205,
+    "likes": 207,
     "retweet": 22,
     "keywords": {
       "noun": [
@@ -6665,7 +6261,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:51:33",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   },
   {
     "id": 1167002617836273664,
@@ -6707,253 +6303,6 @@
     },
     "verified": true,
     "date": "2019-08-29 14:44:40",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166761072608432134,
-    "name": "Azzam Ameen",
-    "screen_name": "AzzamAmeen",
-    "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
-    "text": "RT @BimalRathnayake: At d' entrance of Horton plains,Worlds End,officers politely replaced plastic bags,biscuit packets by paper bags provi\u2026",
-    "length": 140,
-    "likes": 0,
-    "retweet": 101,
-    "keywords": {
-      "noun": [
-        "rt",
-        "bimalrathnayake",
-        "entrance",
-        "horton",
-        "plain",
-        "world",
-        "end",
-        "officer",
-        "plastic",
-        "bag",
-        "biscuit",
-        "packet",
-        "paper",
-        "bag",
-        "\u2026"
-      ],
-      "verb": [
-        "replace",
-        "provi"
-      ],
-      "adj": [],
-      "adv": [
-        "politely"
-      ]
-    },
-    "verified": true,
-    "date": "2019-08-28 22:44:51",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166694224240074754,
-    "name": "Azzam Ameen",
-    "screen_name": "AzzamAmeen",
-    "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
-    "text": "RT @NalakaG: We knew Dr Ajantha Perera as an environmental scientist trained in Germany who advocated proper waste management in #SriLanka.\u2026",
-    "length": 140,
-    "likes": 0,
-    "retweet": 37,
-    "keywords": {
-      "noun": [
-        "rt",
-        "nalakag",
-        "dr",
-        "ajantha",
-        "perera",
-        "scientist",
-        "germany",
-        "waste",
-        "management",
-        "srilanka",
-        "\u2026"
-      ],
-      "verb": [
-        "know",
-        "train",
-        "advocate"
-      ],
-      "adj": [
-        "environmental",
-        "proper"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 18:19:13",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166690130851024902,
-    "name": "Azzam Ameen",
-    "screen_name": "AzzamAmeen",
-    "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
-    "text": "@Chrishi89 No https://t.co/ukiyPmnb6s",
-    "length": 37,
-    "likes": 4,
-    "retweet": 0,
-    "keywords": {
-      "noun": [
-        "chrishi89"
-      ],
-      "verb": [],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 18:02:57",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166687020015505413,
-    "name": "Azzam Ameen",
-    "screen_name": "AzzamAmeen",
-    "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
-    "text": "Female Presidential candidate for Socialist Party of Sri Lanka, Scientist and Environmentalist, Dr Ajantha Perera. Female candidate after 20 years  https://t.co/0TdZUNy1bk",
-    "length": 171,
-    "likes": 409,
-    "retweet": 90,
-    "keywords": {
-      "noun": [
-        "female",
-        "presidential",
-        "candidate",
-        "socialist",
-        "party",
-        "sri",
-        "lanka",
-        "scientist",
-        "environmentalist",
-        "dr",
-        "ajantha",
-        "perera",
-        "female",
-        "candidate",
-        "20",
-        "year"
-      ],
-      "verb": [],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 17:50:36",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166683701398237186,
-    "name": "Azzam Ameen",
-    "screen_name": "AzzamAmeen",
-    "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
-    "text": "RT @DANUSHKAARAVIND: Unexpected Leopard attacked in \nButtala -Katharagama road. #lka #SriLanka #Wildlife https://t.co/2ZmcoHS6Y8",
-    "length": 128,
-    "likes": 0,
-    "retweet": 66,
-    "keywords": {
-      "noun": [
-        "rt",
-        "danushkaaravind",
-        "leopard",
-        "buttala",
-        "katharagama",
-        "road",
-        "lka",
-        "wildlife"
-      ],
-      "verb": [
-        "unexpected",
-        "attack"
-      ],
-      "adj": [
-        "srilanka"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 17:37:25",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166676503695806464,
-    "name": "Azzam Ameen",
-    "screen_name": "AzzamAmeen",
-    "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
-    "text": "Sri Lankan \ud83c\uddf1\ud83c\uddf0 mistery spinner Ajantha Mendis (34) announces his retirement from all forms of Cricket. He last played for Sri Lanka in 2015. He ends with 70 Test, 152 ODI &amp; 66 T20I wickets. \ud83c\udfcf https://t.co/e18CxUc4ec",
-    "length": 218,
-    "likes": 676,
-    "retweet": 70,
-    "keywords": {
-      "noun": [
-        "sri",
-        "lankan",
-        "\ud83c\uddf1",
-        "\ud83c\uddf0",
-        "mistery",
-        "spinner",
-        "ajantha",
-        "mendis",
-        "34",
-        "retirement",
-        "form",
-        "cricket",
-        "sri",
-        "lanka",
-        "2015",
-        "70",
-        "test",
-        "152",
-        "odi",
-        "66",
-        "t20i",
-        "wicket",
-        "\ud83c\udfcf"
-      ],
-      "verb": [
-        "announce",
-        "play",
-        "end"
-      ],
-      "adj": [
-        "last"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 17:08:48",
-    "updated": "2019-08-31 16:24:24"
-  },
-  {
-    "id": 1166619355137957888,
-    "name": "Azzam Ameen",
-    "screen_name": "AzzamAmeen",
-    "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
-    "text": "Gazette notification banning Individuals with betting connection from Sports administration published. https://t.co/XH5wYZKVST",
-    "length": 126,
-    "likes": 151,
-    "retweet": 37,
-    "keywords": {
-      "noun": [
-        "gazette",
-        "notification",
-        "individual",
-        "connection",
-        "sport",
-        "administration"
-      ],
-      "verb": [
-        "ban",
-        "bet",
-        "publish"
-      ],
-      "adj": [],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-28 13:21:43",
-    "updated": "2019-08-31 16:24:24"
+    "updated": "2019-09-01 13:48:04"
   }
 ]
