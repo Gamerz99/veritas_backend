@@ -67,7 +67,7 @@ class Check(Resource):
                         result = count
                         related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes'],  'updated': tweet['updated']})
                         rescount = rescount + 1
-                    threshold = 0.5
+                    threshold = 0.3
             if url_base:
                 rate_module.rate(url, result, article)
 
