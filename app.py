@@ -53,6 +53,7 @@ class Check(Resource):
                 url_base = True
             if url == '':
                 recent = keyword_extract.extract(data)
+                print(recent)
                 url_base = False
             with open('tweets.json') as json_file:
                 data = json.load(json_file)
@@ -67,7 +68,7 @@ class Check(Resource):
                         result = count
                         related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes'],  'updated': tweet['updated']})
                         rescount = rescount + 1
-                    threshold = 0.3
+                    threshold = 0.2
             if url_base:
                 rate_module.rate(url, result, article)
 

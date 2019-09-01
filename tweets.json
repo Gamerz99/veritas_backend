@@ -1,13 +1,49 @@
 [
   {
+    "id": 1168077840425918464,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "North Carolina Governor Roy Cooper declares a state of emergency as Hurricane Dorian approaches. Follow live updates: https://t.co/3Z0j21j9B5 https://t.co/n3TX3zUVKW",
+    "length": 165,
+    "likes": 78,
+    "retweet": 33,
+    "keywords": {
+      "noun": [
+        "north",
+        "carolina",
+        "governor",
+        "roy",
+        "cooper",
+        "state",
+        "emergency",
+        "hurricane",
+        "dorian",
+        "approach",
+        "follow",
+        "update"
+      ],
+      "verb": [
+        "declare"
+      ],
+      "adj": [
+        "live"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 13:57:13",
+    "updated": "2019-09-01 14:08:39"
+  },
+  {
     "id": 1167949176946053122,
     "name": "CNN Breaking News",
     "screen_name": "cnnbrk",
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Police say the suspect in the Texas shootings was a white man in his mid-30s. The incident began with a traffic stop. https://t.co/MhBSNwD8af https://t.co/0HWbeLOn1r",
     "length": 165,
-    "likes": 732,
-    "retweet": 523,
+    "likes": 735,
+    "retweet": 524,
     "keywords": {
       "noun": [
         "police",
@@ -32,7 +68,7 @@
     },
     "verified": true,
     "date": "2019-09-01 05:25:57",
-    "updated": "2019-09-01 13:48:02"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167939403039178753,
@@ -41,8 +77,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "At least five people were killed and 21 injured in the shootings in West Texas, police say. The gunman was killed. https://t.co/Tw0MoIvExv https://t.co/SXzArey5Gi",
     "length": 162,
-    "likes": 663,
-    "retweet": 524,
+    "likes": 670,
+    "retweet": 525,
     "keywords": {
       "noun": [
         "five",
@@ -67,7 +103,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:47:07",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167933406811836421,
@@ -76,7 +112,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A suspect was shot and killed in Odessa, Texas, police in Midland say https://t.co/DYoAdWAk3x https://t.co/b7QeLd5Kzj",
     "length": 117,
-    "likes": 407,
+    "likes": 409,
     "retweet": 217,
     "keywords": {
       "noun": [
@@ -96,7 +132,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:23:17",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167919818575470594,
@@ -106,7 +142,7 @@
     "text": "At least one person is dead and 10 injured in ongoing shootings near Midland and Odessa, Texas, police say https://t.co/anxUjCEUh9 https://t.co/nzA128TNJr",
     "length": 154,
     "likes": 796,
-    "retweet": 756,
+    "retweet": 757,
     "keywords": {
       "noun": [
         "one",
@@ -132,7 +168,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:29:18",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167912333382836225,
@@ -180,7 +216,7 @@
     },
     "verified": true,
     "date": "2019-09-01 02:59:33",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167908784674500615,
@@ -218,7 +254,7 @@
     },
     "verified": true,
     "date": "2019-09-01 02:45:27",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167887260986957824,
@@ -227,8 +263,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A sample of mosquitoes in New Jersey have tested positive for two potentially deadly viruses, West Nile and Eastern equine encephalitis, local health officials say https://t.co/G7lxpN8OSE https://t.co/tKm80YiVoj",
     "length": 211,
-    "likes": 590,
-    "retweet": 450,
+    "likes": 591,
+    "retweet": 451,
     "keywords": {
       "noun": [
         "sample",
@@ -260,7 +296,7 @@
     },
     "verified": true,
     "date": "2019-09-01 01:19:55",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167860495866421249,
@@ -297,7 +333,7 @@
     },
     "verified": true,
     "date": "2019-08-31 23:33:34",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167844535361318912,
@@ -306,8 +342,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "South Carolina Gov. Henry McMaster declares a state of emergency as forecasts say Hurricane Dorian could be heading toward the state https://t.co/zrykMhv3Hb https://t.co/VixG73lvsF",
     "length": 180,
-    "likes": 533,
-    "retweet": 277,
+    "likes": 535,
+    "retweet": 278,
     "keywords": {
       "noun": [
         "south",
@@ -334,7 +370,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:30:09",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167823730464165888,
@@ -343,8 +379,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian has grown stronger and has sustained winds of 150 mph, the National Hurricane Center says. It's moving slower, at just 8 mph. https://t.co/bRnKXKh0cx https://t.co/8Daf2Bhd4c",
     "length": 190,
-    "likes": 1026,
-    "retweet": 467,
+    "likes": 1027,
+    "retweet": 468,
     "keywords": {
       "noun": [
         "hurricane",
@@ -372,7 +408,7 @@
     },
     "verified": true,
     "date": "2019-08-31 21:07:29",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167806781281710080,
@@ -405,7 +441,7 @@
     },
     "verified": true,
     "date": "2019-08-31 20:00:08",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167773782578278407,
@@ -414,7 +450,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hong Kong protesters set fire to barricades after police fired tear gas and blue dye to disperse the crowd. Follow live updates: https://t.co/wSDFDrl60b https://t.co/hrpBSoksm9",
     "length": 176,
-    "likes": 376,
+    "likes": 377,
     "retweet": 160,
     "keywords": {
       "noun": [
@@ -444,7 +480,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:49:00",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167767198108135424,
@@ -453,7 +489,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian shifts track and is now expected to make landfall in the Carolinas. But Florida isn't in the clear.\nhttps://t.co/MPijLBpc28 https://t.co/GzXLUW15pl",
     "length": 164,
-    "likes": 1634,
+    "likes": 1635,
     "retweet": 1010,
     "keywords": {
       "noun": [
@@ -476,7 +512,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:22:50",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167690036311183360,
@@ -506,7 +542,7 @@
     },
     "verified": true,
     "date": "2019-08-31 12:16:13",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167669068226269185,
@@ -542,7 +578,7 @@
     },
     "verified": true,
     "date": "2019-08-31 10:52:54",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167612555730280448,
@@ -580,7 +616,7 @@
     },
     "verified": true,
     "date": "2019-08-31 07:08:21",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167603113374695424,
@@ -615,7 +651,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:30:49",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167597412808089600,
@@ -658,7 +694,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:08:10",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167576547450150914,
@@ -667,7 +703,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Valerie Harper, who played Rhoda on the 1970s sitcom \"The Mary Tyler Moore Show,\" has died at 80 after a long battle with cancer https://t.co/YWByKaVEx9 https://t.co/IvQFJ5Wyl4",
     "length": 176,
-    "likes": 1613,
+    "likes": 1614,
     "retweet": 545,
     "keywords": {
       "noun": [
@@ -695,7 +731,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:45:16",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167533927172575233,
@@ -733,7 +769,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:55:54",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167533177616916480,
@@ -769,7 +805,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:52:55",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167518805234507777,
@@ -813,7 +849,7 @@
     },
     "verified": true,
     "date": "2019-08-31 00:55:49",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167498446904942592,
@@ -854,7 +890,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:34:55",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167478102869643264,
@@ -885,7 +921,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:14:05",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167474743051739137,
@@ -917,7 +953,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:00:44",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167460871196545024,
@@ -962,7 +998,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:05:36",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167433777410449409,
@@ -1002,7 +1038,7 @@
     },
     "verified": true,
     "date": "2019-08-30 19:17:57",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167409965570633728,
@@ -1043,7 +1079,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:43:19",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167335359950274560,
@@ -1074,7 +1110,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:46:52",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167310121317228546,
@@ -1083,7 +1119,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A Hong Kong mass rally planned for Saturday has been canceled by organizers after they failed to secure permission from police. Follow live updates: https://t.co/DbZq8cm1sd https://t.co/u0Q0MkLBle",
     "length": 196,
-    "likes": 403,
+    "likes": 402,
     "retweet": 163,
     "keywords": {
       "noun": [
@@ -1112,7 +1148,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:06:35",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167274538641625088,
@@ -1150,7 +1186,7 @@
     },
     "verified": true,
     "date": "2019-08-30 08:45:11",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167268995319377920,
@@ -1182,7 +1218,7 @@
     },
     "verified": true,
     "date": "2019-08-30 08:23:09",
-    "updated": "2019-09-01 13:48:03"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167255923376709635,
@@ -1220,7 +1256,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:31:13",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167251648881856513,
@@ -1253,7 +1289,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:14:14",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167236945484947456,
@@ -1289,7 +1325,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:15:48",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167214553622601728,
@@ -1322,7 +1358,7 @@
     },
     "verified": true,
     "date": "2019-08-30 04:46:50",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167206296363393025,
@@ -1355,7 +1391,7 @@
     },
     "verified": true,
     "date": "2019-08-30 04:14:01",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167199938251493381,
@@ -1394,7 +1430,7 @@
     },
     "verified": true,
     "date": "2019-08-30 03:48:45",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167188469589925905,
@@ -1431,7 +1467,7 @@
     },
     "verified": true,
     "date": "2019-08-30 03:03:11",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167178888746807296,
@@ -1453,7 +1489,7 @@
     },
     "verified": true,
     "date": "2019-08-30 02:25:06",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167178373489156101,
@@ -1462,7 +1498,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "The President announces he's canceling his trip to Poland as Hurricane Dorian approaches the US. He'll send Vice President Pence in his place. https://t.co/RisuDs50Sg",
     "length": 166,
-    "likes": 902,
+    "likes": 903,
     "retweet": 169,
     "keywords": {
       "noun": [
@@ -1491,7 +1527,7 @@
     },
     "verified": true,
     "date": "2019-08-30 02:23:04",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167128855674376193,
@@ -1528,7 +1564,7 @@
     },
     "verified": true,
     "date": "2019-08-29 23:06:18",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167103042526883840,
@@ -1564,7 +1600,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:23:43",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167090175371091968,
@@ -1604,7 +1640,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:32:35",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167082327689912320,
@@ -1641,7 +1677,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:01:24",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167068921603743745,
@@ -1680,7 +1716,7 @@
     },
     "verified": true,
     "date": "2019-08-29 19:08:08",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167055282897399808,
@@ -1717,7 +1753,7 @@
     },
     "verified": true,
     "date": "2019-08-29 18:13:56",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166870330964684800,
@@ -1751,7 +1787,7 @@
     },
     "verified": true,
     "date": "2019-08-29 05:59:00",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166857390190469120,
@@ -1784,38 +1820,7 @@
     },
     "verified": true,
     "date": "2019-08-29 05:07:35",
-    "updated": "2019-09-01 13:48:04"
-  },
-  {
-    "id": 1166829136494682113,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "RT @CNNPolitics: BREAKING: Kirsten Gillibrand drops out of 2020 presidential race https://t.co/Dtg5uSyjgK https://t.co/0HBXYe61pB",
-    "length": 129,
-    "likes": 0,
-    "retweet": 201,
-    "keywords": {
-      "noun": [
-        "cnnpolitics",
-        "breaking",
-        "kirsten",
-        "gillibrand",
-        "2020",
-        "race"
-      ],
-      "verb": [
-        "drop"
-      ],
-      "adj": [
-        "rt",
-        "presidential"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-29 03:15:19",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167923450754654210,
@@ -1824,8 +1829,8 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "A mass random shooting in the Texas city of Odessa has left 'multiple gunshot victims', local police say https://t.co/i6BJPeGXmQ",
     "length": 128,
-    "likes": 1019,
-    "retweet": 913,
+    "likes": 1026,
+    "retweet": 918,
     "keywords": {
       "noun": [
         "mass",
@@ -1850,7 +1855,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:43:44",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167531312632213506,
@@ -1859,8 +1864,8 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Twitter co-founder Jack Dorsey's account hacked - retweets flurry of highly-offensive messages https://t.co/Ls5kEFitlW",
     "length": 118,
-    "likes": 2441,
-    "retweet": 1395,
+    "likes": 2444,
+    "retweet": 1394,
     "keywords": {
       "noun": [
         "twitter",
@@ -1882,7 +1887,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:45:31",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167366748909264898,
@@ -1891,7 +1896,7 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Judge refuses to order temporary halt to Boris Johnson's plan to suspend UK Parliament, ahead of full hearing https://t.co/MfcDdL5rEP",
     "length": 133,
-    "likes": 3000,
+    "likes": 3003,
     "retweet": 1090,
     "keywords": {
       "noun": [
@@ -1919,7 +1924,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:51:36",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167013606854209536,
@@ -1928,8 +1933,8 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Ruth Davidson MSP announces she is stepping down as leader of the Scottish Conservatives\n\nhttps://t.co/U5Flssoycj",
     "length": 113,
-    "likes": 1160,
-    "retweet": 393,
+    "likes": 1159,
+    "retweet": 392,
     "keywords": {
       "noun": [
         "ruth",
@@ -1949,7 +1954,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:28:20",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167944017285304320,
@@ -1959,7 +1964,7 @@
     "text": "RT @MSNBC: Odessa police chief says at least 5 people were killed and 21 injured after a mass shooting in Odessa, Texas, in a \"horrific\" da\u2026",
     "length": 140,
     "likes": 0,
-    "retweet": 1011,
+    "retweet": 1014,
     "keywords": {
       "noun": [
         "rt",
@@ -1990,7 +1995,7 @@
     },
     "verified": true,
     "date": "2019-09-01 05:05:27",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167943070232375297,
@@ -2000,7 +2005,7 @@
     "text": "RT @NBCNews: LIVE: @NBCNews Special Report: At least 5 killed in Odessa-Midland shooting attack, police say. https://t.co/xGjPosWi6F\n\nhttps\u2026",
     "length": 140,
     "likes": 0,
-    "retweet": 184,
+    "retweet": 185,
     "keywords": {
       "noun": [
         "nbcnews",
@@ -2026,7 +2031,7 @@
     },
     "verified": true,
     "date": "2019-09-01 05:01:41",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167937610724982784,
@@ -2079,7 +2084,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:40:00",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167936234783571968,
@@ -2088,8 +2093,8 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "@NBCNews At least 5 killed and more than 20 injured in Odessa-Midland shooting attack, police official says; there does not appear to be a second shooter, as of now.\n\nIncident began with a traffic stop; gunman shot trooper and went on rampage.",
     "length": 243,
-    "likes": 1205,
-    "retweet": 1381,
+    "likes": 1211,
+    "retweet": 1386,
     "keywords": {
       "noun": [
         "nbcnews",
@@ -2125,7 +2130,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:34:32",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167928120302718976,
@@ -2165,7 +2170,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:02:17",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167927485532528640,
@@ -2210,7 +2215,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:59:46",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167924017317044225,
@@ -2245,7 +2250,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:45:59",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167919609376194562,
@@ -2283,7 +2288,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:28:28",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167917895772278784,
@@ -2302,7 +2307,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:21:39",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167914220748328962,
@@ -2352,7 +2357,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:07:03",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167827119507955713,
@@ -2381,7 +2386,7 @@
     },
     "verified": true,
     "date": "2019-08-31 21:20:57",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167774167128842240,
@@ -2421,7 +2426,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:50:32",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167599521599086592,
@@ -2460,7 +2465,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:16:33",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167579428525723648,
@@ -2493,7 +2498,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:56:42",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167497568823193601,
@@ -2522,7 +2527,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:31:26",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167457274211835904,
@@ -2551,7 +2556,7 @@
     },
     "verified": true,
     "date": "2019-08-30 20:51:19",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167091404000178177,
@@ -2584,7 +2589,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:37:28",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167086938035118085,
@@ -2624,7 +2629,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:19:44",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167082039750930432,
@@ -2670,7 +2675,44 @@
     },
     "verified": true,
     "date": "2019-08-29 20:00:16",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
+  },
+  {
+    "id": 1168077586758397954,
+    "name": "Sky News Breaking",
+    "screen_name": "SkyNewsBreak",
+    "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
+    "text": "Former Conservative leader Iain Duncan Smith has told Sky News that protests against the suspension of parliament have been \"very engineered by the hard-left\" of Labour",
+    "length": 168,
+    "likes": 58,
+    "retweet": 26,
+    "keywords": {
+      "noun": [
+        "former",
+        "conservative",
+        "leader",
+        "iain",
+        "duncan",
+        "smith",
+        "sky",
+        "news",
+        "suspension",
+        "parliament",
+        "labour"
+      ],
+      "verb": [
+        "tell",
+        "protest",
+        "engineer"
+      ],
+      "adj": [
+        "hard-left"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 13:56:13",
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1168074686342803457,
@@ -2679,8 +2721,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Shadow Chancellor John McDonnell has told Sky News that cross-party plans to block a 'no-deal' Brexit will be published on Tuesday",
     "length": 130,
-    "likes": 14,
-    "retweet": 5,
+    "likes": 50,
+    "retweet": 18,
     "keywords": {
       "noun": [
         "shadow",
@@ -2706,7 +2748,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:44:41",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1168066217514418176,
@@ -2715,8 +2757,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Former Justice Secretary David Gauke has told Sky News he will meet Prime Minister Boris Johnson tomorrow to discuss Brexit plans",
     "length": 129,
-    "likes": 29,
-    "retweet": 9,
+    "likes": 50,
+    "retweet": 17,
     "keywords": {
       "noun": [
         "justice",
@@ -2745,7 +2787,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:11:02",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167931229104033792,
@@ -2754,8 +2796,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Midland Police Department in the U.S. state of Texas says a suspect has been shot and killed at the Cinergy in Odessa",
     "length": 117,
-    "likes": 100,
-    "retweet": 54,
+    "likes": 101,
+    "retweet": 55,
     "keywords": {
       "noun": [
         "midland",
@@ -2778,7 +2820,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:14:38",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167919075927834624,
@@ -2787,8 +2829,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Police in the U.S. state of Texas say around 20 people have been shot in the Midland and Odessa area by at least one and possibly two shooters in separate vehicles according to a local television station report",
     "length": 210,
-    "likes": 229,
-    "retweet": 248,
+    "likes": 230,
+    "retweet": 250,
     "keywords": {
       "noun": [
         "police",
@@ -2825,7 +2867,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:26:21",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167854450679189505,
@@ -2834,7 +2876,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Bolton have announced the appointment of Keith Hill as their new manager",
     "length": 72,
-    "likes": 142,
+    "likes": 143,
     "retweet": 35,
     "keywords": {
       "noun": [
@@ -2854,7 +2896,7 @@
     },
     "verified": true,
     "date": "2019-08-31 23:09:33",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167848372377673730,
@@ -2863,7 +2905,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "The FIA has announced French driver Anthoine Hubert has died as a result of injuries sustained in a crash during the Formula 2 Sprint Race at Spa-Francorchamps in Belgium",
     "length": 170,
-    "likes": 496,
+    "likes": 497,
     "retweet": 185,
     "keywords": {
       "noun": [
@@ -2893,7 +2935,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:45:24",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167838523220791296,
@@ -2902,7 +2944,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Lancashire Police says a 16-year-old boy has been charged with the murder of 47-year-old teaching assistant and mother-of-two Lindsay Birbeck",
     "length": 141,
-    "likes": 94,
+    "likes": 97,
     "retweet": 54,
     "keywords": {
       "noun": [
@@ -2930,7 +2972,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:06:15",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167764636688625664,
@@ -2939,7 +2981,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Protesters in Hong Kong have started a fire during the 13th consecutive weekend of pro-democracy demonstrations in the city",
     "length": 123,
-    "likes": 26,
+    "likes": 27,
     "retweet": 15,
     "keywords": {
       "noun": [
@@ -2963,7 +3005,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:12:40",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167740520984174592,
@@ -3001,7 +3043,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:36:50",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167735680203665408,
@@ -3037,7 +3079,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:17:36",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167732947157434368,
@@ -3073,7 +3115,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:06:44",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167724561980432385,
@@ -3082,7 +3124,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Sky News understands more than 50 suspected migrants have been picked up this morning around Dover in four different incidents with eight making it to Kingsdown Beach",
     "length": 166,
-    "likes": 258,
+    "likes": 259,
     "retweet": 181,
     "keywords": {
       "noun": [
@@ -3113,7 +3155,7 @@
     },
     "verified": true,
     "date": "2019-08-31 14:33:25",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167522420871303168,
@@ -3146,7 +3188,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:10:11",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167508334456557568,
@@ -3182,7 +3224,7 @@
     },
     "verified": true,
     "date": "2019-08-31 00:14:12",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167491734244397056,
@@ -3216,7 +3258,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:08:15",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167482122405330944,
@@ -3259,7 +3301,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:30:03",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167472578648301570,
@@ -3306,7 +3348,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:52:07",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167413538257821696,
@@ -3348,7 +3390,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:57:31",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167365358174576640,
@@ -3384,7 +3426,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:46:04",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167362997997703168,
@@ -3426,7 +3468,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:36:41",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167360265358364672,
@@ -3468,7 +3510,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:25:50",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167332260460269568,
@@ -3510,7 +3552,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:34:33",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167126901175066624,
@@ -3541,7 +3583,7 @@
     },
     "verified": true,
     "date": "2019-08-29 22:58:32",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167125747384934400,
@@ -3550,7 +3592,7 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Liverpool defender Virgil Van Dijk has been named men's player of the year by UEFA",
     "length": 82,
-    "likes": 520,
+    "likes": 521,
     "retweet": 83,
     "keywords": {
       "noun": [
@@ -3573,7 +3615,7 @@
     },
     "verified": true,
     "date": "2019-08-29 22:53:56",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167082629671378945,
@@ -3616,7 +3658,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:02:36",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167012866551177216,
@@ -3650,7 +3692,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:25:24",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167009309290565632,
@@ -3680,7 +3722,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:11:15",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166961355867471872,
@@ -3728,7 +3770,7 @@
     },
     "verified": true,
     "date": "2019-08-29 12:00:42",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166954465464918016,
@@ -3766,7 +3808,44 @@
     },
     "verified": true,
     "date": "2019-08-29 11:33:20",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
+  },
+  {
+    "id": 1168080501590155264,
+    "name": "NationBreakingNews",
+    "screen_name": "NationBreaking",
+    "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+    "text": "POLICE IN Bomet arrest man who has been on the run since Friday after killing his two sons following a quarrel with his wife over maize flour. https://t.co/UH6qzIdLKm",
+    "length": 166,
+    "likes": 1,
+    "retweet": 1,
+    "keywords": {
+      "noun": [
+        "police",
+        "bomet",
+        "arrest",
+        "man",
+        "run",
+        "since",
+        "friday",
+        "two",
+        "son",
+        "quarrel",
+        "wife",
+        "flour"
+      ],
+      "verb": [
+        "kill",
+        "follow"
+      ],
+      "adj": [
+        "maize"
+      ],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-01 14:07:48",
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167781044243902470,
@@ -3776,7 +3855,7 @@
     "text": "OUSTED SUDAN president Bashir, who is on trial for corruption, charged with illegal acquisition and use of foreign funds; faces 10 years in jail. https://t.co/jlXV61rfmE",
     "length": 169,
     "likes": 52,
-    "retweet": 25,
+    "retweet": 26,
     "keywords": {
       "noun": [
         "ousted",
@@ -3804,7 +3883,7 @@
     },
     "verified": true,
     "date": "2019-08-31 18:17:51",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167694207454253057,
@@ -3842,7 +3921,7 @@
     },
     "verified": true,
     "date": "2019-08-31 12:32:48",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167658119729745922,
@@ -3881,7 +3960,7 @@
     },
     "verified": true,
     "date": "2019-08-31 10:09:24",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167449440413790211,
@@ -3917,7 +3996,7 @@
     },
     "verified": true,
     "date": "2019-08-30 20:20:11",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167410264037298177,
@@ -3957,7 +4036,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:44:31",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167409784015982598,
@@ -3991,7 +4070,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:42:36",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167408128020926469,
@@ -4029,7 +4108,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:36:01",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167406751198720002,
@@ -4065,7 +4144,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:30:33",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167370993733685252,
@@ -4103,7 +4182,7 @@
     },
     "verified": true,
     "date": "2019-08-30 15:08:28",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167322949981892608,
@@ -4142,7 +4221,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:57:33",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167312646925737984,
@@ -4178,7 +4257,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:16:37",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167142922808152064,
@@ -4219,7 +4298,7 @@
     },
     "verified": true,
     "date": "2019-08-30 00:02:11",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167106928926961665,
@@ -4256,7 +4335,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:39:10",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167104781653041154,
@@ -4294,7 +4373,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:30:38",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167069767339036673,
@@ -4331,7 +4410,7 @@
     },
     "verified": true,
     "date": "2019-08-29 19:11:30",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167046676718243841,
@@ -4367,7 +4446,7 @@
     },
     "verified": true,
     "date": "2019-08-29 17:39:45",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167044415766048769,
@@ -4409,7 +4488,7 @@
     },
     "verified": true,
     "date": "2019-08-29 17:30:46",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167018393322627077,
@@ -4446,7 +4525,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:47:21",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167007434105245698,
@@ -4484,7 +4563,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:03:48",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166965122209857536,
@@ -4522,7 +4601,7 @@
     },
     "verified": true,
     "date": "2019-08-29 12:15:40",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1168075069609971713,
@@ -4531,7 +4610,7 @@
     "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
     "text": "BREAKING Prince Harry and Meghan Markle share details of first official tour with Archie\nhttps://t.co/gBzII5Pb1Q https://t.co/gN0AwDhOHV",
     "length": 136,
-    "likes": 1,
+    "likes": 13,
     "retweet": 2,
     "keywords": {
       "noun": [
@@ -4554,7 +4633,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:46:13",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1168074213015474176,
@@ -4564,7 +4643,7 @@
     "text": "RT @DailyMirror: BREAKING: Flights across Europe grounded after air traffic control failure in France https://t.co/mq81V8IXpD https://t.co/\u2026",
     "length": 140,
     "likes": 0,
-    "retweet": 7,
+    "retweet": 11,
     "keywords": {
       "noun": [
         "rt",
@@ -4587,7 +4666,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:42:48",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167934748481638400,
@@ -4620,7 +4699,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:28:37",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167925053675036672,
@@ -4651,7 +4730,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:50:06",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167920958172065793,
@@ -4683,7 +4762,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:33:50",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167910182887641089,
@@ -4712,7 +4791,7 @@
     },
     "verified": true,
     "date": "2019-09-01 02:51:00",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167866355451748352,
@@ -4741,7 +4820,7 @@
     },
     "verified": true,
     "date": "2019-08-31 23:56:51",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167845359609110528,
@@ -4775,7 +4854,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:33:25",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167839764894158851,
@@ -4806,7 +4885,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:11:12",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167829064213782528,
@@ -4839,7 +4918,7 @@
     },
     "verified": true,
     "date": "2019-08-31 21:28:40",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167794294649958403,
@@ -4871,7 +4950,7 @@
     },
     "verified": true,
     "date": "2019-08-31 19:10:31",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167644934394064896,
@@ -4904,7 +4983,7 @@
     },
     "verified": true,
     "date": "2019-08-31 09:17:00",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167642057634131968,
@@ -4937,7 +5016,7 @@
     },
     "verified": true,
     "date": "2019-08-31 09:05:34",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167613317034196992,
@@ -4967,7 +5046,7 @@
     },
     "verified": true,
     "date": "2019-08-31 07:11:22",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167577230064738304,
@@ -4998,7 +5077,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:47:58",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167542756182560774,
@@ -5024,7 +5103,7 @@
     },
     "verified": true,
     "date": "2019-08-31 02:30:59",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167526926346575872,
@@ -5057,7 +5136,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:28:05",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167523402401419266,
@@ -5087,7 +5166,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:14:05",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167489016561831937,
@@ -5115,7 +5194,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:57:27",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167470594205634560,
@@ -5147,7 +5226,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:44:14",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167423464581619712,
@@ -5182,7 +5261,7 @@
     },
     "verified": true,
     "date": "2019-08-30 18:36:58",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167395009634738177,
@@ -5213,7 +5292,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:43:54",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167372113357025281,
@@ -5241,7 +5320,7 @@
     },
     "verified": true,
     "date": "2019-08-30 15:12:55",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167367118016471040,
@@ -5272,7 +5351,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:53:04",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167361677018456066,
@@ -5306,7 +5385,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:31:26",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167251406153232385,
@@ -5336,7 +5415,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:13:16",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167241333473513472,
@@ -5366,7 +5445,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:33:14",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167240663559225344,
@@ -5395,7 +5474,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:30:35",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167148287343939586,
@@ -5426,7 +5505,7 @@
     },
     "verified": true,
     "date": "2019-08-30 00:23:30",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167098266548350978,
@@ -5458,7 +5537,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:04:45",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167095190412234752,
@@ -5487,7 +5566,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:52:31",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167087801550196737,
@@ -5521,7 +5600,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:23:09",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167086298693341185,
@@ -5551,7 +5630,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:17:11",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167076325384970246,
@@ -5583,7 +5662,7 @@
     },
     "verified": true,
     "date": "2019-08-29 19:37:33",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167059821004111875,
@@ -5617,7 +5696,7 @@
     },
     "verified": true,
     "date": "2019-08-29 18:31:58",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167049504098521089,
@@ -5649,7 +5728,7 @@
     },
     "verified": true,
     "date": "2019-08-29 17:50:59",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167025657613864960,
@@ -5679,7 +5758,7 @@
     },
     "verified": true,
     "date": "2019-08-29 16:16:13",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167023524139151360,
@@ -5709,7 +5788,7 @@
     },
     "verified": true,
     "date": "2019-08-29 16:07:45",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167020883678048262,
@@ -5741,7 +5820,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:57:15",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167012322126237696,
@@ -5771,7 +5850,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:23:14",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167011196278624256,
@@ -5804,7 +5883,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:18:45",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167008948144234496,
@@ -5837,7 +5916,7 @@
     },
     "verified": true,
     "date": "2019-08-29 15:09:49",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167002776485933056,
@@ -5871,7 +5950,7 @@
     },
     "verified": true,
     "date": "2019-08-29 14:45:18",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166995809457582080,
@@ -5902,7 +5981,7 @@
     },
     "verified": true,
     "date": "2019-08-29 14:17:37",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166971992203059200,
@@ -5933,7 +6012,7 @@
     },
     "verified": true,
     "date": "2019-08-29 12:42:58",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1166959057334390784,
@@ -5964,7 +6043,7 @@
     },
     "verified": true,
     "date": "2019-08-29 11:51:34",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167718567929774081,
@@ -5973,8 +6052,8 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Lewis Allen lost his wife during Easter attacks. However, his love for \ud83c\uddf1\ud83c\uddf0 &amp; faith in Gem industry led to his\u00a0return. \"SL will come back stronger more united because light always wins over darkness\". Allen to build another ward at Ratnapura hospital  https://t.co/uudLdQf4fX",
     "length": 277,
-    "likes": 886,
-    "retweet": 189,
+    "likes": 887,
+    "retweet": 190,
     "keywords": {
       "noun": [
         "lewis",
@@ -6017,7 +6096,7 @@
     },
     "verified": true,
     "date": "2019-08-31 14:09:36",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167476816921137158,
@@ -6046,7 +6125,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:08:58",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167417151403130883,
@@ -6095,7 +6174,7 @@
     },
     "verified": true,
     "date": "2019-08-30 18:11:53",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167389277077946369,
@@ -6141,7 +6220,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:21:07",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167387650459701253,
@@ -6185,7 +6264,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:14:39",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167325147172200448,
@@ -6219,7 +6298,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:06:17",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167094948543385600,
@@ -6261,7 +6340,7 @@
     },
     "verified": true,
     "date": "2019-08-29 20:51:33",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   },
   {
     "id": 1167002617836273664,
@@ -6303,6 +6382,6 @@
     },
     "verified": true,
     "date": "2019-08-29 14:44:40",
-    "updated": "2019-09-01 13:48:04"
+    "updated": "2019-09-01 14:08:41"
   }
 ]
