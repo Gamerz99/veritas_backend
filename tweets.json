@@ -1,13 +1,47 @@
 [
   {
+    "id": 1168374912098197505,
+    "name": "CNN Breaking News",
+    "screen_name": "cnnbrk",
+    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+    "text": "@CNNPolitics Correction: Four Category 5 hurricanes have threatened the US since President Trump took office",
+    "length": 108,
+    "likes": 37,
+    "retweet": 12,
+    "keywords": {
+      "noun": [
+        "cnnpolitics",
+        "correction",
+        "four",
+        "category",
+        "5",
+        "hurricane",
+        "u",
+        "since",
+        "president",
+        "trump",
+        "office"
+      ],
+      "verb": [
+        "threaten",
+        "take"
+      ],
+      "adj": [],
+      "adv": []
+    },
+    "verified": true,
+    "date": "2019-09-02 09:37:41",
+    "updated": "2019-09-02 09:50:53"
+  },
+  {
     "id": 1168364814512676864,
     "name": "CNN Breaking News",
     "screen_name": "cnnbrk",
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Top-ranked and defending champion Novak Djokovic is out of the US Open after retiring from his match while trailing 6-4, 7-5, 2-1 against Stan Wawrinka https://t.co/A14djECTsj https://t.co/CDhYkf6PuS",
     "length": 199,
-    "likes": 157,
-    "retweet": 50,
+    "likes": 203,
+    "retweet": 57,
     "keywords": {
       "noun": [
         "champion",
@@ -34,7 +68,7 @@
     },
     "verified": true,
     "date": "2019-09-02 08:57:33",
-    "updated": "2019-09-02 09:24:00"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168327185884688384,
@@ -43,8 +77,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "At least 665 flights into, out of or within the US due to take off tomorrow have been canceled as Hurricane Dorian looms off the coast of Florida. Follow storm updates here: https://t.co/l3OeJ9RG1s https://t.co/bZn1EmoUoa",
     "length": 221,
-    "likes": 251,
-    "retweet": 187,
+    "likes": 258,
+    "retweet": 191,
     "keywords": {
       "noun": [
         "665",
@@ -73,7 +107,7 @@
     },
     "verified": true,
     "date": "2019-09-02 06:28:02",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168307465236209664,
@@ -82,8 +116,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Actor-comedian Kevin Hart sustained \"major back injuries\" in a car crash in California and was transported to a hospital for treatment https://t.co/SBqT3GGK0i https://t.co/YN4pOJW0oY",
     "length": 182,
-    "likes": 1711,
-    "retweet": 776,
+    "likes": 1756,
+    "retweet": 809,
     "keywords": {
       "noun": [
         "kevin",
@@ -109,7 +143,7 @@
     },
     "verified": true,
     "date": "2019-09-02 05:09:40",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168275393754935296,
@@ -118,7 +152,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "A hurricane warning has been issued for parts of Florida. Follow live updates: https://t.co/l3OeJ9RG1s https://t.co/qLXe2ziH6f",
     "length": 126,
-    "likes": 262,
+    "likes": 265,
     "retweet": 119,
     "keywords": {
       "noun": [
@@ -139,7 +173,7 @@
     },
     "verified": true,
     "date": "2019-09-02 03:02:14",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168270220185804801,
@@ -148,8 +182,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "The shooter who killed seven people in a terrifying rampage in West Texas Saturday has been identified https://t.co/574KZPXWaG https://t.co/NyAsRSRPN7",
     "length": 150,
-    "likes": 363,
-    "retweet": 137,
+    "likes": 374,
+    "retweet": 141,
     "keywords": {
       "noun": [
         "shooter",
@@ -171,7 +205,7 @@
     },
     "verified": true,
     "date": "2019-09-02 02:41:40",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168241673211695104,
@@ -180,8 +214,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "There are reports of major damage in the Bahamas caused by Hurricane Dorian. Follow live updates. https://t.co/l3OeJ9RG1s https://t.co/BrZSfiV3os",
     "length": 145,
-    "likes": 526,
-    "retweet": 303,
+    "likes": 529,
+    "retweet": 305,
     "keywords": {
       "noun": [
         "report",
@@ -203,7 +237,7 @@
     },
     "verified": true,
     "date": "2019-09-02 00:48:14",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168212503236698112,
@@ -212,8 +246,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian makes landfall in the Bahamas at Elbow Cay in the Abacos with maximum sustained winds of 185 mph. Follow live updates: https://t.co/csW9bS3LVD https://t.co/sl879kLWhd",
     "length": 183,
-    "likes": 1776,
-    "retweet": 989,
+    "likes": 1802,
+    "retweet": 999,
     "keywords": {
       "noun": [
         "hurricane",
@@ -241,7 +275,7 @@
     },
     "verified": true,
     "date": "2019-09-01 22:52:19",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168191100781305856,
@@ -283,7 +317,7 @@
     },
     "verified": true,
     "date": "2019-09-01 21:27:17",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168173019275104256,
@@ -292,8 +326,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Death toll of yesterday's shooting in West Texas rises to 7 https://t.co/sETHL1EUtQ https://t.co/LnhtquxOYw",
     "length": 107,
-    "likes": 583,
-    "retweet": 328,
+    "likes": 586,
+    "retweet": 330,
     "keywords": {
       "noun": [
         "death",
@@ -312,7 +346,7 @@
     },
     "verified": true,
     "date": "2019-09-01 20:15:26",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168168679802097664,
@@ -321,8 +355,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Hurricane Dorian intensifies with maximum winds now up to 175 mph, making it the strongest storm on the planet this year. Follow live updates: https://t.co/TzqDtRquxT https://t.co/a32lSgkIxx",
     "length": 190,
-    "likes": 715,
-    "retweet": 433,
+    "likes": 716,
+    "retweet": 434,
     "keywords": {
       "noun": [
         "hurricane",
@@ -349,7 +383,7 @@
     },
     "verified": true,
     "date": "2019-09-01 19:58:11",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168141593876017152,
@@ -358,8 +392,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Dorian strengthens to a Category 5 hurricane with maximum sustained winds of 160 mph as it's about to slam the Bahamas before moving along the US southeastern coast. Follow live updates. https://t.co/M298tVwjYx",
     "length": 210,
-    "likes": 922,
-    "retweet": 559,
+    "likes": 923,
+    "retweet": 560,
     "keywords": {
       "noun": [
         "category",
@@ -391,7 +425,7 @@
     },
     "verified": true,
     "date": "2019-09-01 18:10:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168119057528156162,
@@ -400,8 +434,8 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Protesters in Hong Kong disrupt airport access by blocking roads and forcing the city's subway operator to suspend its airport service\nhttps://t.co/vrylOkDHIX https://t.co/0hOoeEaugo",
     "length": 182,
-    "likes": 596,
-    "retweet": 221,
+    "likes": 597,
+    "retweet": 222,
     "keywords": {
       "noun": [
         "protester",
@@ -428,7 +462,7 @@
     },
     "verified": true,
     "date": "2019-09-01 16:41:00",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168077840425918464,
@@ -438,7 +472,7 @@
     "text": "North Carolina Governor Roy Cooper declares a state of emergency as Hurricane Dorian approaches. Follow live updates: https://t.co/3Z0j21j9B5 https://t.co/n3TX3zUVKW",
     "length": 165,
     "likes": 369,
-    "retweet": 189,
+    "retweet": 190,
     "keywords": {
       "noun": [
         "north",
@@ -464,7 +498,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:57:13",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167949176946053122,
@@ -473,7 +507,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Police say the suspect in the Texas shootings was a white man in his mid-30s. The incident began with a traffic stop. https://t.co/MhBSNwD8af https://t.co/0HWbeLOn1r",
     "length": 165,
-    "likes": 843,
+    "likes": 845,
     "retweet": 564,
     "keywords": {
       "noun": [
@@ -499,7 +533,7 @@
     },
     "verified": true,
     "date": "2019-09-01 05:25:57",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167939403039178753,
@@ -534,7 +568,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:47:07",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167933406811836421,
@@ -563,7 +597,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:23:17",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167919818575470594,
@@ -599,7 +633,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:29:18",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167912333382836225,
@@ -647,7 +681,7 @@
     },
     "verified": true,
     "date": "2019-09-01 02:59:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167908784674500615,
@@ -685,7 +719,7 @@
     },
     "verified": true,
     "date": "2019-09-01 02:45:27",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167887260986957824,
@@ -727,7 +761,7 @@
     },
     "verified": true,
     "date": "2019-09-01 01:19:55",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167860495866421249,
@@ -737,7 +771,7 @@
     "text": "French Formula 2 driver Anthoine Hubert has died at age 22 after a crash on the second lap of the Belgian Grand Prix https://t.co/imiF8U4hvk https://t.co/6oeGLOw9eC",
     "length": 164,
     "likes": 579,
-    "retweet": 252,
+    "retweet": 253,
     "keywords": {
       "noun": [
         "formula",
@@ -764,7 +798,7 @@
     },
     "verified": true,
     "date": "2019-08-31 23:33:34",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167844535361318912,
@@ -801,7 +835,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:30:09",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167823730464165888,
@@ -839,7 +873,7 @@
     },
     "verified": true,
     "date": "2019-08-31 21:07:29",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167806781281710080,
@@ -872,7 +906,7 @@
     },
     "verified": true,
     "date": "2019-08-31 20:00:08",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167773782578278407,
@@ -911,7 +945,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:49:00",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167767198108135424,
@@ -943,7 +977,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:22:50",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167690036311183360,
@@ -973,7 +1007,7 @@
     },
     "verified": true,
     "date": "2019-08-31 12:16:13",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167669068226269185,
@@ -1009,7 +1043,7 @@
     },
     "verified": true,
     "date": "2019-08-31 10:52:54",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167612555730280448,
@@ -1047,7 +1081,7 @@
     },
     "verified": true,
     "date": "2019-08-31 07:08:21",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167603113374695424,
@@ -1082,7 +1116,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:30:49",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167597412808089600,
@@ -1125,7 +1159,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:08:10",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167576547450150914,
@@ -1134,7 +1168,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Valerie Harper, who played Rhoda on the 1970s sitcom \"The Mary Tyler Moore Show,\" has died at 80 after a long battle with cancer https://t.co/YWByKaVEx9 https://t.co/IvQFJ5Wyl4",
     "length": 176,
-    "likes": 1628,
+    "likes": 1629,
     "retweet": 545,
     "keywords": {
       "noun": [
@@ -1162,7 +1196,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:45:16",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167533927172575233,
@@ -1200,7 +1234,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:55:54",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167533177616916480,
@@ -1236,7 +1270,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:52:55",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167518805234507777,
@@ -1280,7 +1314,7 @@
     },
     "verified": true,
     "date": "2019-08-31 00:55:49",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167498446904942592,
@@ -1321,7 +1355,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:34:55",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167478102869643264,
@@ -1352,7 +1386,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:14:05",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167474743051739137,
@@ -1384,7 +1418,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:00:44",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167460871196545024,
@@ -1429,7 +1463,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:05:36",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167433777410449409,
@@ -1469,7 +1503,7 @@
     },
     "verified": true,
     "date": "2019-08-30 19:17:57",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167409965570633728,
@@ -1510,7 +1544,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:43:19",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167335359950274560,
@@ -1541,7 +1575,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:46:52",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167310121317228546,
@@ -1579,7 +1613,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:06:35",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167274538641625088,
@@ -1617,7 +1651,7 @@
     },
     "verified": true,
     "date": "2019-08-30 08:45:11",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167268995319377920,
@@ -1649,7 +1683,7 @@
     },
     "verified": true,
     "date": "2019-08-30 08:23:09",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167255923376709635,
@@ -1658,7 +1692,7 @@
     "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
     "text": "Two former detectives will serve no prison time after pleading guilty to bribe taking and official misconduct for having sex with young woman in custody\nhttps://t.co/dJI4MpVGou https://t.co/af1RSpbOl6",
     "length": 200,
-    "likes": 244,
+    "likes": 245,
     "retweet": 221,
     "keywords": {
       "noun": [
@@ -1687,7 +1721,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:31:13",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167251648881856513,
@@ -1720,7 +1754,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:14:14",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167236945484947456,
@@ -1756,7 +1790,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:15:48",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167214553622601728,
@@ -1789,40 +1823,7 @@
     },
     "verified": true,
     "date": "2019-08-30 04:46:50",
-    "updated": "2019-09-02 09:24:01"
-  },
-  {
-    "id": 1167206296363393025,
-    "name": "CNN Breaking News",
-    "screen_name": "cnnbrk",
-    "image": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
-    "text": "Breast cancer risk linked to hormone therapy can persist for years, a new study says https://t.co/rUSPEHRnio https://t.co/VZsgjgFmuh",
-    "length": 132,
-    "likes": 144,
-    "retweet": 76,
-    "keywords": {
-      "noun": [
-        "breast",
-        "cancer",
-        "risk",
-        "therapy",
-        "year",
-        "study"
-      ],
-      "verb": [
-        "link",
-        "hormone",
-        "persist",
-        "say"
-      ],
-      "adj": [
-        "new"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-30 04:14:01",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168139005898240000,
@@ -1831,8 +1832,8 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Hurricane Dorian is upgraded to a category five storm, just as it is about to make landfall in the Bahamas https://t.co/q2oR8bjJQX",
     "length": 130,
-    "likes": 853,
-    "retweet": 418,
+    "likes": 859,
+    "retweet": 420,
     "keywords": {
       "noun": [
         "hurricane",
@@ -1852,7 +1853,7 @@
     },
     "verified": true,
     "date": "2019-09-01 18:00:16",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167923450754654210,
@@ -1887,7 +1888,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:43:44",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167531312632213506,
@@ -1896,7 +1897,7 @@
     "image": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
     "text": "Twitter co-founder Jack Dorsey's account hacked - retweets flurry of highly-offensive messages https://t.co/Ls5kEFitlW",
     "length": 118,
-    "likes": 2480,
+    "likes": 2481,
     "retweet": 1408,
     "keywords": {
       "noun": [
@@ -1919,7 +1920,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:45:31",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167366748909264898,
@@ -1956,7 +1957,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:51:36",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168360984588824583,
@@ -1965,8 +1966,8 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "NHC: \"On this track, the core of extremely dangerous Hurricane Dorian will continue to pound Great Abaco and Grand Bahama islands overnight and through much of Monday. The hurricane will move dangerously close to the Florida east coast late Monday through Tuesday night.\"",
     "length": 271,
-    "likes": 57,
-    "retweet": 54,
+    "likes": 68,
+    "retweet": 56,
     "keywords": {
       "noun": [
         "nhc",
@@ -2007,7 +2008,7 @@
     },
     "verified": true,
     "date": "2019-09-02 08:42:20",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168360436103860224,
@@ -2016,8 +2017,8 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "South Carolina and Georgia have announced mandatory evacuation orders for some 1,000,000 in advance of slow-moving Cat. 5 Hurricane Dorian.\n\nThe historic hurricane has been battering the Bahamas with catastrophic impacts for hours now. https://t.co/Sg7WV8uQT3 https://t.co/49iEFSnMUG",
     "length": 283,
-    "likes": 224,
-    "retweet": 237,
+    "likes": 266,
+    "retweet": 275,
     "keywords": {
       "noun": [
         "south",
@@ -2051,7 +2052,7 @@
     },
     "verified": true,
     "date": "2019-09-02 08:40:09",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168275444799610881,
@@ -2061,7 +2062,7 @@
     "text": "RT @GBlack22wx: The eye of #Dorian https://t.co/XN29zC46IP",
     "length": 58,
     "likes": 0,
-    "retweet": 21812,
+    "retweet": 22564,
     "keywords": {
       "noun": [
         "rt",
@@ -2076,7 +2077,7 @@
     },
     "verified": true,
     "date": "2019-09-02 03:02:26",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168274976111304704,
@@ -2085,8 +2086,8 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "Comedian Kevin Hart injured in serious car crash in Malibu, California Highway Patrol says. https://t.co/I0LyKnCtpf",
     "length": 115,
-    "likes": 488,
-    "retweet": 465,
+    "likes": 495,
+    "retweet": 466,
     "keywords": {
       "noun": [
         "kevin",
@@ -2110,7 +2111,7 @@
     },
     "verified": true,
     "date": "2019-09-02 03:00:34",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168250699550998528,
@@ -2120,7 +2121,7 @@
     "text": "RT @NBCNews: LIVE: Latest Hurricane #Dorian forecast updates. https://t.co/iyH9jnlPIY\n\nhttps://t.co/FoZZ539YIn",
     "length": 110,
     "likes": 0,
-    "retweet": 104,
+    "retweet": 105,
     "keywords": {
       "noun": [
         "nbcnews",
@@ -2139,7 +2140,7 @@
     },
     "verified": true,
     "date": "2019-09-02 01:24:06",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168244426180898816,
@@ -2149,7 +2150,7 @@
     "text": "RT @BillKarins: Watch #MarshHarbour go through the eye of #Dorian. Took 3 hours from western eyewall exit to now entering Southeast eyewall\u2026",
     "length": 140,
     "likes": 0,
-    "retweet": 368,
+    "retweet": 372,
     "keywords": {
       "noun": [
         "billkarins",
@@ -2178,7 +2179,7 @@
     },
     "verified": true,
     "date": "2019-09-02 00:59:10",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168178673813508096,
@@ -2216,7 +2217,7 @@
     },
     "verified": true,
     "date": "2019-09-01 20:37:54",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168178407353520128,
@@ -2225,8 +2226,8 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "Several anti-tank missiles fired from Lebanon at an Israeli army base and military vehicles in Israel's north, the Israeli army said, adding that \"some targets\" were hit, and Israel has returned fire. https://t.co/LNIxAEcPCL",
     "length": 224,
-    "likes": 43,
-    "retweet": 42,
+    "likes": 44,
+    "retweet": 43,
     "keywords": {
       "noun": [
         "missile",
@@ -2259,7 +2260,7 @@
     },
     "verified": true,
     "date": "2019-09-01 20:36:50",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168177870893699073,
@@ -2296,7 +2297,7 @@
     },
     "verified": true,
     "date": "2019-09-01 20:34:42",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168135108781641728,
@@ -2306,7 +2307,7 @@
     "text": "Hurricane Dorian strengthens to \"catastrophic\" Cat. 5 storm, as it closes in on the Bahamas. https://t.co/bTAhgSPgzJ https://t.co/xSdymAgJhc",
     "length": 140,
     "likes": 146,
-    "retweet": 141,
+    "retweet": 142,
     "keywords": {
       "noun": [
         "hurricane",
@@ -2327,7 +2328,7 @@
     },
     "verified": true,
     "date": "2019-09-01 17:44:47",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167944017285304320,
@@ -2368,7 +2369,7 @@
     },
     "verified": true,
     "date": "2019-09-01 05:05:27",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167943070232375297,
@@ -2404,7 +2405,7 @@
     },
     "verified": true,
     "date": "2019-09-01 05:01:41",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167937610724982784,
@@ -2457,7 +2458,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:40:00",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167936234783571968,
@@ -2466,8 +2467,8 @@
     "image": "http://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_normal.png",
     "text": "@NBCNews At least 5 killed and more than 20 injured in Odessa-Midland shooting attack, police official says; there does not appear to be a second shooter, as of now.\n\nIncident began with a traffic stop; gunman shot trooper and went on rampage.",
     "length": 243,
-    "likes": 1815,
-    "retweet": 1840,
+    "likes": 1818,
+    "retweet": 1841,
     "keywords": {
       "noun": [
         "nbcnews",
@@ -2503,7 +2504,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:34:32",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167928120302718976,
@@ -2543,7 +2544,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:02:17",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167927485532528640,
@@ -2588,7 +2589,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:59:46",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167924017317044225,
@@ -2623,7 +2624,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:45:59",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167919609376194562,
@@ -2661,7 +2662,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:28:28",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167917895772278784,
@@ -2680,7 +2681,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:21:39",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167914220748328962,
@@ -2690,7 +2691,7 @@
     "text": "Manhunt ongoing for at least 1 active shooter in Odessa, Texas; police ask public to get off roadways.\n\nPolice: \"A subject (possibly 2) ... At this time there are multiple gunshot victims. The suspect just hijacked a U.S. mail carrier truck\"",
     "length": 241,
     "likes": 332,
-    "retweet": 457,
+    "retweet": 456,
     "keywords": {
       "noun": [
         "manhunt",
@@ -2730,7 +2731,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:07:03",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167827119507955713,
@@ -2759,7 +2760,7 @@
     },
     "verified": true,
     "date": "2019-08-31 21:20:57",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167774167128842240,
@@ -2799,7 +2800,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:50:32",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167599521599086592,
@@ -2838,7 +2839,7 @@
     },
     "verified": true,
     "date": "2019-08-31 06:16:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167579428525723648,
@@ -2871,7 +2872,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:56:42",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167497568823193601,
@@ -2900,7 +2901,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:31:26",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167457274211835904,
@@ -2929,7 +2930,7 @@
     },
     "verified": true,
     "date": "2019-08-30 20:51:19",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168296614311661569,
@@ -2939,7 +2940,7 @@
     "text": "South Carolina's governor has ordered a mandatory evacuation of the state's entire coast as Hurricane Dorian threatens",
     "length": 118,
     "likes": 50,
-    "retweet": 43,
+    "retweet": 44,
     "keywords": {
       "noun": [
         "south",
@@ -2963,7 +2964,7 @@
     },
     "verified": true,
     "date": "2019-09-02 04:26:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168269578864136192,
@@ -2972,8 +2973,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "A Government source has told Sky News that Conservative MPs who do not vote with the Government on Tuesday will have the whip withdrawn",
     "length": 135,
-    "likes": 367,
-    "retweet": 122,
+    "likes": 368,
+    "retweet": 123,
     "keywords": {
       "noun": [
         "government",
@@ -2996,7 +2997,7 @@
     },
     "verified": true,
     "date": "2019-09-02 02:39:07",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168267785463586822,
@@ -3005,8 +3006,8 @@
     "image": "http://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1_normal.jpg",
     "text": "Sky News has seen Government documents which suggest vehicles could face a two-day delay at Dover in the event of a 'no-deal' Brexit",
     "length": 132,
-    "likes": 650,
-    "retweet": 629,
+    "likes": 659,
+    "retweet": 633,
     "keywords": {
       "noun": [
         "sky",
@@ -3033,7 +3034,7 @@
     },
     "verified": true,
     "date": "2019-09-02 02:32:00",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168212767289106432,
@@ -3074,7 +3075,7 @@
     },
     "verified": true,
     "date": "2019-09-01 22:53:22",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168147537867563010,
@@ -3111,7 +3112,7 @@
     },
     "verified": true,
     "date": "2019-09-01 18:34:10",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168145809864646656,
@@ -3145,7 +3146,7 @@
     },
     "verified": true,
     "date": "2019-09-01 18:27:18",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168134245115711488,
@@ -3181,7 +3182,7 @@
     },
     "verified": true,
     "date": "2019-09-01 17:41:21",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168077586758397954,
@@ -3218,7 +3219,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:56:13",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168074686342803457,
@@ -3254,7 +3255,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:44:41",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168066217514418176,
@@ -3293,7 +3294,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:11:02",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167931229104033792,
@@ -3326,7 +3327,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:14:38",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167919075927834624,
@@ -3373,7 +3374,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:26:21",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167854450679189505,
@@ -3402,7 +3403,7 @@
     },
     "verified": true,
     "date": "2019-08-31 23:09:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167848372377673730,
@@ -3441,7 +3442,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:45:24",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167838523220791296,
@@ -3478,7 +3479,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:06:15",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167764636688625664,
@@ -3511,7 +3512,7 @@
     },
     "verified": true,
     "date": "2019-08-31 17:12:40",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167740520984174592,
@@ -3549,7 +3550,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:36:50",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167735680203665408,
@@ -3585,7 +3586,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:17:36",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167732947157434368,
@@ -3621,7 +3622,7 @@
     },
     "verified": true,
     "date": "2019-08-31 15:06:44",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167724561980432385,
@@ -3661,7 +3662,7 @@
     },
     "verified": true,
     "date": "2019-08-31 14:33:25",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167522420871303168,
@@ -3694,7 +3695,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:10:11",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167508334456557568,
@@ -3730,7 +3731,7 @@
     },
     "verified": true,
     "date": "2019-08-31 00:14:12",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167491734244397056,
@@ -3764,7 +3765,7 @@
     },
     "verified": true,
     "date": "2019-08-30 23:08:15",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167482122405330944,
@@ -3807,7 +3808,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:30:03",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167472578648301570,
@@ -3854,7 +3855,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:52:07",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167413538257821696,
@@ -3896,7 +3897,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:57:31",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167365358174576640,
@@ -3932,7 +3933,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:46:04",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167362997997703168,
@@ -3974,7 +3975,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:36:41",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167360265358364672,
@@ -4016,7 +4017,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:25:50",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167332260460269568,
@@ -4058,7 +4059,7 @@
     },
     "verified": true,
     "date": "2019-08-30 12:34:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167126901175066624,
@@ -4089,7 +4090,7 @@
     },
     "verified": true,
     "date": "2019-08-29 22:58:32",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167125747384934400,
@@ -4121,7 +4122,7 @@
     },
     "verified": true,
     "date": "2019-08-29 22:53:56",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168349563494776832,
@@ -4130,8 +4131,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "HELLS GATE National Park tragedy update: Bodies of two victims swept away by flash floods recovered; five still missing. https://t.co/BxOfEPsPK0",
     "length": 144,
-    "likes": 12,
-    "retweet": 12,
+    "likes": 18,
+    "retweet": 13,
     "keywords": {
       "noun": [
         "hell",
@@ -4161,7 +4162,7 @@
     },
     "verified": true,
     "date": "2019-09-02 07:56:57",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168223793879273472,
@@ -4170,8 +4171,8 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "FIVE TOURISTS and guide missing after being swept away by flash floods in Hells Gate, Naivasha: Rift Valley Regional Police Commander Ochola.",
     "length": 141,
-    "likes": 173,
-    "retweet": 124,
+    "likes": 187,
+    "retweet": 135,
     "keywords": {
       "noun": [
         "five",
@@ -4201,7 +4202,7 @@
     },
     "verified": true,
     "date": "2019-09-01 23:37:11",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168178831183831046,
@@ -4240,7 +4241,7 @@
     },
     "verified": true,
     "date": "2019-09-01 20:38:31",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168160189910048769,
@@ -4281,7 +4282,7 @@
     },
     "verified": true,
     "date": "2019-09-01 19:24:27",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168149695585296384,
@@ -4290,7 +4291,7 @@
     "image": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
     "text": "AT LEAST 16 flights cancelled as thousands of pro-democracy activists blocked routes to Hong Kong airport, media reports. https://t.co/OgV6f62DPp",
     "length": 145,
-    "likes": 56,
+    "likes": 57,
     "retweet": 16,
     "keywords": {
       "noun": [
@@ -4317,7 +4318,7 @@
     },
     "verified": true,
     "date": "2019-09-01 18:42:45",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168137335420215296,
@@ -4353,7 +4354,7 @@
     },
     "verified": true,
     "date": "2019-09-01 17:53:38",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168080501590155264,
@@ -4390,7 +4391,7 @@
     },
     "verified": true,
     "date": "2019-09-01 14:07:48",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167781044243902470,
@@ -4428,7 +4429,7 @@
     },
     "verified": true,
     "date": "2019-08-31 18:17:51",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167694207454253057,
@@ -4466,7 +4467,7 @@
     },
     "verified": true,
     "date": "2019-08-31 12:32:48",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167658119729745922,
@@ -4505,7 +4506,7 @@
     },
     "verified": true,
     "date": "2019-08-31 10:09:24",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167449440413790211,
@@ -4541,7 +4542,7 @@
     },
     "verified": true,
     "date": "2019-08-30 20:20:11",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167410264037298177,
@@ -4581,7 +4582,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:44:31",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167409784015982598,
@@ -4615,7 +4616,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:42:36",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167408128020926469,
@@ -4653,7 +4654,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:36:01",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167406751198720002,
@@ -4689,7 +4690,7 @@
     },
     "verified": true,
     "date": "2019-08-30 17:30:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167370993733685252,
@@ -4727,7 +4728,7 @@
     },
     "verified": true,
     "date": "2019-08-30 15:08:28",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167322949981892608,
@@ -4766,7 +4767,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:57:33",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167312646925737984,
@@ -4802,7 +4803,7 @@
     },
     "verified": true,
     "date": "2019-08-30 11:16:37",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167142922808152064,
@@ -4843,7 +4844,7 @@
     },
     "verified": true,
     "date": "2019-08-30 00:02:11",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167106928926961665,
@@ -4880,7 +4881,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:39:10",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167104781653041154,
@@ -4918,7 +4919,7 @@
     },
     "verified": true,
     "date": "2019-08-29 21:30:38",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168339990222462977,
@@ -4947,7 +4948,7 @@
     },
     "verified": true,
     "date": "2019-09-02 07:18:55",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168304706613067776,
@@ -4980,7 +4981,7 @@
     },
     "verified": true,
     "date": "2019-09-02 04:58:42",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168299037155647491,
@@ -5011,7 +5012,7 @@
     },
     "verified": true,
     "date": "2019-09-02 04:36:11",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168221615777374208,
@@ -5042,7 +5043,7 @@
     },
     "verified": true,
     "date": "2019-09-01 23:28:32",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168159171516272640,
@@ -5073,7 +5074,7 @@
     },
     "verified": true,
     "date": "2019-09-01 19:20:24",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168134448124235778,
@@ -5107,7 +5108,7 @@
     },
     "verified": true,
     "date": "2019-09-01 17:42:09",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168131332754563072,
@@ -5141,7 +5142,7 @@
     },
     "verified": true,
     "date": "2019-09-01 17:29:47",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168130702199664641,
@@ -5174,7 +5175,7 @@
     },
     "verified": true,
     "date": "2019-09-01 17:27:16",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168075069609971713,
@@ -5206,7 +5207,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:46:13",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168074213015474176,
@@ -5239,7 +5240,7 @@
     },
     "verified": true,
     "date": "2019-09-01 13:42:48",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167934748481638400,
@@ -5272,7 +5273,7 @@
     },
     "verified": true,
     "date": "2019-09-01 04:28:37",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167925053675036672,
@@ -5303,7 +5304,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:50:06",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167920958172065793,
@@ -5335,7 +5336,7 @@
     },
     "verified": true,
     "date": "2019-09-01 03:33:50",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167910182887641089,
@@ -5364,7 +5365,7 @@
     },
     "verified": true,
     "date": "2019-09-01 02:51:00",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167866355451748352,
@@ -5393,7 +5394,7 @@
     },
     "verified": true,
     "date": "2019-08-31 23:56:51",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167845359609110528,
@@ -5427,7 +5428,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:33:25",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167839764894158851,
@@ -5458,7 +5459,7 @@
     },
     "verified": true,
     "date": "2019-08-31 22:11:12",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167829064213782528,
@@ -5491,7 +5492,7 @@
     },
     "verified": true,
     "date": "2019-08-31 21:28:40",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167794294649958403,
@@ -5523,7 +5524,7 @@
     },
     "verified": true,
     "date": "2019-08-31 19:10:31",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167644934394064896,
@@ -5556,7 +5557,7 @@
     },
     "verified": true,
     "date": "2019-08-31 09:17:00",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167642057634131968,
@@ -5589,7 +5590,7 @@
     },
     "verified": true,
     "date": "2019-08-31 09:05:34",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167613317034196992,
@@ -5619,7 +5620,7 @@
     },
     "verified": true,
     "date": "2019-08-31 07:11:22",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167577230064738304,
@@ -5650,7 +5651,7 @@
     },
     "verified": true,
     "date": "2019-08-31 04:47:58",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167542756182560774,
@@ -5676,7 +5677,7 @@
     },
     "verified": true,
     "date": "2019-08-31 02:30:59",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167526926346575872,
@@ -5709,7 +5710,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:28:05",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167523402401419266,
@@ -5739,7 +5740,7 @@
     },
     "verified": true,
     "date": "2019-08-31 01:14:05",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167489016561831937,
@@ -5767,7 +5768,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:57:27",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167470594205634560,
@@ -5799,7 +5800,7 @@
     },
     "verified": true,
     "date": "2019-08-30 21:44:14",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167423464581619712,
@@ -5834,7 +5835,7 @@
     },
     "verified": true,
     "date": "2019-08-30 18:36:58",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167395009634738177,
@@ -5865,7 +5866,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:43:54",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167372113357025281,
@@ -5893,7 +5894,7 @@
     },
     "verified": true,
     "date": "2019-08-30 15:12:55",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167367118016471040,
@@ -5924,7 +5925,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:53:04",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167361677018456066,
@@ -5958,7 +5959,7 @@
     },
     "verified": true,
     "date": "2019-08-30 14:31:26",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167251406153232385,
@@ -5988,7 +5989,7 @@
     },
     "verified": true,
     "date": "2019-08-30 07:13:16",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167241333473513472,
@@ -6018,7 +6019,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:33:14",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167240663559225344,
@@ -6047,7 +6048,7 @@
     },
     "verified": true,
     "date": "2019-08-30 06:30:35",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167148287343939586,
@@ -6078,39 +6079,7 @@
     },
     "verified": true,
     "date": "2019-08-30 00:23:30",
-    "updated": "2019-09-02 09:24:01"
-  },
-  {
-    "id": 1167098266548350978,
-    "name": "Mirror Breaking News",
-    "screen_name": "MirrorBreaking_",
-    "image": "http://pbs.twimg.com/profile_images/981824546725560320/O4MZGv3i_normal.jpg",
-    "text": "BREAKING: Body of Libby Squire released to family six months after student's death\nhttps://t.co/RiEHtcTvHq https://t.co/QOwFjVg200",
-    "length": 130,
-    "likes": 7,
-    "retweet": 2,
-    "keywords": {
-      "noun": [
-        "breaking",
-        "body",
-        "libby",
-        "squire",
-        "family",
-        "six",
-        "month",
-        "death"
-      ],
-      "verb": [
-        "release"
-      ],
-      "adj": [
-        "student's"
-      ],
-      "adv": []
-    },
-    "verified": true,
-    "date": "2019-08-29 21:04:45",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168365527384748033,
@@ -6119,8 +6088,8 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "M.Muralitharan \ud83c\uddf1\ud83c\uddf0 Test 800 Wickets \nM.Muralitharan \ud83c\uddf1\ud83c\uddf0  ODI 534 Wickets \nLasith Malinga  \ud83c\uddf1\ud83c\uddf0 T20I   99 Wickets\n\nSri Lankan players now, highest wicket-takers in all formats of Cricket \ud83c\udfcf",
     "length": 183,
-    "likes": 155,
-    "retweet": 38,
+    "likes": 246,
+    "retweet": 64,
     "keywords": {
       "noun": [
         "m.muralitharan",
@@ -6158,7 +6127,7 @@
     },
     "verified": true,
     "date": "2019-09-02 09:00:23",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168208921451827202,
@@ -6198,7 +6167,7 @@
     },
     "verified": true,
     "date": "2019-09-01 22:38:05",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168206955531227137,
@@ -6207,7 +6176,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Rain has stopped, play will resume soon. #SLvNZ NZ need 31 from 19 balls with 5 wickets in hand. https://t.co/rTIKh7lXJ6",
     "length": 120,
-    "likes": 96,
+    "likes": 98,
     "retweet": 4,
     "keywords": {
       "noun": [
@@ -6235,7 +6204,7 @@
     },
     "verified": true,
     "date": "2019-09-01 22:30:17",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168199932857110531,
@@ -6244,7 +6213,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Sri Lanka skipper Lasith Malinga becomes the highest wicket-taker (99) in International Twenty20 cricket. #SLvNZ \ud83c\udfcf\ud83c\uddf1\ud83c\uddf0 https://t.co/LLzoiFllzJ",
     "length": 140,
-    "likes": 439,
+    "likes": 446,
     "retweet": 64,
     "keywords": {
       "noun": [
@@ -6274,7 +6243,7 @@
     },
     "verified": true,
     "date": "2019-09-01 22:02:22",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1168174231433220096,
@@ -6283,7 +6252,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Master stroke from Skipper Malinga to send Kusal Mendis to Open the batting when Sri Lanka \ud83c\uddf1\ud83c\uddf0 had 2 other regular openers. Kusal Mendis ends with 79 from 53 balls. \ud83c\udfcf https://t.co/fgtMle8Sxq",
     "length": 189,
-    "likes": 464,
+    "likes": 471,
     "retweet": 30,
     "keywords": {
       "noun": [
@@ -6319,7 +6288,7 @@
     },
     "verified": true,
     "date": "2019-09-01 20:20:15",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167718567929774081,
@@ -6328,7 +6297,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Lewis Allen lost his wife during Easter attacks. However, his love for \ud83c\uddf1\ud83c\uddf0 &amp; faith in Gem industry led to his\u00a0return. \"SL will come back stronger more united because light always wins over darkness\". Allen to build another ward at Ratnapura hospital  https://t.co/uudLdQf4fX",
     "length": 277,
-    "likes": 957,
+    "likes": 958,
     "retweet": 202,
     "keywords": {
       "noun": [
@@ -6372,7 +6341,7 @@
     },
     "verified": true,
     "date": "2019-08-31 14:09:36",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167476816921137158,
@@ -6381,7 +6350,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "@de_janaka @akila4Dananjaya No update, ICC will take 14 days for the report",
     "length": 75,
-    "likes": 12,
+    "likes": 11,
     "retweet": 0,
     "keywords": {
       "noun": [
@@ -6401,7 +6370,7 @@
     },
     "verified": true,
     "date": "2019-08-30 22:08:58",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167417151403130883,
@@ -6410,7 +6379,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "Next Election - Elpitiya local council  election likely to be held in the 1st week of October after SC ordered EC to hold elections for Elpitiya PS after accepting the rejected nominations list of Democratic United National Front.",
     "length": 230,
-    "likes": 92,
+    "likes": 91,
     "retweet": 9,
     "keywords": {
       "noun": [
@@ -6450,7 +6419,7 @@
     },
     "verified": true,
     "date": "2019-08-30 18:11:53",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167389277077946369,
@@ -6496,7 +6465,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:21:07",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167387650459701253,
@@ -6540,7 +6509,7 @@
     },
     "verified": true,
     "date": "2019-08-30 16:14:39",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   },
   {
     "id": 1167325147172200448,
@@ -6549,7 +6518,7 @@
     "image": "http://pbs.twimg.com/profile_images/637912443281272832/dAsVKNNU_normal.jpg",
     "text": "What happened when the New Zealand team bus broke down in the Sri Lankan hills \ud83c\uddf1\ud83c\uddf0\ud83c\udfcf\nhttps://t.co/GZlZa5HoLk",
     "length": 106,
-    "likes": 596,
+    "likes": 598,
     "retweet": 107,
     "keywords": {
       "noun": [
@@ -6574,6 +6543,6 @@
     },
     "verified": true,
     "date": "2019-08-30 12:06:17",
-    "updated": "2019-09-02 09:24:01"
+    "updated": "2019-09-02 09:50:55"
   }
 ]
