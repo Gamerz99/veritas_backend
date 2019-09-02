@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b64358e-70a5-440f-9821-5d0e79af893a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/feedback.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feedback_mod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_reviews/nonspam.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_reviews/spam.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_feedback.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyword_extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyword_extract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ranking.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentiment_mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/sentiment_mod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feedback.json" beforeDir="false" afterPath="$PROJECT_DIR$/feedback.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tweets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tweets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,23 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="149" column="66" selection-start-line="149" selection-start-column="66" selection-end-line="149" selection-end-column="66" />
+            <state relative-caret-position="444">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/feedback.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -81,12 +64,12 @@
         <option value="$PROJECT_DIR$/train_feedback.py" />
         <option value="$PROJECT_DIR$/feedback_mod.py" />
         <option value="$PROJECT_DIR$/keyword_extract.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/feedback.json" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="617" />
     <option name="y" value="27" />
     <option name="width" value="960" />
@@ -262,12 +245,12 @@
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.156563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.156563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3304253" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2628135" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,17 +304,6 @@
           <caret line="59" column="12" lean-forward="true" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_stream.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="89" column="8" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="84" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1567236644583" expanded="true" signature="3025:3103" ph="..." />
           </folding>
         </state>
       </provider>
@@ -420,16 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/keyword_extract.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="93" selection-start-line="93" selection-end-line="94" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/feedback_mod.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
@@ -461,20 +423,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/feedback.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="149" column="66" selection-start-line="149" selection-start-column="66" selection-end-line="149" selection-end-column="66" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyword_extract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="87" column="25" lean-forward="true" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="143" />
           <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feedback.json">
+    <entry file="file://$PROJECT_DIR$/twitter_stream.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="420">
+          <caret line="116" column="34" lean-forward="true" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+            <marker date="1567236644583" expanded="true" signature="3025:3103" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
