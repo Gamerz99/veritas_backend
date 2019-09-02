@@ -42,6 +42,7 @@ class Check(Resource):
         url_base = False
         check = ''
 
+        parser.add_argument('data', type=str, help="add news content", required=True)
         args = parser.parse_args()
         data = args['data']
 
