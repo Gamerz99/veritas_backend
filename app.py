@@ -19,6 +19,11 @@ def timer():
     threading.Timer(120, timer).start()
 
 
+def timer2():
+    rate_module.ranking()
+    threading.Timer(86400, timer2).start()
+
+
 class Home(Resource):
     def get(self):
         return {"message": "success"}, 200
@@ -53,8 +58,8 @@ class Check(Resource):
                 url_base = True
             if url == '':
                 recent = keyword_extract.extract(data)
-                print(recent)
                 url_base = False
+            print(recent)
             with open('tweets.json') as json_file:
                 data = json.load(json_file)
                 for d in data:
@@ -62,13 +67,15 @@ class Check(Resource):
                     tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date'], 'updated': d['updated']})
 
             for tweet in tweets:
-                threshold = 1
+                threshold1 = 1
+                threshold2 = 1
                 for count in range(1, 3):
-                    if result != 1 and keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'], threshold) and keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'],threshold):
+                    if result != 1 and keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'], threshold1) and keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'], threshold2):
                         result = count
                         related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes'],  'updated': tweet['updated']})
                         rescount = rescount + 1
-                    threshold = 0.2
+                    threshold1 = 0.2
+                    threshold2 = 0
             if url_base:
                 rate_module.rate(url, result, article)
 
@@ -87,9 +94,21 @@ class SourcePool(Resource):
         return {"message": "success", "response": source_list}, 200
 
 
+class RankingList(Resource):
+    def get(self):
+        ranking_list = []
+
+        with open('ranking.json') as json_file:
+            data = json.load(json_file)
+            for p in data:
+                ranking_list.append({"url": p['url'], "rating": +p['rating'], "updated": p['updated']})
+        return {"message": "success", "response": ranking_list}, 200
+
+
 api.add_resource(Home, "/")
 api.add_resource(Check, "/check")
 api.add_resource(SourcePool, "/source_pool")
+api.add_resource(RankingList, "/ranking_list")
 
 if __name__ == "__main__":
     twitter_stream.tweet_crowler()

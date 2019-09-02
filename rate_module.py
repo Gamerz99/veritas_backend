@@ -78,28 +78,17 @@ def syllables_count(word):
 
 
 def ranking():
+    ranking = []
     data = pd.read_json("rating.json")
     data["total"] = (data["valid"]*5) + data["smog"]
     data["rating"] = data["total"].rank()
     data.sort_values("rating", inplace=True, ascending=False)
 
     ratings = pd.DataFrame(data.groupby('url')['rating'].mean())
-    ratings.head()
-    print(ratings)
 
-    ratings.to_json('ranking.json', orient='index')
-
-    # with open('rating.json') as json_file:
-    #     data = json.load(json_file)
-    #     for d in data:
-    #         total = (d['rating']*5) + d['smog']
-    #         url.append(d['url'])
-    #         rating.append(total)
-    #
-    #         df = pd.DataFrame({
-    #             'url': url,
-    #             'value': total,
-    #         })
-    # df['value'] = df.groupby('url')['value'].rank(pct=True, ascending=False)
-    # result = df
-    # print(result)
+    with open('ranking.json', 'w') as tf:
+        updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        for r in ratings['rating'].keys():
+            ranking.append({'url': r, 'rating': ratings['rating'][r], 'updated': updated})
+        json.dump(ranking, tf, indent=2)
+    tf.close()

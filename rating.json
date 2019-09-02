@@ -1,50 +1,50 @@
 [
   {
-    "url": "www.bbc.com",
-    "valid": 0,
-    "date": "2019-08-27 10:23:11",
-    "smog": 0
-  },
-  {
-    "url": "www.nytimes.com",
+    "url": "www.news.sky.com",
     "valid": 1,
     "date": "2019-09-01 11:53:42",
     "smog": 3.1
   },
   {
-    "url": "www.nytimes.com",
+    "url": "www.news.sky.com",
     "valid": 0,
     "date": "2019-09-01 11:54:16",
     "smog": 3.1
   },
   {
-    "url": "www.ytimes.com",
-    "valid": 2,
-    "date": "2019-09-01 11:55:03",
-    "smog": 3.1
-  },
-  {
-    "url": "www.nytimes.com",
+    "url": "www.news.sky.com",
     "valid": 0,
     "date": "2019-09-01 11:56:23",
     "smog": 3.1
   },
   {
-    "url": "www.nytimes.com",
+    "url": "www.news.sky.com",
     "valid": 0,
     "date": "2019-09-01 12:46:47",
     "smog": 3.1
   },
   {
-    "url": "www.nytimes.com",
+    "url": "news.yahoo.com",
     "valid": 0,
-    "date": "2019-09-01 12:46:53",
+    "date": "2019-09-02 09:15:55",
     "smog": 3.1
   },
   {
-    "url": "www.nytimes.com",
+    "url": "news.yahoo.com",
     "valid": 0,
+    "date": "2019-09-02 09:18:43",
+    "smog": 3.1
+  },
+  {
+    "url": "news.yahoo.com",
+    "valid": 1,
+    "date": "2019-09-02 09:24:44",
+    "smog": 3.1
+  },
+  {
+    "url": "news.yahoo.com",
+    "valid": 1,
     "smog": 3.1,
-    "date": "2019-09-01 13:48:19"
+    "date": "2019-09-02 09:31:24"
   }
 ]
