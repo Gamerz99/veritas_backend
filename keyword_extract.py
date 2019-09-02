@@ -7,6 +7,7 @@ import nltk
 import string, re
 import sentiment_mod as s
 import rate_module
+import feedback_mod
 
 
 def get_wordnet_pos(pos_tag):
@@ -89,4 +90,6 @@ if __name__ == '__main__':
     # print(s.sentiment("The one day i really need to go into school and i'm not well"))
     # print(s.sentiment("right then nsb archive done and dusted, ape accounts up to date, freeland winner sorted.. haha now to do some real work"))
 
-    rate_module.ranking()
+    # rate_module.ranking()
+
+    print(feedback_mod.check_spam("goo amazing"))

@@ -7,6 +7,8 @@ import keyword_extract
 import rate_module
 from flask_cors import CORS
 import web_scrap
+import feedback_mod
+from datetime import datetime
 
 app = Flask(__name__)
 CORS(app)
@@ -16,12 +18,12 @@ parser = reqparse.RequestParser()
 
 def timer():
     twitter_stream.tweet_crowler()
-    threading.Timer(120, timer).start()
+    threading.Timer(300, timer).start()
 
 
 def timer2():
     rate_module.ranking()
-    threading.Timer(86400, timer2).start()
+    threading.Timer(300, timer2).start()
 
 
 class Home(Resource):
@@ -51,7 +53,6 @@ class Check(Resource):
                 check = ''
             if check != '':
                 url = data
-                #url = "https://www.nytimes.com/2019/02/25/opinion/trump-kim-hanoi-summit.html?action=click&module=Opinion&pgtype=Homepage"
             if url != '':
                 article = web_scrap.getArticle(url)
                 recent = web_scrap.getkeywords(article)
@@ -59,7 +60,6 @@ class Check(Resource):
             if url == '':
                 recent = keyword_extract.extract(data)
                 url_base = False
-            print(recent)
             with open('tweets.json') as json_file:
                 data = json.load(json_file)
                 for d in data:
@@ -105,10 +105,57 @@ class RankingList(Resource):
         return {"message": "success", "response": ranking_list}, 200
 
 
+class Feedback(Resource):
+    def post(self):
+
+        check = "good"
+        write_data = []
+        parser.add_argument('email', type=str, help="add email", required=True)
+        parser.add_argument('name', type=str, help="add name", required=True)
+        parser.add_argument('subject', type=str, help="add subject", required=True)
+        parser.add_argument('comment', type=str, help="add comment", required=True)
+        args = parser.parse_args()
+        name = args['name']
+        email = args['email']
+        subject = args['subject']
+        comment = args['comment']
+
+        if name:
+            try:
+                check = feedback_mod.check_spam(comment)
+                print(check)
+                if check == "good":
+                    with open('feedback.json') as json_file:
+                        data = json.load(json_file)
+                        for d in data:
+                            write_data.append({'name': d['name'], 'email': d['email'], 'subject': d['subject'], 'comment': d['comment'],  'date': d['date']})
+                    with open('feedback.json', 'w') as tf:
+                        date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+                        write_data.append({'name': name, 'email': email, 'subject': subject, 'comment': comment, 'date': date})
+                        json.dump(write_data, tf, indent=2)
+                    tf.close()
+                return {"message": "success"}, 200
+
+            except Exception as e:
+                print(e)
+                return {"message": "fail"}, 404
+
+    def get(self):
+        feedback_list = []
+
+        with open('feedback.json') as json_file:
+            data = json.load(json_file)
+            for p in data:
+                feedback_list.append({"name": p['name'], "email": p['email'], "subject": p['subject'], "comment": p['comment'], "date": p['date']})
+        return {"message": "success", "response": feedback_list}, 200
+
+
 api.add_resource(Home, "/")
 api.add_resource(Check, "/check")
 api.add_resource(SourcePool, "/source_pool")
 api.add_resource(RankingList, "/ranking_list")
+api.add_resource(Feedback, "/feedback")
 
 if __name__ == "__main__":
     twitter_stream.tweet_crowler()
