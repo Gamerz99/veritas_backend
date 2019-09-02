@@ -136,7 +136,7 @@ class Feedback(Resource):
                         write_data.append({'name': name, 'email': email, 'subject': subject, 'comment': comment, 'date': date})
                         json.dump(write_data, tf, indent=2)
                     tf.close()
-                return {"message": "success","response": check}, 200
+                return {"message": "success", "response": check}, 200
 
             except Exception as e:
                 print(e)
