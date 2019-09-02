@@ -85,6 +85,7 @@ def ranking():
     data.sort_values("rating", inplace=True, ascending=False)
 
     ratings = pd.DataFrame(data.groupby('url')['rating'].mean())
+    ratings.sort_values("rating", inplace=True, ascending=False)
 
     with open('ranking.json', 'w') as tf:
         updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')

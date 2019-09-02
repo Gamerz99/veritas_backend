@@ -1,17 +1,12 @@
 [
   {
     "url": "news.yahoo.com",
-    "rating": 4.166666666666667,
-    "updated": "2019-09-02 09:26:11"
+    "rating": 5.3,
+    "updated": "2019-09-02 10:41:40"
   },
   {
     "url": "www.news.sky.com",
-    "rating": 3.875,
-    "updated": "2019-09-02 09:26:11"
-  },
-  {
-    "url": "www.yahoo.com",
-    "rating": 8.0,
-    "updated": "2019-09-02 09:26:11"
+    "rating": 4.625,
+    "updated": "2019-09-02 10:41:40"
   }
 ]
