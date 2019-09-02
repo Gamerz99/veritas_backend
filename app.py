@@ -13,7 +13,6 @@ from datetime import datetime
 app = Flask(__name__)
 CORS(app)
 api = Api(app)
-parser = reqparse.RequestParser()
 
 
 def timer():
@@ -42,6 +41,7 @@ class Check(Resource):
         url_base = False
         check = ''
 
+        parser = reqparse.RequestParser()
         parser.add_argument('data', type=str, help="add news content", required=True)
         args = parser.parse_args()
         data = args['data']
@@ -110,6 +110,7 @@ class Feedback(Resource):
 
         check = "good"
         write_data = []
+        parser = reqparse.RequestParser()
         parser.add_argument('email', type=str, help="add email", required=True)
         parser.add_argument('name', type=str, help="add name", required=True)
         parser.add_argument('subject', type=str, help="add subject", required=True)
