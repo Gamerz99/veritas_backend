@@ -11,7 +11,10 @@ import credintials
 import numpy as np
 import pandas as pd
 import keyword_extract
-import pymongo
+from pymongo import MongoClient
+
+client = MongoClient("mongodb://gamerz:gamerz123@cluster0-shard-00-00-tujhc.mongodb.net:27017,cluster0-shard-00-01-tujhc.mongodb.net:27017,cluster0-shard-00-02-tujhc.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
+db = client.veritas
 
 
 # # # # TWITTER CLIENT # # # #
@@ -88,6 +91,7 @@ class TweetAnalyzer():
 
     def tweets_to_data_frame(self, tweets):
         keywords = []
+
         df = pd.DataFrame(data=[tweet.text for tweet in tweets], columns=['tweets'])
         for t in tweets:
             keywords.append(keyword_extract.extract(t.text))
@@ -100,37 +104,18 @@ class TweetAnalyzer():
         return df
 
     def tweets_to_json(self, tweets):
-        write_data = []
-
-        if os.path.exists("tweets.json"):
-            os.remove("tweets.json")
-
         try:
-            with open(self.fetched_tweets, 'w') as tf:
-                for tweet in tweets:
-                    updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                    date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
-                    write_data.append({'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'updated': updated})
-                json.dump(write_data, tf, indent=2)
-            tf.close()
+            db.tweets.drop()
+            for tweet in tweets:
+                updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
+                write_data = {'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'updated': updated}
+                db.tweets.insert_one(write_data)
             print("ss")
             return True
         except BaseException as e:
             print (e)
             return True
-
-
-def db():
-    uri = 'ds263927.mlab.com'
-
-    connection = pymongo.MongoClient(uri,63927)
-    db = connection['veritas']
-    db.authenticate('gamerz', 'gamerz123')
-
-    db.users.insert_one({
-        "user1": "hello"
-    })
-
 
 
 def utc_to_local(utc_dt):
@@ -177,7 +162,6 @@ if __name__ == '__main__':
     api = twitter_client.get_twitter_client_api()
 
     #tweet_crowler()
-    db()
     # tweets = twitter_client.get_user_timeline_tweets(source_list, 50)
     # tweet_analyzer.tweets_to_json(tweets)
 

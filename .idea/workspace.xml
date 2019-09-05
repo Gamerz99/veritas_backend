@@ -4,11 +4,12 @@
     <list default="true" id="8b64358e-70a5-440f-9821-5d0e79af893a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feedback.json" beforeDir="false" afterPath="$PROJECT_DIR$/feedback.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/clock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/keyword_extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyword_extract.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ranking.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rating.json" beforeDir="false" afterPath="$PROJECT_DIR$/rating.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tweets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/rate_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweets.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/twitter_stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter_stream.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,22 +23,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="491">
+              <caret line="168" column="3" lean-forward="true" selection-start-line="168" selection-start-column="3" selection-end-line="169" selection-end-column="14" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/keyword_extract.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,6 +47,8 @@
       <find>You have won ?1,000 cash or a ?2,000 prize! To claim, call09050000327. T&amp;C: RSTM, SW7 3SS. 150ppm</find>
       <find>You have</find>
       <find>short_neg</find>
+      <find>mp</find>
+      <find>Brexit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,8 +65,6 @@
         <option value="$PROJECT_DIR$/web_scrap.py" />
         <option value="$PROJECT_DIR$/NLP for Text Classification (Jupyter Notebook).py" />
         <option value="$PROJECT_DIR$/ranking.json" />
-        <option value="$PROJECT_DIR$/clock.py" />
-        <option value="$PROJECT_DIR$/rate_module.py" />
         <option value="$PROJECT_DIR$/rating.json" />
         <option value="$PROJECT_DIR$/sentiment_mod.py" />
         <option value="$PROJECT_DIR$/train_feedback.py" />
@@ -83,8 +72,10 @@
         <option value="$PROJECT_DIR$/feedback.json" />
         <option value="$PROJECT_DIR$/short_reviews/spam.txt" />
         <option value="$PROJECT_DIR$/short_reviews/nonspam.txt" />
-        <option value="$PROJECT_DIR$/twitter_stream.py" />
         <option value="$PROJECT_DIR$/keyword_extract.py" />
+        <option value="$PROJECT_DIR$/clock.py" />
+        <option value="$PROJECT_DIR$/twitter_stream.py" />
+        <option value="$PROJECT_DIR$/rate_module.py" />
         <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
@@ -101,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.keyword_extract">
     <configuration name="NLP for Text Classification (Jupyter Notebook)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="veritas_updated" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,10 +231,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.keyword_extract" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.twitter_stream" />
         <item itemvalue="Python.train_feedback" />
-        <item itemvalue="Python.keyword_extract" />
         <item itemvalue="Python.NLP for Text Classification (Jupyter Notebook)" />
       </list>
     </recent_temporary>
@@ -263,13 +254,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.156563" />
       <window_info id="Structure" order="1" sideWeight="0.50073856" side_tool="true" weight="0.156563" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.261723" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24863686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,23 +318,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SMSSpamCollection" />
     <entry file="file://$PROJECT_DIR$/feedback_train.py" />
-    <entry file="file://$PROJECT_DIR$/clock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweets.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/short_reviews/positive.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -356,16 +331,6 @@
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_stream.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -431,40 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rating.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-500">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ranking.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rate_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyword_extract.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/lib/python3.7/ssl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -479,10 +410,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tweets.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="2251" column="43" selection-start-line="2251" selection-start-column="37" selection-end-line="2251" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/twitter/twitterclient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="323" column="18" selection-start-line="323" selection-start-column="17" selection-end-line="323" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rating.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-938">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ranking.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keyword_extract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="73" column="62" lean-forward="true" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="87" column="58" lean-forward="true" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="491">
+          <caret line="168" column="3" lean-forward="true" selection-start-line="168" selection-start-column="3" selection-end-line="169" selection-end-column="14" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>

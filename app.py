@@ -10,20 +10,24 @@ import web_scrap
 import feedback_mod
 from datetime import datetime
 import sentiment_mod as s
+from pymongo import MongoClient
+
 
 app = Flask(__name__)
 CORS(app)
 api = Api(app)
+client = MongoClient("mongodb://gamerz:gamerz123@cluster0-shard-00-00-tujhc.mongodb.net:27017,cluster0-shard-00-01-tujhc.mongodb.net:27017,cluster0-shard-00-02-tujhc.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
+db = client.veritas
 
 
 def timer():
     twitter_stream.tweet_crowler()
-    threading.Timer(300, timer).start()
+    threading.Timer(900, timer).start()
 
 
 def timer2():
     rate_module.ranking()
-    threading.Timer(300, timer2).start()
+    threading.Timer(900, timer2).start()
 
 
 class Home(Resource):
@@ -63,13 +67,8 @@ class Check(Resource):
                 url_base = False
 
             resentiment = s.sentiment(data)
-            print("Input text sentiment value :", resentiment)
-
-            with open('tweets.json') as json_file:
-                data = json.load(json_file)
-                for d in data:
-                    keywords = {'verb': d['keywords']['verb'], 'noun': d['keywords']['noun'], 'adj': d['keywords']['adj'], 'adv': d['keywords']['adv']}
-                    tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date'], 'updated': d['updated']})
+            print("Input text : ", data, " --- sentiment value : ", resentiment)
+            tweets = db.tweets.find({})
 
             for tweet in tweets:
                 ratio1 = keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'])
@@ -83,7 +82,7 @@ class Check(Resource):
                     rescount = rescount + 1
                 elif ratio1 >= 0.2 and ratio2 >= 0:
                     twsentiment = s.sentiment(tweet['text'])
-                    print("Related tweets sentiment value :", twsentiment)
+                    print("Related tweets : ", tweet['text'], " --- sentiment value : ", twsentiment)
                     if resentiment[0] == twsentiment[0]:
                         result = 2
                         related.append(
@@ -106,6 +105,7 @@ class SourcePool(Resource):
             data = json.load(json_file)
             for p in data['pool']:
                 source_list.append({"name": p['name'], "screen_name": '@'+p['screen_name'], "image": p['image']})
+
         return {"message": "success", "response": source_list}, 200
 
 
@@ -113,10 +113,10 @@ class RankingList(Resource):
     def get(self):
         ranking_list = []
 
-        with open('ranking.json') as json_file:
-            data = json.load(json_file)
-            for p in data:
-                ranking_list.append({"url": p['url'], "rating": +p['rating'], "updated": p['updated']})
+        data = db.ranking.find({})
+        for p in data:
+            ranking_list.append({"url": p['url'], "rating": +p['rating'], "updated": p['updated']})
+
         return {"message": "success", "response": ranking_list}, 200
 
 
@@ -124,7 +124,6 @@ class Feedback(Resource):
     def post(self):
 
         check = "good"
-        write_data = []
         parser = reqparse.RequestParser()
         parser.add_argument('email', type=str, help="add email", required=True)
         parser.add_argument('name', type=str, help="add name", required=True)
@@ -141,16 +140,9 @@ class Feedback(Resource):
                 check = feedback_mod.check_spam(comment)
                 print(check)
                 if check == "good":
-                    with open('feedback.json') as json_file:
-                        data = json.load(json_file)
-                        for d in data:
-                            write_data.append({'name': d['name'], 'email': d['email'], 'subject': d['subject'], 'comment': d['comment'],  'date': d['date']})
-                    with open('feedback.json', 'w') as tf:
-                        date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    db.feedback.insert_one({'name': name, 'email': email, 'subject': subject, 'comment': comment, 'date': date})
 
-                        write_data.append({'name': name, 'email': email, 'subject': subject, 'comment': comment, 'date': date})
-                        json.dump(write_data, tf, indent=2)
-                    tf.close()
                 return {"message": "success", "response": check}, 200
 
             except Exception as e:
@@ -160,10 +152,10 @@ class Feedback(Resource):
     def get(self):
         feedback_list = []
 
-        with open('feedback.json') as json_file:
-            data = json.load(json_file)
-            for p in data:
-                feedback_list.append({"name": p['name'], "email": p['email'], "subject": p['subject'], "comment": p['comment'], "date": p['date']})
+        data = db.feedback.find({})
+        for p in data:
+            feedback_list.append({"name": p['name'], "email": p['email'], "subject": p['subject'], "comment": p['comment'], "date": p['date']})
+
         return {"message": "success", "response": feedback_list}, 200
 
 
@@ -174,8 +166,8 @@ api.add_resource(RankingList, "/ranking_list")
 api.add_resource(Feedback, "/feedback")
 
 if __name__ == "__main__":
-    timer()
-    timer2()
+    # timer()
+    # timer2()
     app.run()
 
 

@@ -4,28 +4,26 @@ from urllib.parse import urlparse
 from textstat.textstat import textstatistics, legacy_round
 from nltk.tokenize import PunktSentenceTokenizer
 import pandas as pd
+from pymongo import MongoClient
+
+
+client = MongoClient("mongodb://gamerz:gamerz123@cluster0-shard-00-00-tujhc.mongodb.net:27017,cluster0-shard-00-01-tujhc.mongodb.net:27017,cluster0-shard-00-02-tujhc.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
+db = client.veritas
 
 
 def rate(url, status, text):
-    write_data = []
     valid = 0
     url = extract_domain(url)
     try:
         smog = smog_index(text)
-        with open('rating.json') as json_file:
-            data = json.load(json_file)
-            for d in data:
-                write_data.append({'url': d['url'], 'valid': d['valid'], 'date': d['date'], 'smog': d['smog']})
-        with open('rating.json', 'w') as tf:
-            updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            if status == 1:
-                valid = 2
-            if status == 2:
-                valid = 1
+        updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        if status == 1:
+            valid = 2
+        if status == 2:
+            valid = 1
 
-            write_data.append({'url': url, 'valid': valid, 'smog': smog, 'date': updated})
-            json.dump(write_data, tf, indent=2)
-        tf.close()
+        db.rating.insert_one({'url': url, 'valid': valid, 'smog': smog, 'date': updated})
+
         return True
     except Exception as e:
         print(e)
@@ -78,8 +76,8 @@ def syllables_count(word):
 
 
 def ranking():
-    ranking = []
-    data = pd.read_json("rating.json")
+    rate_list = db.rating.find({})
+    data = pd.DataFrame(list(rate_list))
     data["total"] = (data["valid"]*5) + data["smog"]
     data["rating"] = data["total"].rank()
     data.sort_values("rating", inplace=True, ascending=False)
@@ -87,9 +85,8 @@ def ranking():
     ratings = pd.DataFrame(data.groupby('url')['rating'].mean())
     ratings.sort_values("rating", inplace=True, ascending=False)
 
-    with open('ranking.json', 'w') as tf:
-        updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        for r in ratings['rating'].keys():
-            ranking.append({'url': r, 'rating': ratings['rating'][r], 'updated': updated})
-        json.dump(ranking, tf, indent=2)
-    tf.close()
+    updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    db.ranking.drop()
+    for r in ratings['rating'].keys():
+        db.ranking.insert_one({'url': r, 'rating': ratings['rating'][r], 'updated': updated})
+
