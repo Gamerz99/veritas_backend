@@ -50,7 +50,55 @@
   {
     "url": "news.yahoo.com",
     "valid": 0,
+    "date": "2019-09-02 09:51:10",
+    "smog": 3.1
+  },
+  {
+    "url": "news.yahoo.com",
+    "valid": 1,
+    "date": "2019-09-03 09:35:04",
+    "smog": 3.1
+  },
+  {
+    "url": "www.yahoo.com",
+    "valid": 1,
+    "date": "2019-09-03 09:36:33",
+    "smog": 3.1
+  },
+  {
+    "url": "www.nbcnews.com",
+    "valid": 1,
+    "date": "2019-09-03 09:41:31",
+    "smog": 3.1
+  },
+  {
+    "url": "news.yahoo.com",
+    "valid": 1,
+    "date": "2019-09-03 10:57:53",
+    "smog": 3.1
+  },
+  {
+    "url": "www.nbcnews.com",
+    "valid": 0,
+    "date": "2019-09-05 12:06:50",
+    "smog": 3.1
+  },
+  {
+    "url": "edition.cnn.com",
+    "valid": 0,
+    "date": "2019-09-05 12:07:29",
+    "smog": 3.1
+  },
+  {
+    "url": "edition.cnn.com",
+    "valid": 1,
+    "date": "2019-09-05 12:08:13",
+    "smog": 3.1
+  },
+  {
+    "url": "edition.cnn.com",
+    "valid": 1,
     "smog": 3.1,
-    "date": "2019-09-02 09:51:10"
+    "date": "2019-09-05 12:10:12"
   }
 ]

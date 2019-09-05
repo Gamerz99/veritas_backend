@@ -1,12 +1,27 @@
 [
   {
+    "url": "www.yahoo.com",
+    "rating": 13.0,
+    "updated": "2019-09-05 12:33:16"
+  },
+  {
+    "url": "edition.cnn.com",
+    "rating": 10.166666666666666,
+    "updated": "2019-09-05 12:33:16"
+  },
+  {
     "url": "news.yahoo.com",
-    "rating": 5.3,
-    "updated": "2019-09-02 16:24:19"
+    "rating": 9.357142857142858,
+    "updated": "2019-09-05 12:33:16"
+  },
+  {
+    "url": "www.nbcnews.com",
+    "rating": 8.75,
+    "updated": "2019-09-05 12:33:16"
   },
   {
     "url": "www.news.sky.com",
-    "rating": 4.625,
-    "updated": "2019-09-02 16:24:19"
+    "rating": 6.625,
+    "updated": "2019-09-05 12:33:16"
   }
 ]

@@ -11,6 +11,7 @@ import credintials
 import numpy as np
 import pandas as pd
 import keyword_extract
+import pymongo
 
 
 # # # # TWITTER CLIENT # # # #
@@ -119,6 +120,19 @@ class TweetAnalyzer():
             return True
 
 
+def db():
+    uri = 'ds263927.mlab.com'
+
+    connection = pymongo.MongoClient(uri,63927)
+    db = connection['veritas']
+    db.authenticate('gamerz', 'gamerz123')
+
+    db.users.insert_one({
+        "user1": "hello"
+    })
+
+
+
 def utc_to_local(utc_dt):
     return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
 
@@ -162,8 +176,8 @@ if __name__ == '__main__':
     tweet_analyzer = TweetAnalyzer(fetched_tweets)
     api = twitter_client.get_twitter_client_api()
 
-    tweet_crowler()
-
+    #tweet_crowler()
+    db()
     # tweets = twitter_client.get_user_timeline_tweets(source_list, 50)
     # tweet_analyzer.tweets_to_json(tweets)
 

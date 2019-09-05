@@ -9,6 +9,7 @@ from flask_cors import CORS
 import web_scrap
 import feedback_mod
 from datetime import datetime
+import sentiment_mod as s
 
 app = Flask(__name__)
 CORS(app)
@@ -60,6 +61,10 @@ class Check(Resource):
             if url == '':
                 recent = keyword_extract.extract(data)
                 url_base = False
+
+            resentiment = s.sentiment(data)
+            print("Input text sentiment value :", resentiment)
+
             with open('tweets.json') as json_file:
                 data = json.load(json_file)
                 for d in data:
@@ -67,15 +72,25 @@ class Check(Resource):
                     tweets.append({'keywords': keywords, 'text': d['text'], 'likes': d['likes'], 'name': d['name'], 'image': d['image'], 'date': d['date'], 'updated': d['updated']})
 
             for tweet in tweets:
-                threshold1 = 1
-                threshold2 = 1
-                for count in range(1, 3):
-                    if result != 1 and keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'], threshold1) and keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'], threshold2):
-                        result = count
-                        related.append({'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'], 'likes': tweet['likes'],  'updated': tweet['updated']})
+                ratio1 = keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'])
+                ratio2 = keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'])
+
+                if ratio1 == 1 and ratio2 == 1:
+                    result = 1
+                    related.append(
+                        {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
+                         'likes': tweet['likes'], 'updated': tweet['updated']})
+                    rescount = rescount + 1
+                elif ratio1 >= 0.2 and ratio2 >= 0:
+                    twsentiment = s.sentiment(tweet['text'])
+                    print("Related tweets sentiment value :", twsentiment)
+                    if resentiment[0] == twsentiment[0]:
+                        result = 2
+                        related.append(
+                            {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
+                             'likes': tweet['likes'], 'updated': tweet['updated']})
                         rescount = rescount + 1
-                    threshold1 = 0.2
-                    threshold2 = 0
+
             if url_base:
                 rate_module.rate(url, result, article)
 
@@ -159,8 +174,10 @@ api.add_resource(RankingList, "/ranking_list")
 api.add_resource(Feedback, "/feedback")
 
 if __name__ == "__main__":
-    twitter_stream.tweet_crowler()
+    timer()
+    timer2()
     app.run()
+
 
 
 

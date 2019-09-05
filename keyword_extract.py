@@ -23,11 +23,11 @@ def get_wordnet_pos(pos_tag):
         return (pos_tag[0], wordnet.NOUN)
 
 
-def sentence_match(lemmae_a, lemmae_b, threshold):
+def sentence_match(lemmae_a, lemmae_b):
 
     # Calculate Jaccard similarity
     ratio = len(set(lemmae_a).intersection(lemmae_b)) / float(len(set(lemmae_a).union(lemmae_b)))
-    return (ratio >= threshold)
+    return ratio
 
 
 def extract(news):
