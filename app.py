@@ -71,8 +71,13 @@ class Check(Resource):
             tweets = db.tweets.find({})
 
             for tweet in tweets:
-                ratio1 = keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'])
-                ratio2 = keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'])
+                try:
+                    ratio1 = keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'])
+                    ratio2 = keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'])
+
+                except BaseException as e:
+                    ratio2 = 0
+                    ratio1 = 0
 
                 if ratio1 == 1 and ratio2 == 1:
                     result = 1
