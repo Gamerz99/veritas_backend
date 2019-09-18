@@ -12,6 +12,7 @@ import numpy as np
 import pandas as pd
 import keyword_extract
 from pymongo import MongoClient
+import sentiment_mod as s
 
 client = MongoClient("mongodb://gamerz:gamerz123@cluster0-shard-00-00-tujhc.mongodb.net:27017,cluster0-shard-00-01-tujhc.mongodb.net:27017,cluster0-shard-00-02-tujhc.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
 db = client.veritas
@@ -107,9 +108,10 @@ class TweetAnalyzer():
         try:
             db.tweets.drop()
             for tweet in tweets:
+                twsentiment = s.sentiment(tweet.full_text)
                 updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                 date = utc_to_local(tweet.created_at).strftime('%Y-%m-%d %H:%M:%S')
-                write_data = {'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'date': date, 'updated': updated}
+                write_data = {'id': tweet.id, 'name': tweet.user.name, 'screen_name': tweet.user.screen_name, 'image': tweet.user.profile_image_url, 'text': tweet.full_text, 'length': len(tweet.full_text), 'likes': tweet.favorite_count, 'retweet': tweet.retweet_count, 'keywords': keyword_extract.extract(tweet.full_text), 'verified': tweet.user.verified, 'sentiment': twsentiment[0], 'date': date, 'updated': updated}
                 db.tweets.insert_one(write_data)
             print("ss")
             return True

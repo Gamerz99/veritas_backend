@@ -86,9 +86,8 @@ class Check(Resource):
                          'likes': tweet['likes'], 'updated': tweet['updated']})
                     rescount = rescount + 1
                 elif ratio1 >= 0.2 and ratio2 >= 0:
-                    twsentiment = s.sentiment(tweet['text'])
-                    print("Related tweets : ", tweet['text'], " --- sentiment value : ", twsentiment)
-                    if resentiment[0] == twsentiment[0]:
+                    print("Related tweets : ", tweet['text'], " --- sentiment value : ", tweet['sentiment'])
+                    if resentiment[0] == tweet['sentiment']:
                         result = 2
                         related.append(
                             {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
@@ -171,7 +170,7 @@ api.add_resource(RankingList, "/ranking_list")
 api.add_resource(Feedback, "/feedback")
 
 if __name__ == "__main__":
-    # timer()
+    timer()
     # timer2()
     app.run()
 
