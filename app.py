@@ -67,7 +67,7 @@ class Check(Resource):
                 url_base = False
 
             resentiment = s.sentiment(data)
-            print("Input text : ", data, " --- sentiment value : ", resentiment)
+            print("Input text : ", data, " --- sentiment value : ", resentiment[0])
             tweets = db.tweets.find({})
 
             for tweet in tweets:
@@ -80,6 +80,7 @@ class Check(Resource):
                     ratio1 = 0
 
                 if ratio1 == 1 and ratio2 == 1:
+                    print("Related tweets : ", tweet['text'], " --- sentiment value : ", tweet['sentiment'])
                     result = 1
                     related.append(
                         {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
@@ -88,7 +89,8 @@ class Check(Resource):
                 elif ratio1 >= 0.2 and ratio2 >= 0:
                     print("Related tweets : ", tweet['text'], " --- sentiment value : ", tweet['sentiment'])
                     if resentiment[0] == tweet['sentiment']:
-                        result = 2
+                        if result != 1:
+                            result = 2
                         related.append(
                             {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
                              'likes': tweet['likes'], 'updated': tweet['updated']})
@@ -170,7 +172,7 @@ api.add_resource(RankingList, "/ranking_list")
 api.add_resource(Feedback, "/feedback")
 
 if __name__ == "__main__":
-    timer()
+    #timer()
     # timer2()
     app.run()
 

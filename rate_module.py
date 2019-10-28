@@ -78,15 +78,14 @@ def syllables_count(word):
 def ranking():
     rate_list = db.rating.find({})
     data = pd.DataFrame(list(rate_list))
-    data["total"] = (data["valid"]*5) + data["smog"]
-    data["rating"] = data["total"].rank()
-    data.sort_values("rating", inplace=True, ascending=False)
+    data["total"] = ((data["valid"]*2.5) + data["smog"])/2
+    data.sort_values("total", inplace=True, ascending=False)
 
-    ratings = pd.DataFrame(data.groupby('url')['rating'].mean())
-    ratings.sort_values("rating", inplace=True, ascending=False)
+    ratings = pd.DataFrame(data.groupby('url')['total'].mean())
+    ratings.sort_values("total", inplace=True, ascending=False)
 
     updated = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     db.ranking.drop()
-    for r in ratings['rating'].keys():
-        db.ranking.insert_one({'url': r, 'rating': ratings['rating'][r], 'updated': updated})
+    for r in ratings['total'].keys():
+        db.ranking.insert_one({'url': r, 'rating': ratings['total'][r], 'updated': updated})
 
