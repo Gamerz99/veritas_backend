@@ -36,7 +36,7 @@ preshed==2.0.1
 protobuf==3.9.1
 pyasn1==0.4.6
 pyasn1-modules==0.2.6
-pycryptodome==3.4.3
+pycryptodome==3.6.6
 pymongo==3.9.0
 Pyphen==0.9.5
 PySocks==1.7.0
