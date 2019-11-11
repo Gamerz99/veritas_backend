@@ -1,4 +1,3 @@
-#File: sentiment_mod.py
 import random
 import pickle
 from nltk.classify import ClassifierI
@@ -28,6 +27,15 @@ class VoteClassifier(ClassifierI):
         return conf
 
 
+def find_features(document):
+    words = word_tokenize(document)
+    features = {}
+    for w in word_features:
+        features[w] = (w in words)
+
+    return features
+
+
 documents_f = open("pickled_algos/documents.pickle", "rb")
 documents = pickle.load(documents_f)
 documents_f.close()
@@ -36,15 +44,6 @@ documents_f.close()
 word_features5k_f = open("pickled_algos/word_features5k.pickle", "rb")
 word_features = pickle.load(word_features5k_f)
 word_features5k_f.close()
-
-
-def find_features(document):
-    words = word_tokenize(document)
-    features = {}
-    for w in word_features:
-        features[w] = (w in words)
-
-    return features
 
 
 featuresets_f = open("pickled_algos/featuresets.pickle", "rb")

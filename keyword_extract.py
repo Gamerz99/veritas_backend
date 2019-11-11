@@ -2,15 +2,14 @@ from nltk.tokenize import TweetTokenizer
 import nltk.corpus
 import nltk.stem.snowball
 from nltk.corpus import wordnet
-from nltk.stem import PorterStemmer
 import nltk
 import string, re
-import sentiment_mod as s
+import twitter_stream
 import rate_module
-import feedback_mod
 
 
 def get_wordnet_pos(pos_tag):
+
     if pos_tag[1].startswith('J'):
         return (pos_tag[0], wordnet.ADJ)
     elif pos_tag[1].startswith('V'):
@@ -90,4 +89,5 @@ if __name__ == '__main__':
     # print(s.sentiment("The one day i really need to go into school and i'm not well"))
     # print(s.sentiment("right then nsb archive done and dusted, ape accounts up to date, freeland winner sorted.. haha now to do some real work"))
 
+    #twitter_stream.tweet_crowler()
     rate_module.ranking()

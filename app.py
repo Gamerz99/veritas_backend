@@ -1,4 +1,4 @@
-from flask_restful import Resource,Api,reqparse
+from flask_restful import Resource, Api, reqparse
 from flask import Flask
 import twitter_stream
 import time, threading
@@ -45,6 +45,7 @@ class Check(Resource):
         url = ''
         url_base = False
         check = ''
+        rvalue = 0.2
 
         parser = reqparse.RequestParser()
         parser.add_argument('data', type=str, help="add news content", required=True)
@@ -66,15 +67,16 @@ class Check(Resource):
                 recent = keyword_extract.extract(data)
                 url_base = False
 
-            resentiment = s.sentiment(data)
-            print("Input text : ", data, " --- sentiment value : ", resentiment[0])
+            if url_base:
+                resentiment = s.sentiment(data)
+                print("Input text : ", data, " --- sentiment value : ", resentiment[0])
+                rvalue = 0.13
             tweets = db.tweets.find({})
 
             for tweet in tweets:
                 try:
                     ratio1 = keyword_extract.sentence_match(tweet['keywords']['noun'], recent['noun'])
                     ratio2 = keyword_extract.sentence_match(tweet['keywords']['verb'], recent['verb'])
-
                 except BaseException as e:
                     ratio2 = 0
                     ratio1 = 0
@@ -86,13 +88,23 @@ class Check(Resource):
                         {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
                          'likes': tweet['likes'], 'updated': tweet['updated']})
                     rescount = rescount + 1
-                elif ratio1 >= 0.2 and ratio2 >= 0:
-                    print("Related tweets : ", tweet['text'], " --- sentiment value : ", tweet['sentiment'])
-                    if resentiment[0] == tweet['sentiment']:
+
+                elif ratio1 >= rvalue and ratio2 >= 0:
+                    if url_base:
+                        print("Related tweets : ", tweet['text'], " --- sentiment value : ", tweet['sentiment'])
+                        if resentiment[0] == tweet['sentiment']:
+                            if result != 1:
+                                result = 2
+                            related.append(
+                                {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
+                                 'likes': tweet['likes'], 'updated': tweet['updated']})
+                            rescount = rescount + 1
+                    else:
                         if result != 1:
                             result = 2
                         related.append(
-                            {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'], 'date': tweet['date'],
+                            {'text': tweet['text'], 'name': tweet['name'], 'image': tweet['image'],
+                             'date': tweet['date'],
                              'likes': tweet['likes'], 'updated': tweet['updated']})
                         rescount = rescount + 1
 
