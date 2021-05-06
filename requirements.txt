@@ -11,7 +11,7 @@ dnspython==1.15.0
 dnspython3==1.15.0
 Flask==1.1.1
 Flask-APScheduler-fork==1.5.4
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 gcloud==0.17.0
 googleapis-common-protos==1.6.0
